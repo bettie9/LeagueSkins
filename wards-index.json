@@ -1,0 +1,1309 @@
+{
+  "wards": {
+    "1": {
+      "id": 1,
+      "name": "Bat-o-lantern Ward",
+      "file": "Bat-o-lantern Ward.fantome"
+    },
+    "2": {
+      "id": 2,
+      "name": "Haunting Ward",
+      "file": "Haunting Ward.fantome"
+    },
+    "3": {
+      "id": 3,
+      "name": "Widow Ward",
+      "file": "Widow Ward.fantome"
+    },
+    "4": {
+      "id": 4,
+      "name": "Deadfall Ward",
+      "file": "Deadfall Ward.fantome"
+    },
+    "5": {
+      "id": 5,
+      "name": "Tomb Angel Ward",
+      "file": "Tomb Angel Ward.fantome"
+    },
+    "6": {
+      "id": 6,
+      "name": "Snowman Ward",
+      "file": "Snowman Ward.fantome"
+    },
+    "7": {
+      "id": 7,
+      "name": "Gingerbread Ward",
+      "file": "Gingerbread Ward.fantome"
+    },
+    "8": {
+      "id": 8,
+      "name": "Lantern of the Serpent Ward",
+      "file": "Lantern of the Serpent Ward.fantome"
+    },
+    "9": {
+      "id": 9,
+      "name": "Banner of the Serpent Ward",
+      "file": "Banner of the Serpent Ward.fantome"
+    },
+    "10": {
+      "id": 10,
+      "name": "Starcall Ward",
+      "file": "Starcall Ward.fantome"
+    },
+    "11": {
+      "id": 11,
+      "name": "Ward of Draven",
+      "file": "Ward of Draven.fantome"
+    },
+    "12": {
+      "id": 12,
+      "name": "Luminosity Ward",
+      "file": "Luminosity Ward.fantome"
+    },
+    "13": {
+      "id": 13,
+      "name": "Season 3 Victorious Ward",
+      "file": "Season 3 Victorious Ward.fantome"
+    },
+    "14": {
+      "id": 14,
+      "name": "Worlds 2013 Ward",
+      "file": "Worlds 2013 Ward.fantome"
+    },
+    "15": {
+      "id": 15,
+      "name": "Candy Cane Ward",
+      "file": "Candy Cane Ward.fantome"
+    },
+    "16": {
+      "id": 16,
+      "name": "Banner of the Horse Ward",
+      "file": "Banner of the Horse Ward.fantome"
+    },
+    "17": {
+      "id": 17,
+      "name": "Gong Ward",
+      "file": "Gong Ward.fantome"
+    },
+    "18": {
+      "id": 18,
+      "name": "Bouquet Ward",
+      "file": "Bouquet Ward.fantome"
+    },
+    "19": {
+      "id": 19,
+      "name": "Fist Bump Ward",
+      "file": "Fist Bump Ward.fantome"
+    },
+    "20": {
+      "id": 20,
+      "name": "SKT T1 Ward",
+      "file": "SKT T1 Ward.fantome"
+    },
+    "21": {
+      "id": 21,
+      "name": "Dragonslayer Ward",
+      "file": "Dragonslayer Ward.fantome"
+    },
+    "22": {
+      "id": 22,
+      "name": "All-Star 2014 Ward",
+      "file": "All-Star 2014 Ward.fantome"
+    },
+    "23": {
+      "id": 23,
+      "name": "Golden Goal Ward",
+      "file": "Golden Goal Ward.fantome"
+    },
+    "24": {
+      "id": 24,
+      "name": "Mecha Ward",
+      "file": "Mecha Ward.fantome"
+    },
+    "25": {
+      "id": 25,
+      "name": "Armordillo Ward",
+      "file": "Armordillo Ward.fantome"
+    },
+    "26": {
+      "id": 26,
+      "name": "Sad Mummy Ward",
+      "file": "Sad Mummy Ward.fantome"
+    },
+    "27": {
+      "id": 27,
+      "name": "Sun Disc Ward",
+      "file": "Sun Disc Ward.fantome"
+    },
+    "28": {
+      "id": 28,
+      "name": "Worlds 2014 Ward",
+      "file": "Worlds 2014 Ward.fantome"
+    },
+    "29": {
+      "id": 29,
+      "name": "2014 Conquering Ward",
+      "file": "2014 Conquering Ward.fantome"
+    },
+    "30": {
+      "id": 30,
+      "name": "2014 Triumphant Ward",
+      "file": "2014 Triumphant Ward.fantome"
+    },
+    "31": {
+      "id": 31,
+      "name": "2014 Victorious Ward",
+      "file": "2014 Victorious Ward.fantome"
+    },
+    "32": {
+      "id": 32,
+      "name": "Battlecast Ward",
+      "file": "Battlecast Ward.fantome"
+    },
+    "33": {
+      "id": 33,
+      "name": "Poro Ward",
+      "file": "Poro Ward.fantome"
+    },
+    "34": {
+      "id": 34,
+      "name": "Astronaut Poro Ward",
+      "file": "Astronaut Poro Ward.fantome"
+    },
+    "35": {
+      "id": 35,
+      "name": "Gentleman Poro Ward",
+      "file": "Gentleman Poro Ward.fantome"
+    },
+    "36": {
+      "id": 36,
+      "name": "Battlecast Poro Ward",
+      "file": "Battlecast Poro Ward.fantome"
+    },
+    "37": {
+      "id": 37,
+      "name": "Dragonslayer Poro Ward",
+      "file": "Dragonslayer Poro Ward.fantome"
+    },
+    "38": {
+      "id": 38,
+      "name": "Underworld Poro Ward",
+      "file": "Underworld Poro Ward.fantome"
+    },
+    "39": {
+      "id": 39,
+      "name": "Firecracker Ward",
+      "file": "Firecracker Ward.fantome"
+    },
+    "40": {
+      "id": 40,
+      "name": "Heartseeker Ward",
+      "file": "Heartseeker Ward.fantome"
+    },
+    "41": {
+      "id": 41,
+      "name": "Urf Ward",
+      "file": "Urf Ward.fantome"
+    },
+    "42": {
+      "id": 42,
+      "name": "Mother Serpent Ward",
+      "file": "Mother Serpent Ward.fantome"
+    },
+    "43": {
+      "id": 43,
+      "name": "Slaughter Fleet Ward",
+      "file": "Slaughter Fleet Ward.fantome"
+    },
+    "44": {
+      "id": 44,
+      "name": "Optic Enhancer Ward",
+      "file": "Optic Enhancer Ward.fantome"
+    },
+    "45": {
+      "id": 45,
+      "name": "Worlds 2015 Ward",
+      "file": "Worlds 2015 Ward.fantome"
+    },
+    "46": {
+      "id": 46,
+      "name": "2015 Conquering Ward",
+      "file": "2015 Conquering Ward.fantome"
+    },
+    "47": {
+      "id": 47,
+      "name": "2015 Triumphant Ward",
+      "file": "2015 Triumphant Ward.fantome"
+    },
+    "48": {
+      "id": 48,
+      "name": "2015 Victorious Ward",
+      "file": "2015 Victorious Ward.fantome"
+    },
+    "49": {
+      "id": 49,
+      "name": "Riggle Ward",
+      "file": "Riggle Ward.fantome"
+    },
+    "50": {
+      "id": 50,
+      "name": "All-Star 2015 Team Fire Ward",
+      "file": "All-Star 2015 Team Fire Ward.fantome"
+    },
+    "51": {
+      "id": 51,
+      "name": "All-Star 2015 Team Ice Ward",
+      "file": "All-Star 2015 Team Ice Ward.fantome"
+    },
+    "52": {
+      "id": 52,
+      "name": "Penguin Skier Ward",
+      "file": "Penguin Skier Ward.fantome"
+    },
+    "53": {
+      "id": 53,
+      "name": "Rising Dawn Ward",
+      "file": "Rising Dawn Ward.fantome"
+    },
+    "54": {
+      "id": 54,
+      "name": "Harpseeker Ward",
+      "file": "Harpseeker Ward.fantome"
+    },
+    "55": {
+      "id": 55,
+      "name": "Hextech Ward",
+      "file": "Hextech Ward.fantome"
+    },
+    "56": {
+      "id": 56,
+      "name": "Definitely Not A Ward",
+      "file": "Definitely Not A Ward.fantome"
+    },
+    "57": {
+      "id": 57,
+      "name": "Mecha Zero Ward",
+      "file": "Mecha Zero Ward.fantome"
+    },
+    "58": {
+      "id": 58,
+      "name": "El Poro Ward",
+      "file": "El Poro Ward.fantome"
+    },
+    "59": {
+      "id": 59,
+      "name": "Dark Star Ward",
+      "file": "Dark Star Ward.fantome"
+    },
+    "60": {
+      "id": 60,
+      "name": "His Royal Crabness Ward",
+      "file": "His Royal Crabness Ward.fantome"
+    },
+    "61": {
+      "id": 61,
+      "name": "Recon Drone Ward",
+      "file": "Recon Drone Ward.fantome"
+    },
+    "62": {
+      "id": 62,
+      "name": "Game On Ward",
+      "file": "Game On Ward.fantome"
+    },
+    "63": {
+      "id": 63,
+      "name": "Star Guardian Ward",
+      "file": "Star Guardian Ward.fantome"
+    },
+    "64": {
+      "id": 64,
+      "name": "Worlds 2016 Ward",
+      "file": "Worlds 2016 Ward.fantome"
+    },
+    "65": {
+      "id": 65,
+      "name": "Mechs vs. Minions Ward",
+      "file": "Mechs vs. Minions Ward.fantome"
+    },
+    "66": {
+      "id": 66,
+      "name": "2016 Conquering Ward",
+      "file": "2016 Conquering Ward.fantome"
+    },
+    "67": {
+      "id": 67,
+      "name": "2016 Triumphant Ward",
+      "file": "2016 Triumphant Ward.fantome"
+    },
+    "68": {
+      "id": 68,
+      "name": "2016 Victorious Ward",
+      "file": "2016 Victorious Ward.fantome"
+    },
+    "69": {
+      "id": 69,
+      "name": "Elementalist Ward",
+      "file": "Elementalist Ward.fantome"
+    },
+    "70": {
+      "id": 70,
+      "name": "Vamporo Ward",
+      "file": "Vamporo Ward.fantome"
+    },
+    "71": {
+      "id": 71,
+      "name": "Santa Penguin Ward",
+      "file": "Santa Penguin Ward.fantome"
+    },
+    "72": {
+      "id": 72,
+      "name": "Crest of the Rooster Ward",
+      "file": "Crest of the Rooster Ward.fantome"
+    },
+    "73": {
+      "id": 73,
+      "name": "2016 All-Star Ward",
+      "file": "2016 All-Star Ward.fantome"
+    },
+    "74": {
+      "id": 74,
+      "name": "Blood Demon Ward",
+      "file": "Blood Demon Ward.fantome"
+    },
+    "75": {
+      "id": 75,
+      "name": "Love Dove Ward",
+      "file": "Love Dove Ward.fantome"
+    },
+    "76": {
+      "id": 76,
+      "name": "Eye of the Dragon Ward",
+      "file": "Eye of the Dragon Ward.fantome"
+    },
+    "77": {
+      "id": 77,
+      "name": "Pulsefire Ward",
+      "file": "Pulsefire Ward.fantome"
+    },
+    "78": {
+      "id": 78,
+      "name": "Dawnbringer Ward",
+      "file": "Dawnbringer Ward.fantome"
+    },
+    "79": {
+      "id": 79,
+      "name": "Nightbringer Ward",
+      "file": "Nightbringer Ward.fantome"
+    },
+    "80": {
+      "id": 80,
+      "name": "God Fist Ward",
+      "file": "God Fist Ward.fantome"
+    },
+    "81": {
+      "id": 81,
+      "name": "Pentakill Ward",
+      "file": "Pentakill Ward.fantome"
+    },
+    "82": {
+      "id": 82,
+      "name": "Corruptant Ward",
+      "file": "Corruptant Ward.fantome"
+    },
+    "83": {
+      "id": 83,
+      "name": "Conqueror Ward",
+      "file": "Conqueror Ward.fantome"
+    },
+    "84": {
+      "id": 84,
+      "name": "Omega Squad Ward",
+      "file": "Omega Squad Ward.fantome"
+    },
+    "85": {
+      "id": 85,
+      "name": "Arcade Poro Ward",
+      "file": "Arcade Poro Ward.fantome"
+    },
+    "86": {
+      "id": 86,
+      "name": "Mimi Ward",
+      "file": "Mimi Ward.fantome"
+    },
+    "87": {
+      "id": 87,
+      "name": "SKT T1 kkOma Ward",
+      "file": "SKT T1 kkOma Ward.fantome"
+    },
+    "88": {
+      "id": 88,
+      "name": "New Horizon Ward",
+      "file": "New Horizon Ward.fantome"
+    },
+    "89": {
+      "id": 89,
+      "name": "Worlds 2017 Ward",
+      "file": "Worlds 2017 Ward.fantome"
+    },
+    "90": {
+      "id": 90,
+      "name": "Worlds 2017 Golden Ward",
+      "file": "Worlds 2017 Golden Ward.fantome"
+    },
+    "91": {
+      "id": 91,
+      "name": "Divine Sword Ward",
+      "file": "Divine Sword Ward.fantome"
+    },
+    "92": {
+      "id": 92,
+      "name": "Glorious Legend Ward",
+      "file": "Glorious Legend Ward.fantome"
+    },
+    "93": {
+      "id": 93,
+      "name": "Honor 3 Ward",
+      "file": "Honor 3 Ward.fantome"
+    },
+    "94": {
+      "id": 94,
+      "name": "Honor 4 Ward",
+      "file": "Honor 4 Ward.fantome"
+    },
+    "95": {
+      "id": 95,
+      "name": "Honor 5 Ward",
+      "file": "Honor 5 Ward.fantome"
+    },
+    "96": {
+      "id": 96,
+      "name": "Rune Enthusiast Ward",
+      "file": "Rune Enthusiast Ward.fantome"
+    },
+    "97": {
+      "id": 97,
+      "name": "2017 Victorious Ward",
+      "file": "2017 Victorious Ward.fantome"
+    },
+    "98": {
+      "id": 98,
+      "name": "Dearest Deer Ward",
+      "file": "Dearest Deer Ward.fantome"
+    },
+    "99": {
+      "id": 99,
+      "name": "Lovebirds Ward",
+      "file": "Lovebirds Ward.fantome"
+    },
+    "100": {
+      "id": 100,
+      "name": "Death Sworn Ward",
+      "file": "Death Sworn Ward.fantome"
+    },
+    "101": {
+      "id": 101,
+      "name": "Essence Collector Ward",
+      "file": "Essence Collector Ward.fantome"
+    },
+    "102": {
+      "id": 102,
+      "name": "Puppy Warwick Ward",
+      "file": "Puppy Warwick Ward.fantome"
+    },
+    "103": {
+      "id": 103,
+      "name": "Puppy Nasus Ward",
+      "file": "Puppy Nasus Ward.fantome"
+    },
+    "104": {
+      "id": 104,
+      "name": "Exo-Ward",
+      "file": "Exo-Ward.fantome"
+    },
+    "105": {
+      "id": 105,
+      "name": "Pizza Chicken Ward",
+      "file": "Pizza Chicken Ward.fantome"
+    },
+    "106": {
+      "id": 106,
+      "name": "2018 Conqueror Ward",
+      "file": "2018 Conqueror Ward.fantome"
+    },
+    "107": {
+      "id": 107,
+      "name": "Pulsefire 2018 Ward",
+      "file": "Pulsefire 2018 Ward.fantome"
+    },
+    "108": {
+      "id": 108,
+      "name": "The Ripper Ward",
+      "file": "The Ripper Ward.fantome"
+    },
+    "109": {
+      "id": 109,
+      "name": "The Lion Ward",
+      "file": "The Lion Ward.fantome"
+    },
+    "110": {
+      "id": 110,
+      "name": "The Wolf Ward",
+      "file": "The Wolf Ward.fantome"
+    },
+    "111": {
+      "id": 111,
+      "name": "World Rune Ward",
+      "file": "World Rune Ward.fantome"
+    },
+    "112": {
+      "id": 112,
+      "name": "Surfin' Pengu Ward",
+      "file": "Surfin' Pengu Ward.fantome"
+    },
+    "113": {
+      "id": 113,
+      "name": "Wipeout Pengu Ward",
+      "file": "Wipeout Pengu Ward.fantome"
+    },
+    "114": {
+      "id": 114,
+      "name": "Hang Loose Pengu Ward",
+      "file": "Hang Loose Pengu Ward.fantome"
+    },
+    "115": {
+      "id": 115,
+      "name": "Space Lizard Ward",
+      "file": "Space Lizard Ward.fantome"
+    },
+    "116": {
+      "id": 116,
+      "name": "Devil Vulture Ward",
+      "file": "Devil Vulture Ward.fantome"
+    },
+    "117": {
+      "id": 117,
+      "name": "Gold Space Lizard Ward",
+      "file": "Gold Space Lizard Ward.fantome"
+    },
+    "118": {
+      "id": 118,
+      "name": "Worlds 2018 Ward",
+      "file": "Worlds 2018 Ward.fantome"
+    },
+    "119": {
+      "id": 119,
+      "name": "Pumpkin Cat Ward",
+      "file": "Pumpkin Cat Ward.fantome"
+    },
+    "120": {
+      "id": 120,
+      "name": "Pajama Guardian Ward",
+      "file": "Pajama Guardian Ward.fantome"
+    },
+    "121": {
+      "id": 121,
+      "name": "Worlds 2018 Golden Ward",
+      "file": "Worlds 2018 Golden Ward.fantome"
+    },
+    "122": {
+      "id": 122,
+      "name": "Trained Dragon Ward",
+      "file": "Trained Dragon Ward.fantome"
+    },
+    "123": {
+      "id": 123,
+      "name": "Queen Poro Ward",
+      "file": "Queen Poro Ward.fantome"
+    },
+    "124": {
+      "id": 124,
+      "name": "Pop Music A-ward",
+      "file": "Pop Music A-ward.fantome"
+    },
+    "125": {
+      "id": 125,
+      "name": "2018 Honor 3 Ward",
+      "file": "2018 Honor 3 Ward.fantome"
+    },
+    "126": {
+      "id": 126,
+      "name": "2018 Honor 4 Ward",
+      "file": "2018 Honor 4 Ward.fantome"
+    },
+    "127": {
+      "id": 127,
+      "name": "2018 Honor 5 Ward",
+      "file": "2018 Honor 5 Ward.fantome"
+    },
+    "128": {
+      "id": 128,
+      "name": "Year of the Pig Ward",
+      "file": "Year of the Pig Ward.fantome"
+    },
+    "129": {
+      "id": 129,
+      "name": "Golden Year of the Pig Ward",
+      "file": "Golden Year of the Pig Ward.fantome"
+    },
+    "130": {
+      "id": 130,
+      "name": "Unassuming Snowman Ward",
+      "file": "Unassuming Snowman Ward.fantome"
+    },
+    "131": {
+      "id": 131,
+      "name": "Golden Snowman Ward",
+      "file": "Golden Snowman Ward.fantome"
+    },
+    "132": {
+      "id": 132,
+      "name": "Blood Moon Ward",
+      "file": "Blood Moon Ward.fantome"
+    },
+    "133": {
+      "id": 133,
+      "name": "Cat Lover Ward",
+      "file": "Cat Lover Ward.fantome"
+    },
+    "134": {
+      "id": 134,
+      "name": "Dog Lover Ward",
+      "file": "Dog Lover Ward.fantome"
+    },
+    "135": {
+      "id": 135,
+      "name": "2019 Conqueror Ward",
+      "file": "2019 Conqueror Ward.fantome"
+    },
+    "136": {
+      "id": 136,
+      "name": "Battle Academia Durandal Ward",
+      "file": "Battle Academia Durandal Ward.fantome"
+    },
+    "137": {
+      "id": 137,
+      "name": "Championship Hot Dog Ward",
+      "file": "Championship Hot Dog Ward.fantome"
+    },
+    "138": {
+      "id": 138,
+      "name": "Battle Academia Desk Ward",
+      "file": "Battle Academia Desk Ward.fantome"
+    },
+    "139": {
+      "id": 139,
+      "name": "Arcade 2019 Ward",
+      "file": "Arcade 2019 Ward.fantome"
+    },
+    "140": {
+      "id": 140,
+      "name": "SK telecom T1 Ward",
+      "file": "SK telecom T1 Ward.fantome"
+    },
+    "141": {
+      "id": 141,
+      "name": "Demacia Vice Ward",
+      "file": "Demacia Vice Ward.fantome"
+    },
+    "142": {
+      "id": 142,
+      "name": "TSM Ward",
+      "file": "TSM Ward.fantome"
+    },
+    "143": {
+      "id": 143,
+      "name": "Echo Fox Ward",
+      "file": "Echo Fox Ward.fantome"
+    },
+    "144": {
+      "id": 144,
+      "name": "100 Thieves Ward",
+      "file": "100 Thieves Ward.fantome"
+    },
+    "145": {
+      "id": 145,
+      "name": "Cloud9 Ward",
+      "file": "Cloud9 Ward.fantome"
+    },
+    "146": {
+      "id": 146,
+      "name": "CLG Ward",
+      "file": "CLG Ward.fantome"
+    },
+    "147": {
+      "id": 147,
+      "name": "Team Liquid Ward",
+      "file": "Team Liquid Ward.fantome"
+    },
+    "148": {
+      "id": 148,
+      "name": "Team OpTic Ward",
+      "file": "Team OpTic Ward.fantome"
+    },
+    "149": {
+      "id": 149,
+      "name": "Golden Guardians Ward",
+      "file": "Golden Guardians Ward.fantome"
+    },
+    "150": {
+      "id": 150,
+      "name": "FlyQuest Ward",
+      "file": "FlyQuest Ward.fantome"
+    },
+    "151": {
+      "id": 151,
+      "name": "Clutch Gaming Ward",
+      "file": "Clutch Gaming Ward.fantome"
+    },
+    "152": {
+      "id": 152,
+      "name": "Excel Esports Ward",
+      "file": "Excel Esports Ward.fantome"
+    },
+    "153": {
+      "id": 153,
+      "name": "Fnatic Ward",
+      "file": "Fnatic Ward.fantome"
+    },
+    "154": {
+      "id": 154,
+      "name": "G2 Esports Ward",
+      "file": "G2 Esports Ward.fantome"
+    },
+    "155": {
+      "id": 155,
+      "name": "Misfits Ward",
+      "file": "Misfits Ward.fantome"
+    },
+    "156": {
+      "id": 156,
+      "name": "Origen Ward",
+      "file": "Origen Ward.fantome"
+    },
+    "157": {
+      "id": 157,
+      "name": "Rogue Ward",
+      "file": "Rogue Ward.fantome"
+    },
+    "158": {
+      "id": 158,
+      "name": "Schalke 04 Ward",
+      "file": "Schalke 04 Ward.fantome"
+    },
+    "159": {
+      "id": 159,
+      "name": "SK Ward",
+      "file": "SK Ward.fantome"
+    },
+    "160": {
+      "id": 160,
+      "name": "Splyce Ward",
+      "file": "Splyce Ward.fantome"
+    },
+    "161": {
+      "id": 161,
+      "name": "Vitality Ward",
+      "file": "Vitality Ward.fantome"
+    },
+    "162": {
+      "id": 162,
+      "name": "Fan Pass Ward",
+      "file": "Fan Pass Ward.fantome"
+    },
+    "163": {
+      "id": 163,
+      "name": "Bilibili Gaming Ward",
+      "file": "Bilibili Gaming Ward.fantome"
+    },
+    "164": {
+      "id": 164,
+      "name": "Dominus Esports Ward",
+      "file": "Dominus Esports Ward.fantome"
+    },
+    "165": {
+      "id": 165,
+      "name": "Edward Gaming Ward",
+      "file": "Edward Gaming Ward.fantome"
+    },
+    "166": {
+      "id": 166,
+      "name": "FunPlus Phoenix Ward",
+      "file": "FunPlus Phoenix Ward.fantome"
+    },
+    "167": {
+      "id": 167,
+      "name": "Invictus Gaming Ward",
+      "file": "Invictus Gaming Ward.fantome"
+    },
+    "168": {
+      "id": 168,
+      "name": "JD Gaming Ward",
+      "file": "JD Gaming Ward.fantome"
+    },
+    "169": {
+      "id": 169,
+      "name": "LGD Gaming Ward",
+      "file": "LGD Gaming Ward.fantome"
+    },
+    "170": {
+      "id": 170,
+      "name": "LNG Esports Ward",
+      "file": "LNG Esports Ward.fantome"
+    },
+    "171": {
+      "id": 171,
+      "name": "Oh My God Ward",
+      "file": "Oh My God Ward.fantome"
+    },
+    "172": {
+      "id": 172,
+      "name": "Royal Never Give Up Ward",
+      "file": "Royal Never Give Up Ward.fantome"
+    },
+    "173": {
+      "id": 173,
+      "name": "Rogue Warriors Ward",
+      "file": "Rogue Warriors Ward.fantome"
+    },
+    "174": {
+      "id": 174,
+      "name": "Suning Ward",
+      "file": "Suning Ward.fantome"
+    },
+    "175": {
+      "id": 175,
+      "name": "TOP Esports Ward",
+      "file": "TOP Esports Ward.fantome"
+    },
+    "176": {
+      "id": 176,
+      "name": "Victory Five Ward",
+      "file": "Victory Five Ward.fantome"
+    },
+    "177": {
+      "id": 177,
+      "name": "Vici Gaming Ward",
+      "file": "Vici Gaming Ward.fantome"
+    },
+    "178": {
+      "id": 178,
+      "name": "Team WE Ward",
+      "file": "Team WE Ward.fantome"
+    },
+    "179": {
+      "id": 179,
+      "name": "KING-ZONE DragonX Ward",
+      "file": "KING-ZONE DragonX Ward.fantome"
+    },
+    "180": {
+      "id": 180,
+      "name": "Afreeca Freecs Ward",
+      "file": "Afreeca Freecs Ward.fantome"
+    },
+    "181": {
+      "id": 181,
+      "name": "DAMWON Gaming Ward",
+      "file": "DAMWON Gaming Ward.fantome"
+    },
+    "182": {
+      "id": 182,
+      "name": "Gen.G Ward",
+      "file": "Gen.G Ward.fantome"
+    },
+    "183": {
+      "id": 183,
+      "name": "GRIFFIN Ward",
+      "file": "GRIFFIN Ward.fantome"
+    },
+    "184": {
+      "id": 184,
+      "name": "Hanwha Life Esports Ward",
+      "file": "Hanwha Life Esports Ward.fantome"
+    },
+    "185": {
+      "id": 185,
+      "name": "Jin Air Greenwings Ward",
+      "file": "Jin Air Greenwings Ward.fantome"
+    },
+    "186": {
+      "id": 186,
+      "name": "kt Rolster Ward",
+      "file": "kt Rolster Ward.fantome"
+    },
+    "187": {
+      "id": 187,
+      "name": "SANDBOX Gaming Ward",
+      "file": "SANDBOX Gaming Ward.fantome"
+    },
+    "188": {
+      "id": 188,
+      "name": "Star Guardian 2019 Ward",
+      "file": "Star Guardian 2019 Ward.fantome"
+    },
+    "189": {
+      "id": 189,
+      "name": "PROJECT: Reckoning Ward",
+      "file": "PROJECT_ Reckoning Ward.fantome"
+    },
+    "190": {
+      "id": 190,
+      "name": "Worlds 2019 Ward",
+      "file": "Worlds 2019 Ward.fantome"
+    },
+    "191": {
+      "id": 191,
+      "name": "Frontier Devil Ward",
+      "file": "Frontier Devil Ward.fantome"
+    },
+    "192": {
+      "id": 192,
+      "name": "True Damage Ward",
+      "file": "True Damage Ward.fantome"
+    },
+    "193": {
+      "id": 193,
+      "name": "10th Anniversary Ward",
+      "file": "10th Anniversary Ward.fantome"
+    },
+    "194": {
+      "id": 194,
+      "name": "Tales From the Rift 2019 Ward",
+      "file": "Tales From the Rift 2019 Ward.fantome"
+    },
+    "195": {
+      "id": 195,
+      "name": "Night & Dawn Ward",
+      "file": "Night & Dawn Ward.fantome"
+    },
+    "196": {
+      "id": 196,
+      "name": "Prestige 2019 Ward",
+      "file": "Prestige 2019 Ward.fantome"
+    },
+    "197": {
+      "id": 197,
+      "name": "Mecha Kingdoms 2020 Ward",
+      "file": "Mecha Kingdoms 2020 Ward.fantome"
+    },
+    "198": {
+      "id": 198,
+      "name": "Galaxies 2020 Ward",
+      "file": "Galaxies 2020 Ward.fantome"
+    },
+    "199": {
+      "id": 199,
+      "name": "2020 Pulsefire Ward",
+      "file": "2020 Pulsefire Ward.fantome"
+    },
+    "200": {
+      "id": 200,
+      "name": "2020 Spirit Blossom Kanmei Ward",
+      "file": "2020 Spirit Blossom Kanmei Ward.fantome"
+    },
+    "201": {
+      "id": 201,
+      "name": "2020 Spirit Blossom Akana Ward",
+      "file": "2020 Spirit Blossom Akana Ward.fantome"
+    },
+    "202": {
+      "id": 202,
+      "name": "Riot Games Fist Bump Ward",
+      "file": "Riot Games Fist Bump Ward.fantome"
+    },
+    "203": {
+      "id": 203,
+      "name": "Tellstones: King's Gambit Ward",
+      "file": "Tellstones_ King's Gambit Ward.fantome"
+    },
+    "204": {
+      "id": 204,
+      "name": "PsyOps 2020 Ward",
+      "file": "PsyOps 2020 Ward.fantome"
+    },
+    "205": {
+      "id": 205,
+      "name": "K/DA ALL OUT Ward",
+      "file": "K_DA ALL OUT Ward.fantome"
+    },
+    "206": {
+      "id": 206,
+      "name": "Worlds 2020 Ward",
+      "file": "Worlds 2020 Ward.fantome"
+    },
+    "207": {
+      "id": 207,
+      "name": "Dragonmancer Ward",
+      "file": "Dragonmancer Ward.fantome"
+    },
+    "208": {
+      "id": 208,
+      "name": "Battle Queens Ward",
+      "file": "Battle Queens Ward.fantome"
+    },
+    "209": {
+      "id": 209,
+      "name": "2021 Lunar Beast Ward",
+      "file": "2021 Lunar Beast Ward.fantome"
+    },
+    "210": {
+      "id": 210,
+      "name": "2021 Space Groove Ward",
+      "file": "2021 Space Groove Ward.fantome"
+    },
+    "211": {
+      "id": 211,
+      "name": "PROJECT 2021 Ward",
+      "file": "PROJECT 2021 Ward.fantome"
+    },
+    "212": {
+      "id": 212,
+      "name": "Sentinel Ward",
+      "file": "Sentinel Ward.fantome"
+    },
+    "213": {
+      "id": 213,
+      "name": "Coven Ward",
+      "file": "Coven Ward.fantome"
+    },
+    "214": {
+      "id": 214,
+      "name": "2021 Hextech Ward",
+      "file": "2021 Hextech Ward.fantome"
+    },
+    "215": {
+      "id": 215,
+      "name": "Ruined Ward",
+      "file": "Ruined Ward.fantome"
+    },
+    "216": {
+      "id": 216,
+      "name": "Phoenix Ward",
+      "file": "Phoenix Ward.fantome"
+    },
+    "217": {
+      "id": 217,
+      "name": "Night & Dawn 2021 Ward",
+      "file": "Night & Dawn 2021 Ward.fantome"
+    },
+    "218": {
+      "id": 218,
+      "name": "Arcane Ward",
+      "file": "Arcane Ward.fantome"
+    },
+    "219": {
+      "id": 219,
+      "name": "2022 Firecracker Ward",
+      "file": "2022 Firecracker Ward.fantome"
+    },
+    "220": {
+      "id": 220,
+      "name": "Forge God - Season 2022 Ward",
+      "file": "Forge God - Season 2022 Ward.fantome"
+    },
+    "221": {
+      "id": 221,
+      "name": "Debonair Ward",
+      "file": "Debonair Ward.fantome"
+    },
+    "222": {
+      "id": 222,
+      "name": "Primordial Ward",
+      "file": "Primordial Ward.fantome"
+    },
+    "223": {
+      "id": 223,
+      "name": "Ashen Knight Ward",
+      "file": "Ashen Knight Ward.fantome"
+    },
+    "224": {
+      "id": 224,
+      "name": "LoL Esports Ward Season 2022",
+      "file": "LoL Esports Ward Season 2022.fantome"
+    },
+    "225": {
+      "id": 225,
+      "name": "MSI 2022 High Noon Ward",
+      "file": "MSI 2022 High Noon Ward.fantome"
+    },
+    "226": {
+      "id": 226,
+      "name": "Ocean Song Ward",
+      "file": "Ocean Song Ward.fantome"
+    },
+    "227": {
+      "id": 227,
+      "name": "Star Guardian 2022 Ward",
+      "file": "Star Guardian 2022 Ward.fantome"
+    },
+    "228": {
+      "id": 228,
+      "name": "I.S.R Drone Ward",
+      "file": "I.S.R Drone Ward.fantome"
+    },
+    "229": {
+      "id": 229,
+      "name": "Worlds 2022 Trophy Ward",
+      "file": "Worlds 2022 Trophy Ward.fantome"
+    },
+    "230": {
+      "id": 230,
+      "name": "2022 Spirit Blossom Ward",
+      "file": "2022 Spirit Blossom Ward.fantome"
+    },
+    "231": {
+      "id": 231,
+      "name": "Hyperion Ward",
+      "file": "Hyperion Ward.fantome"
+    },
+    "232": {
+      "id": 232,
+      "name": "Empyrean Ward",
+      "file": "Empyrean Ward.fantome"
+    },
+    "233": {
+      "id": 233,
+      "name": "Winterblessed Ward",
+      "file": "Winterblessed Ward.fantome"
+    },
+    "234": {
+      "id": 234,
+      "name": "2023 Lunar Revel Ward",
+      "file": "2023 Lunar Revel Ward.fantome"
+    },
+    "235": {
+      "id": 235,
+      "name": "2023 Season Start Ward",
+      "file": "2023 Season Start Ward.fantome"
+    },
+    "237": {
+      "id": 237,
+      "name": "Faerie Court Ward",
+      "file": "Faerie Court Ward.fantome"
+    },
+    "238": {
+      "id": 238,
+      "name": "Inkshadow Ward",
+      "file": "Inkshadow Ward.fantome"
+    },
+    "239": {
+      "id": 239,
+      "name": "Mysterious Garment Ward",
+      "file": "Mysterious Garment Ward.fantome"
+    },
+    "240": {
+      "id": 240,
+      "name": "DRX Ward",
+      "file": "DRX Ward.fantome"
+    },
+    "241": {
+      "id": 241,
+      "name": "Space & Time Ward",
+      "file": "Space & Time Ward.fantome"
+    },
+    "242": {
+      "id": 242,
+      "name": "Soul Fighter Ward",
+      "file": "Soul Fighter Ward.fantome"
+    },
+    "244": {
+      "id": 244,
+      "name": "HEARTSTEEL Ward",
+      "file": "HEARTSTEEL Ward.fantome"
+    },
+    "245": {
+      "id": 245,
+      "name": "2023 Coven Ward",
+      "file": "2023 Coven Ward.fantome"
+    },
+    "246": {
+      "id": 246,
+      "name": "2023 Winterblessed Ward",
+      "file": "2023 Winterblessed Ward.fantome"
+    },
+    "247": {
+      "id": 247,
+      "name": "Crystalis Motus Ward",
+      "file": "Crystalis Motus Ward.fantome"
+    },
+    "248": {
+      "id": 248,
+      "name": "Heavenscale Ward",
+      "file": "Heavenscale Ward.fantome"
+    },
+    "249": {
+      "id": 249,
+      "name": "Hide on bush Ward",
+      "file": "Hide on bush Ward.fantome"
+    },
+    "250": {
+      "id": 250,
+      "name": "Anima Squad Ward",
+      "file": "Anima Squad Ward.fantome"
+    },
+    "251": {
+      "id": 251,
+      "name": "T1 Ward",
+      "file": "T1 Ward.fantome"
+    },
+    "252": {
+      "id": 252,
+      "name": "Gaming Fan Poro Ward",
+      "file": "Gaming Fan Poro Ward.fantome"
+    },
+    "253": {
+      "id": 253,
+      "name": "Worlds 2024 Ward",
+      "file": "Worlds 2024 Ward.fantome"
+    },
+    "254": {
+      "id": 254,
+      "name": "Mysterious Arcane Ward",
+      "file": "Mysterious Arcane Ward.fantome"
+    },
+    "255": {
+      "id": 255,
+      "name": "Masque of the Black Rose Ward",
+      "file": "Masque of the Black Rose Ward.fantome"
+    },
+    "256": {
+      "id": 256,
+      "name": "2025 Spirit Blossom Ward",
+      "file": "2025 Spirit Blossom Ward.fantome"
+    },
+    "257": {
+      "id": 257,
+      "name": "Soak It Up Ward",
+      "file": "Soak It Up Ward.fantome"
+    },
+    "258": {
+      "id": 258,
+      "name": "Battle Academia Ward",
+      "file": "Battle Academia Ward.fantome"
+    },
+    "259": {
+      "id": 259,
+      "name": "Vision of the Fallen Ward",
+      "file": "Vision of the Fallen Ward.fantome"
+    },
+    "260": {
+      "id": 260,
+      "name": "T1 2024 Ward",
+      "file": "T1 2024 Ward.fantome"
+    },
+    "261": {
+      "id": 261,
+      "name": "2026 Season 1 Ward",
+      "file": "2026 Season 1 Ward.fantome"
+    },
+    "262": {
+      "id": 262,
+      "name": "Lycanthrottle Ward",
+      "file": "Lycanthrottle Ward.fantome"
+    },
+    "263": {
+      "id": 263,
+      "name": "2026 Season 2 Ward",
+      "file": "2026 Season 2 Ward.fantome"
+    }
+  }
+}
