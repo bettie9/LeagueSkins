@@ -5513,7 +5513,7 @@
     },
     "em_allstars_robe": {
       "name": "Oh Well",
-      "file": "Oh Well (em_allstars_robe).fantome",
+      "file": "Oh Well.fantome",
       "missing": []
     },
     "em_and_i_was_thinking": {
@@ -6693,7 +6693,7 @@
     },
     "em_jinx_bored_text": {
       "name": "So Lame",
-      "file": "So Lame (em_jinx_bored_text).fantome",
+      "file": "So Lame.fantome",
       "missing": []
     },
     "em_jinx_crush": {
@@ -6708,7 +6708,7 @@
     },
     "em_jinx_joy_text": {
       "name": "Wahaha",
-      "file": "Wahaha (em_jinx_joy_text).fantome",
+      "file": "Wahaha.fantome",
       "missing": []
     },
     "em_jinx_nailed_it": {
@@ -6718,7 +6718,7 @@
     },
     "em_jinx_nailedit_text": {
       "name": "Aww Yiss",
-      "file": "Aww Yiss (em_jinx_nailedit_text).fantome",
+      "file": "Aww Yiss.fantome",
       "missing": []
     },
     "em_just_a_pinch": {
@@ -6978,12 +6978,12 @@
     },
     "em_lunarrevel_bristle_oink_text": {
       "name": "Oink",
-      "file": "Oink (em_lunarrevel_bristle_oink_text).fantome",
+      "file": "Oink.fantome",
       "missing": []
     },
     "em_lunarrevel_goldenpig": {
       "name": "Squeal!",
-      "file": "Squeal! (em_lunarrevel_goldenpig).fantome",
+      "file": "Squeal!.fantome",
       "missing": []
     },
     "em_lunarrevel_tahmkench_blep": {
@@ -6993,7 +6993,7 @@
     },
     "em_lunarrevel_tahmkench_blep_text": {
       "name": "Blep Kench",
-      "file": "Blep Kench (em_lunarrevel_tahmkench_blep_text).fantome",
+      "file": "Blep Kench.fantome",
       "missing": []
     },
     "em_lunarrevel_vayne_cheeky": {
@@ -7003,7 +7003,7 @@
     },
     "em_lunarrevel_vayne_cheeky_text": {
       "name": "Happy Landings",
-      "file": "Happy Landings (em_lunarrevel_vayne_cheeky_text).fantome",
+      "file": "Happy Landings.fantome",
       "missing": []
     },
     "em_lustrous": {
@@ -7318,7 +7318,7 @@
     },
     "em_neeko_cn_angry": {
       "name": "I will destroy you",
-      "file": "I will destroy you (em_neeko_cn_angry).fantome",
+      "file": "I will destroy you.fantome",
       "missing": []
     },
     "em_neeko_cn_poro": {
@@ -7338,17 +7338,17 @@
     },
     "em_neeko_funny_inventory_cn": {
       "name": "Haha you fell!",
-      "file": "Haha you fell! (em_neeko_funny_inventory_cn).fantome",
+      "file": "Haha you fell!.fantome",
       "missing": []
     },
     "em_neeko_poro": {
       "name": "Poro Ride",
-      "file": "Poro Ride (em_neeko_poro).fantome",
+      "file": "Poro Ride.fantome",
       "missing": []
     },
     "em_neeko_rainbow": {
       "name": "OMG I love it",
-      "file": "OMG I love it (em_neeko_rainbow).fantome",
+      "file": "OMG I love it.fantome",
       "missing": []
     },
     "em_neon_nights_double_up_blue_tier": {
@@ -8333,7 +8333,7 @@
     },
     "em_sylas_allaccordingtoplan": {
       "name": "All According to Plan",
-      "file": "All According to Plan (em_sylas_allaccordingtoplan).fantome",
+      "file": "All According to Plan.fantome",
       "missing": []
     },
     "em_sylas_angry_text": {
@@ -8343,7 +8343,7 @@
     },
     "em_sylas_areyoukidding": {
       "name": "Are You Kidding?",
-      "file": "Are You Kidding (em_sylas_areyoukidding).fantome",
+      "file": "Are You Kidding.fantome",
       "missing": []
     },
     "em_sylas_disapproval_text": {
@@ -8353,12 +8353,12 @@
     },
     "em_sylas_howdelicious": {
       "name": "How Delicious",
-      "file": "How Delicious (em_sylas_howdelicious).fantome",
+      "file": "How Delicious.fantome",
       "missing": []
     },
     "em_sylas_unworthy": {
       "name": "Unworthy",
-      "file": "Unworthy (em_sylas_unworthy).fantome",
+      "file": "Unworthy.fantome",
       "missing": []
     },
     "em_take_my_money": {
