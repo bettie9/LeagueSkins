@@ -3,6 +3,11 @@
   <p>This repository served as a comprehensive collection of League of Legends skins available for custom use.</p>
 </div>
 
+## WARNING
+
+Currently, it looks like the .fantome files do not work with newer versions of cs-lol manager or ltk manager or with their dll files. Try using a different dll file. 
+
+
 ## Legal Disclaimer
 
 > [!IMPORTANT]
