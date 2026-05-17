@@ -1,0 +1,858 @@
+{
+  "target": "data/characters/pettftavatar/skins/skin1.bin",
+  "companions": {
+    "petchibiaatrox": {
+      "1": {
+        "name": "Chibiaatrox skin1",
+        "file": "tft/chibiaatrox/Chibiaatrox skin1.fantome",
+        "speciesName": "Chibiaatrox"
+      },
+      "2": {
+        "name": "Chibiaatrox skin2",
+        "file": "tft/chibiaatrox/Chibiaatrox skin2.fantome",
+        "speciesName": "Chibiaatrox"
+      },
+      "3": {
+        "name": "Chibiaatrox skin3",
+        "file": "tft/chibiaatrox/Chibiaatrox skin3.fantome",
+        "speciesName": "Chibiaatrox"
+      }
+    },
+    "petchibiahri": {
+      "1": {
+        "name": "Chibiahri skin1",
+        "file": "tft/chibiahri/Chibiahri skin1.fantome",
+        "speciesName": "Chibiahri"
+      },
+      "2": {
+        "name": "Chibiahri skin2",
+        "file": "tft/chibiahri/Chibiahri skin2.fantome",
+        "speciesName": "Chibiahri"
+      },
+      "3": {
+        "name": "Chibiahri skin3",
+        "file": "tft/chibiahri/Chibiahri skin3.fantome",
+        "speciesName": "Chibiahri"
+      },
+      "4": {
+        "name": "Chibiahri skin4",
+        "file": "tft/chibiahri/Chibiahri skin4.fantome",
+        "speciesName": "Chibiahri"
+      }
+    },
+    "petchibiakali": {
+      "1": {
+        "name": "Chibiakali skin1",
+        "file": "tft/chibiakali/Chibiakali skin1.fantome",
+        "speciesName": "Chibiakali"
+      },
+      "2": {
+        "name": "Chibiakali skin2",
+        "file": "tft/chibiakali/Chibiakali skin2.fantome",
+        "speciesName": "Chibiakali"
+      },
+      "3": {
+        "name": "Chibiakali skin3",
+        "file": "tft/chibiakali/Chibiakali skin3.fantome",
+        "speciesName": "Chibiakali"
+      }
+    },
+    "petchibiamumu": {
+      "1": {
+        "name": "Chibiamumu skin1",
+        "file": "tft/chibiamumu/Chibiamumu skin1.fantome",
+        "speciesName": "Chibiamumu"
+      },
+      "2": {
+        "name": "Chibiamumu skin2",
+        "file": "tft/chibiamumu/Chibiamumu skin2.fantome",
+        "speciesName": "Chibiamumu"
+      }
+    },
+    "petchibiannie": {
+      "1": {
+        "name": "Chibiannie skin1",
+        "file": "tft/chibiannie/Chibiannie skin1.fantome",
+        "speciesName": "Chibiannie"
+      },
+      "2": {
+        "name": "Chibiannie skin2",
+        "file": "tft/chibiannie/Chibiannie skin2.fantome",
+        "speciesName": "Chibiannie"
+      },
+      "3": {
+        "name": "Chibiannie skin3",
+        "file": "tft/chibiannie/Chibiannie skin3.fantome",
+        "speciesName": "Chibiannie"
+      }
+    },
+    "petchibiashe": {
+      "1": {
+        "name": "Chibiashe skin1",
+        "file": "tft/chibiashe/Chibiashe skin1.fantome",
+        "speciesName": "Chibiashe"
+      },
+      "2": {
+        "name": "Chibiashe skin2",
+        "file": "tft/chibiashe/Chibiashe skin2.fantome",
+        "speciesName": "Chibiashe"
+      },
+      "3": {
+        "name": "Chibiashe skin3",
+        "file": "tft/chibiashe/Chibiashe skin3.fantome",
+        "speciesName": "Chibiashe"
+      },
+      "4": {
+        "name": "Chibiashe skin4",
+        "file": "tft/chibiashe/Chibiashe skin4.fantome",
+        "speciesName": "Chibiashe"
+      }
+    },
+    "petchibiblitzcrank": {
+      "1": {
+        "name": "Chibiblitzcrank skin1",
+        "file": "tft/chibiblitzcrank/Chibiblitzcrank skin1.fantome",
+        "speciesName": "Chibiblitzcrank"
+      },
+      "2": {
+        "name": "Chibiblitzcrank skin2",
+        "file": "tft/chibiblitzcrank/Chibiblitzcrank skin2.fantome",
+        "speciesName": "Chibiblitzcrank"
+      },
+      "3": {
+        "name": "Chibiblitzcrank skin3",
+        "file": "tft/chibiblitzcrank/Chibiblitzcrank skin3.fantome",
+        "speciesName": "Chibiblitzcrank"
+      }
+    },
+    "petchibibriar": {
+      "1": {
+        "name": "Chibibriar skin1",
+        "file": "tft/chibibriar/Chibibriar skin1.fantome",
+        "speciesName": "Chibibriar"
+      },
+      "2": {
+        "name": "Chibibriar skin2",
+        "file": "tft/chibibriar/Chibibriar skin2.fantome",
+        "speciesName": "Chibibriar"
+      },
+      "3": {
+        "name": "Chibibriar skin3",
+        "file": "tft/chibibriar/Chibibriar skin3.fantome",
+        "speciesName": "Chibibriar"
+      }
+    },
+    "petchibicaitlyn": {
+      "1": {
+        "name": "Chibicaitlyn skin1",
+        "file": "tft/chibicaitlyn/Chibicaitlyn skin1.fantome",
+        "speciesName": "Chibicaitlyn"
+      },
+      "2": {
+        "name": "Chibicaitlyn skin2",
+        "file": "tft/chibicaitlyn/Chibicaitlyn skin2.fantome",
+        "speciesName": "Chibicaitlyn"
+      },
+      "3": {
+        "name": "Chibicaitlyn skin3",
+        "file": "tft/chibicaitlyn/Chibicaitlyn skin3.fantome",
+        "speciesName": "Chibicaitlyn"
+      }
+    },
+    "petchibiekko": {
+      "1": {
+        "name": "Chibiekko skin1",
+        "file": "tft/chibiekko/Chibiekko skin1.fantome",
+        "speciesName": "Chibiekko"
+      },
+      "2": {
+        "name": "Chibiekko skin2",
+        "file": "tft/chibiekko/Chibiekko skin2.fantome",
+        "speciesName": "Chibiekko"
+      }
+    },
+    "petchibiezreal": {
+      "1": {
+        "name": "Chibiezreal skin1",
+        "file": "tft/chibiezreal/Chibiezreal skin1.fantome",
+        "speciesName": "Chibiezreal"
+      },
+      "2": {
+        "name": "Chibiezreal skin2",
+        "file": "tft/chibiezreal/Chibiezreal skin2.fantome",
+        "speciesName": "Chibiezreal"
+      },
+      "3": {
+        "name": "Chibiezreal skin3",
+        "file": "tft/chibiezreal/Chibiezreal skin3.fantome",
+        "speciesName": "Chibiezreal"
+      }
+    },
+    "petchibigwen": {
+      "1": {
+        "name": "Chibigwen skin1",
+        "file": "tft/chibigwen/Chibigwen skin1.fantome",
+        "speciesName": "Chibigwen"
+      },
+      "2": {
+        "name": "Chibigwen skin2",
+        "file": "tft/chibigwen/Chibigwen skin2.fantome",
+        "speciesName": "Chibigwen"
+      },
+      "3": {
+        "name": "Chibigwen skin3",
+        "file": "tft/chibigwen/Chibigwen skin3.fantome",
+        "speciesName": "Chibigwen"
+      },
+      "4": {
+        "name": "Chibigwen skin4",
+        "file": "tft/chibigwen/Chibigwen skin4.fantome",
+        "speciesName": "Chibigwen"
+      }
+    },
+    "petchibiirelia": {
+      "1": {
+        "name": "Chibiirelia skin1",
+        "file": "tft/chibiirelia/Chibiirelia skin1.fantome",
+        "speciesName": "Chibiirelia"
+      },
+      "2": {
+        "name": "Chibiirelia skin2",
+        "file": "tft/chibiirelia/Chibiirelia skin2.fantome",
+        "speciesName": "Chibiirelia"
+      },
+      "3": {
+        "name": "Chibiirelia skin3",
+        "file": "tft/chibiirelia/Chibiirelia skin3.fantome",
+        "speciesName": "Chibiirelia"
+      }
+    },
+    "petchibijanna": {
+      "1": {
+        "name": "Chibijanna skin1",
+        "file": "tft/chibijanna/Chibijanna skin1.fantome",
+        "speciesName": "Chibijanna"
+      },
+      "2": {
+        "name": "Chibijanna skin2",
+        "file": "tft/chibijanna/Chibijanna skin2.fantome",
+        "speciesName": "Chibijanna"
+      }
+    },
+    "petchibijinx": {
+      "1": {
+        "name": "Chibijinx skin1",
+        "file": "tft/chibijinx/Chibijinx skin1.fantome",
+        "speciesName": "Chibijinx"
+      },
+      "2": {
+        "name": "Chibijinx skin2",
+        "file": "tft/chibijinx/Chibijinx skin2.fantome",
+        "speciesName": "Chibijinx"
+      },
+      "3": {
+        "name": "Chibijinx skin3",
+        "file": "tft/chibijinx/Chibijinx skin3.fantome",
+        "speciesName": "Chibijinx"
+      }
+    },
+    "petchibikaisa": {
+      "1": {
+        "name": "Chibikaisa skin1",
+        "file": "tft/chibikaisa/Chibikaisa skin1.fantome",
+        "speciesName": "Chibikaisa"
+      },
+      "2": {
+        "name": "Chibikaisa skin2",
+        "file": "tft/chibikaisa/Chibikaisa skin2.fantome",
+        "speciesName": "Chibikaisa"
+      },
+      "3": {
+        "name": "Chibikaisa skin3",
+        "file": "tft/chibikaisa/Chibikaisa skin3.fantome",
+        "speciesName": "Chibikaisa"
+      },
+      "5": {
+        "name": "Chibikaisa skin5",
+        "file": "tft/chibikaisa/Chibikaisa skin5.fantome",
+        "speciesName": "Chibikaisa"
+      }
+    },
+    "petchibikatarina": {
+      "1": {
+        "name": "Chibikatarina skin1",
+        "file": "tft/chibikatarina/Chibikatarina skin1.fantome",
+        "speciesName": "Chibikatarina"
+      },
+      "2": {
+        "name": "Chibikatarina skin2",
+        "file": "tft/chibikatarina/Chibikatarina skin2.fantome",
+        "speciesName": "Chibikatarina"
+      }
+    },
+    "petchibikayle": {
+      "1": {
+        "name": "Chibikayle skin1",
+        "file": "tft/chibikayle/Chibikayle skin1.fantome",
+        "speciesName": "Chibikayle"
+      },
+      "2": {
+        "name": "Chibikayle skin2",
+        "file": "tft/chibikayle/Chibikayle skin2.fantome",
+        "speciesName": "Chibikayle"
+      }
+    },
+    "petchibileesin": {
+      "1": {
+        "name": "Chibileesin skin1",
+        "file": "tft/chibileesin/Chibileesin skin1.fantome",
+        "speciesName": "Chibileesin"
+      },
+      "2": {
+        "name": "Chibileesin skin2",
+        "file": "tft/chibileesin/Chibileesin skin2.fantome",
+        "speciesName": "Chibileesin"
+      },
+      "3": {
+        "name": "Chibileesin skin3",
+        "file": "tft/chibileesin/Chibileesin skin3.fantome",
+        "speciesName": "Chibileesin"
+      }
+    },
+    "petchibilillia": {
+      "1": {
+        "name": "Chibilillia skin1",
+        "file": "tft/chibilillia/Chibilillia skin1.fantome",
+        "speciesName": "Chibilillia"
+      },
+      "2": {
+        "name": "Chibilillia skin2",
+        "file": "tft/chibilillia/Chibilillia skin2.fantome",
+        "speciesName": "Chibilillia"
+      }
+    },
+    "petchibilulu": {
+      "1": {
+        "name": "Chibilulu skin1",
+        "file": "tft/chibilulu/Chibilulu skin1.fantome",
+        "speciesName": "Chibilulu"
+      },
+      "2": {
+        "name": "Chibilulu skin2",
+        "file": "tft/chibilulu/Chibilulu skin2.fantome",
+        "speciesName": "Chibilulu"
+      }
+    },
+    "petchibilux": {
+      "1": {
+        "name": "Chibilux skin1",
+        "file": "tft/chibilux/Chibilux skin1.fantome",
+        "speciesName": "Chibilux"
+      },
+      "2": {
+        "name": "Chibilux skin2",
+        "file": "tft/chibilux/Chibilux skin2.fantome",
+        "speciesName": "Chibilux"
+      },
+      "3": {
+        "name": "Chibilux skin3",
+        "file": "tft/chibilux/Chibilux skin3.fantome",
+        "speciesName": "Chibilux"
+      },
+      "4": {
+        "name": "Chibilux skin4",
+        "file": "tft/chibilux/Chibilux skin4.fantome",
+        "speciesName": "Chibilux"
+      }
+    },
+    "petchibimalphite": {
+      "1": {
+        "name": "Chibimalphite skin1",
+        "file": "tft/chibimalphite/Chibimalphite skin1.fantome",
+        "speciesName": "Chibimalphite"
+      },
+      "2": {
+        "name": "Chibimalphite skin2",
+        "file": "tft/chibimalphite/Chibimalphite skin2.fantome",
+        "speciesName": "Chibimalphite"
+      }
+    },
+    "petchibimissfortune": {
+      "1": {
+        "name": "Chibimissfortune skin1",
+        "file": "tft/chibimissfortune/Chibimissfortune skin1.fantome",
+        "speciesName": "Chibimissfortune"
+      },
+      "2": {
+        "name": "Chibimissfortune skin2",
+        "file": "tft/chibimissfortune/Chibimissfortune skin2.fantome",
+        "speciesName": "Chibimissfortune"
+      },
+      "4": {
+        "name": "Chibimissfortune skin4",
+        "file": "tft/chibimissfortune/Chibimissfortune skin4.fantome",
+        "speciesName": "Chibimissfortune"
+      }
+    },
+    "petchibimorgana": {
+      "1": {
+        "name": "Chibimorgana skin1",
+        "file": "tft/chibimorgana/Chibimorgana skin1.fantome",
+        "speciesName": "Chibimorgana"
+      },
+      "2": {
+        "name": "Chibimorgana skin2",
+        "file": "tft/chibimorgana/Chibimorgana skin2.fantome",
+        "speciesName": "Chibimorgana"
+      },
+      "3": {
+        "name": "Chibimorgana skin3",
+        "file": "tft/chibimorgana/Chibimorgana skin3.fantome",
+        "speciesName": "Chibimorgana"
+      },
+      "4": {
+        "name": "Chibimorgana skin4",
+        "file": "tft/chibimorgana/Chibimorgana skin4.fantome",
+        "speciesName": "Chibimorgana"
+      }
+    },
+    "petchibineeko": {
+      "1": {
+        "name": "Chibineeko skin1",
+        "file": "tft/chibineeko/Chibineeko skin1.fantome",
+        "speciesName": "Chibineeko"
+      },
+      "2": {
+        "name": "Chibineeko skin2",
+        "file": "tft/chibineeko/Chibineeko skin2.fantome",
+        "speciesName": "Chibineeko"
+      }
+    },
+    "petchibiorianna": {
+      "1": {
+        "name": "Chibiorianna skin1",
+        "file": "tft/chibiorianna/Chibiorianna skin1.fantome",
+        "speciesName": "Chibiorianna"
+      },
+      "2": {
+        "name": "Chibiorianna skin2",
+        "file": "tft/chibiorianna/Chibiorianna skin2.fantome",
+        "speciesName": "Chibiorianna"
+      },
+      "3": {
+        "name": "Chibiorianna skin3",
+        "file": "tft/chibiorianna/Chibiorianna skin3.fantome",
+        "speciesName": "Chibiorianna"
+      }
+    },
+    "petchibiriven": {
+      "1": {
+        "name": "Chibiriven skin1",
+        "file": "tft/chibiriven/Chibiriven skin1.fantome",
+        "speciesName": "Chibiriven"
+      },
+      "2": {
+        "name": "Chibiriven skin2",
+        "file": "tft/chibiriven/Chibiriven skin2.fantome",
+        "speciesName": "Chibiriven"
+      },
+      "3": {
+        "name": "Chibiriven skin3",
+        "file": "tft/chibiriven/Chibiriven skin3.fantome",
+        "speciesName": "Chibiriven"
+      }
+    },
+    "petchibiseraphine": {
+      "1": {
+        "name": "Chibiseraphine skin1",
+        "file": "tft/chibiseraphine/Chibiseraphine skin1.fantome",
+        "speciesName": "Chibiseraphine"
+      },
+      "2": {
+        "name": "Chibiseraphine skin2",
+        "file": "tft/chibiseraphine/Chibiseraphine skin2.fantome",
+        "speciesName": "Chibiseraphine"
+      },
+      "3": {
+        "name": "Chibiseraphine skin3",
+        "file": "tft/chibiseraphine/Chibiseraphine skin3.fantome",
+        "speciesName": "Chibiseraphine"
+      }
+    },
+    "petchibisett": {
+      "1": {
+        "name": "Chibisett skin1",
+        "file": "tft/chibisett/Chibisett skin1.fantome",
+        "speciesName": "Chibisett"
+      },
+      "2": {
+        "name": "Chibisett skin2",
+        "file": "tft/chibisett/Chibisett skin2.fantome",
+        "speciesName": "Chibisett"
+      },
+      "3": {
+        "name": "Chibisett skin3",
+        "file": "tft/chibisett/Chibisett skin3.fantome",
+        "speciesName": "Chibisett"
+      }
+    },
+    "petchibisona": {
+      "1": {
+        "name": "Chibisona skin1",
+        "file": "tft/chibisona/Chibisona skin1.fantome",
+        "speciesName": "Chibisona"
+      },
+      "2": {
+        "name": "Chibisona skin2",
+        "file": "tft/chibisona/Chibisona skin2.fantome",
+        "speciesName": "Chibisona"
+      }
+    },
+    "petchibisoraka": {
+      "1": {
+        "name": "Chibisoraka skin1",
+        "file": "tft/chibisoraka/Chibisoraka skin1.fantome",
+        "speciesName": "Chibisoraka"
+      },
+      "2": {
+        "name": "Chibisoraka skin2",
+        "file": "tft/chibisoraka/Chibisoraka skin2.fantome",
+        "speciesName": "Chibisoraka"
+      }
+    },
+    "petchibisyndra": {
+      "1": {
+        "name": "Chibisyndra skin1",
+        "file": "tft/chibisyndra/Chibisyndra skin1.fantome",
+        "speciesName": "Chibisyndra"
+      },
+      "2": {
+        "name": "Chibisyndra skin2",
+        "file": "tft/chibisyndra/Chibisyndra skin2.fantome",
+        "speciesName": "Chibisyndra"
+      }
+    },
+    "petchibiteemo": {
+      "1": {
+        "name": "Chibiteemo skin1",
+        "file": "tft/chibiteemo/Chibiteemo skin1.fantome",
+        "speciesName": "Chibiteemo"
+      },
+      "2": {
+        "name": "Chibiteemo skin2",
+        "file": "tft/chibiteemo/Chibiteemo skin2.fantome",
+        "speciesName": "Chibiteemo"
+      },
+      "3": {
+        "name": "Chibiteemo skin3",
+        "file": "tft/chibiteemo/Chibiteemo skin3.fantome",
+        "speciesName": "Chibiteemo"
+      }
+    },
+    "petchibitristana": {
+      "1": {
+        "name": "Chibitristana skin1",
+        "file": "tft/chibitristana/Chibitristana skin1.fantome",
+        "speciesName": "Chibitristana"
+      },
+      "2": {
+        "name": "Chibitristana skin2",
+        "file": "tft/chibitristana/Chibitristana skin2.fantome",
+        "speciesName": "Chibitristana"
+      },
+      "3": {
+        "name": "Chibitristana skin3",
+        "file": "tft/chibitristana/Chibitristana skin3.fantome",
+        "speciesName": "Chibitristana"
+      }
+    },
+    "petchibivi": {
+      "1": {
+        "name": "Chibivi skin1",
+        "file": "tft/chibivi/Chibivi skin1.fantome",
+        "speciesName": "Chibivi"
+      },
+      "2": {
+        "name": "Chibivi skin2",
+        "file": "tft/chibivi/Chibivi skin2.fantome",
+        "speciesName": "Chibivi"
+      }
+    },
+    "petchibixayah": {
+      "1": {
+        "name": "Chibixayah skin1",
+        "file": "tft/chibixayah/Chibixayah skin1.fantome",
+        "speciesName": "Chibixayah"
+      },
+      "2": {
+        "name": "Chibixayah skin2",
+        "file": "tft/chibixayah/Chibixayah skin2.fantome",
+        "speciesName": "Chibixayah"
+      }
+    },
+    "petchibiyasuo": {
+      "1": {
+        "name": "Chibiyasuo skin1",
+        "file": "tft/chibiyasuo/Chibiyasuo skin1.fantome",
+        "speciesName": "Chibiyasuo"
+      },
+      "2": {
+        "name": "Chibiyasuo skin2",
+        "file": "tft/chibiyasuo/Chibiyasuo skin2.fantome",
+        "speciesName": "Chibiyasuo"
+      },
+      "3": {
+        "name": "Chibiyasuo skin3",
+        "file": "tft/chibiyasuo/Chibiyasuo skin3.fantome",
+        "speciesName": "Chibiyasuo"
+      }
+    },
+    "petchibiyone": {
+      "1": {
+        "name": "Chibiyone skin1",
+        "file": "tft/chibiyone/Chibiyone skin1.fantome",
+        "speciesName": "Chibiyone"
+      },
+      "2": {
+        "name": "Chibiyone skin2",
+        "file": "tft/chibiyone/Chibiyone skin2.fantome",
+        "speciesName": "Chibiyone"
+      },
+      "3": {
+        "name": "Chibiyone skin3",
+        "file": "tft/chibiyone/Chibiyone skin3.fantome",
+        "speciesName": "Chibiyone"
+      },
+      "4": {
+        "name": "Chibiyone skin4",
+        "file": "tft/chibiyone/Chibiyone skin4.fantome",
+        "speciesName": "Chibiyone"
+      }
+    },
+    "petchibiyunara": {
+      "1": {
+        "name": "Chibiyunara skin1",
+        "file": "tft/chibiyunara/Chibiyunara skin1.fantome",
+        "speciesName": "Chibiyunara"
+      },
+      "2": {
+        "name": "Chibiyunara skin2",
+        "file": "tft/chibiyunara/Chibiyunara skin2.fantome",
+        "speciesName": "Chibiyunara"
+      }
+    },
+    "petchibiyuumi": {
+      "1": {
+        "name": "Chibiyuumi skin1",
+        "file": "tft/chibiyuumi/Chibiyuumi skin1.fantome",
+        "speciesName": "Chibiyuumi"
+      },
+      "2": {
+        "name": "Chibiyuumi skin2",
+        "file": "tft/chibiyuumi/Chibiyuumi skin2.fantome",
+        "speciesName": "Chibiyuumi"
+      },
+      "3": {
+        "name": "Chibiyuumi skin3",
+        "file": "tft/chibiyuumi/Chibiyuumi skin3.fantome",
+        "speciesName": "Chibiyuumi"
+      }
+    },
+    "petchibized": {
+      "1": {
+        "name": "Chibized skin1",
+        "file": "tft/chibized/Chibized skin1.fantome",
+        "speciesName": "Chibized"
+      },
+      "2": {
+        "name": "Chibized skin2",
+        "file": "tft/chibized/Chibized skin2.fantome",
+        "speciesName": "Chibized"
+      },
+      "3": {
+        "name": "Chibized skin3",
+        "file": "tft/chibized/Chibized skin3.fantome",
+        "speciesName": "Chibized"
+      }
+    },
+    "petchibizoe": {
+      "1": {
+        "name": "Chibizoe skin1",
+        "file": "tft/chibizoe/Chibizoe skin1.fantome",
+        "speciesName": "Chibizoe"
+      },
+      "2": {
+        "name": "Chibizoe skin2",
+        "file": "tft/chibizoe/Chibizoe skin2.fantome",
+        "speciesName": "Chibizoe"
+      }
+    },
+    "petstyletwoahri": {
+      "2": {
+        "name": "Styletwoahri skin2",
+        "file": "tft/styletwoahri/Styletwoahri skin2.fantome",
+        "speciesName": "Styletwoahri"
+      }
+    },
+    "petstyletwodarius": {
+      "2": {
+        "name": "Styletwodarius skin2",
+        "file": "tft/styletwodarius/Styletwodarius skin2.fantome",
+        "speciesName": "Styletwodarius"
+      }
+    },
+    "petstyletwogaren": {
+      "1": {
+        "name": "Styletwogaren skin1",
+        "file": "tft/styletwogaren/Styletwogaren skin1.fantome",
+        "speciesName": "Styletwogaren"
+      },
+      "2": {
+        "name": "Styletwogaren skin2",
+        "file": "tft/styletwogaren/Styletwogaren skin2.fantome",
+        "speciesName": "Styletwogaren"
+      },
+      "3": {
+        "name": "Styletwogaren skin3",
+        "file": "tft/styletwogaren/Styletwogaren skin3.fantome",
+        "speciesName": "Styletwogaren"
+      }
+    },
+    "petstyletwoirelia": {
+      "2": {
+        "name": "Styletwoirelia skin2",
+        "file": "tft/styletwoirelia/Styletwoirelia skin2.fantome",
+        "speciesName": "Styletwoirelia"
+      }
+    },
+    "petstyletwojhin": {
+      "1": {
+        "name": "Styletwojhin skin1",
+        "file": "tft/styletwojhin/Styletwojhin skin1.fantome",
+        "speciesName": "Styletwojhin"
+      },
+      "2": {
+        "name": "Styletwojhin skin2",
+        "file": "tft/styletwojhin/Styletwojhin skin2.fantome",
+        "speciesName": "Styletwojhin"
+      }
+    },
+    "petstyletwojinx": {
+      "3": {
+        "name": "Styletwojinx skin3",
+        "file": "tft/styletwojinx/Styletwojinx skin3.fantome",
+        "speciesName": "Styletwojinx"
+      }
+    },
+    "petstyletwokatarina": {
+      "2": {
+        "name": "Styletwokatarina skin2",
+        "file": "tft/styletwokatarina/Styletwokatarina skin2.fantome",
+        "speciesName": "Styletwokatarina"
+      }
+    },
+    "petstyletwoleesin": {
+      "2": {
+        "name": "Styletwoleesin skin2",
+        "file": "tft/styletwoleesin/Styletwoleesin skin2.fantome",
+        "speciesName": "Styletwoleesin"
+      }
+    },
+    "petstyletwolucian": {
+      "2": {
+        "name": "Styletwolucian skin2",
+        "file": "tft/styletwolucian/Styletwolucian skin2.fantome",
+        "speciesName": "Styletwolucian"
+      }
+    },
+    "petstyletwomordekaiser": {
+      "2": {
+        "name": "Styletwomordekaiser skin2",
+        "file": "tft/styletwomordekaiser/Styletwomordekaiser skin2.fantome",
+        "speciesName": "Styletwomordekaiser"
+      }
+    },
+    "petstyletwopyke": {
+      "1": {
+        "name": "Styletwopyke skin1",
+        "file": "tft/styletwopyke/Styletwopyke skin1.fantome",
+        "speciesName": "Styletwopyke"
+      },
+      "2": {
+        "name": "Styletwopyke skin2",
+        "file": "tft/styletwopyke/Styletwopyke skin2.fantome",
+        "speciesName": "Styletwopyke"
+      }
+    },
+    "petstyletwosenna": {
+      "1": {
+        "name": "Styletwosenna skin1",
+        "file": "tft/styletwosenna/Styletwosenna skin1.fantome",
+        "speciesName": "Styletwosenna"
+      },
+      "2": {
+        "name": "Styletwosenna skin2",
+        "file": "tft/styletwosenna/Styletwosenna skin2.fantome",
+        "speciesName": "Styletwosenna"
+      }
+    },
+    "petstyletwothresh": {
+      "1": {
+        "name": "Styletwothresh skin1",
+        "file": "tft/styletwothresh/Styletwothresh skin1.fantome",
+        "speciesName": "Styletwothresh"
+      },
+      "3": {
+        "name": "Styletwothresh skin3",
+        "file": "tft/styletwothresh/Styletwothresh skin3.fantome",
+        "speciesName": "Styletwothresh"
+      }
+    },
+    "petstyletwovayne": {
+      "1": {
+        "name": "Styletwovayne skin1",
+        "file": "tft/styletwovayne/Styletwovayne skin1.fantome",
+        "speciesName": "Styletwovayne"
+      },
+      "2": {
+        "name": "Styletwovayne skin2",
+        "file": "tft/styletwovayne/Styletwovayne skin2.fantome",
+        "speciesName": "Styletwovayne"
+      },
+      "3": {
+        "name": "Styletwovayne skin3",
+        "file": "tft/styletwovayne/Styletwovayne skin3.fantome",
+        "speciesName": "Styletwovayne"
+      }
+    },
+    "petstyletwowarwick": {
+      "1": {
+        "name": "Styletwowarwick skin1",
+        "file": "tft/styletwowarwick/Styletwowarwick skin1.fantome",
+        "speciesName": "Styletwowarwick"
+      },
+      "2": {
+        "name": "Styletwowarwick skin2",
+        "file": "tft/styletwowarwick/Styletwowarwick skin2.fantome",
+        "speciesName": "Styletwowarwick"
+      },
+      "3": {
+        "name": "Styletwowarwick skin3",
+        "file": "tft/styletwowarwick/Styletwowarwick skin3.fantome",
+        "speciesName": "Styletwowarwick"
+      }
+    },
+    "petstyletwoyasuo": {
+      "1": {
+        "name": "Styletwoyasuo skin1",
+        "file": "tft/styletwoyasuo/Styletwoyasuo skin1.fantome",
+        "speciesName": "Styletwoyasuo"
+      },
+      "2": {
+        "name": "Styletwoyasuo skin2",
+        "file": "tft/styletwoyasuo/Styletwoyasuo skin2.fantome",
+        "speciesName": "Styletwoyasuo"
+      }
+    }
+  }
+}
