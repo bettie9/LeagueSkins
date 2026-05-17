@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🌻 League of Legends Fantome Repository</h1>
-  <p><i>A comprehensive collection of League of Legends <code>.fantome</code> files — skins, emotes, and totems (wards) — rebuilt every patch.</i></p>
+  <p><i>A comprehensive collection of League of Legends <code>.fantome</code> files — skins, tft chibis, emotes, and totems (wards) — rebuilt every patch.</i></p>
 </div>
 
 ---
@@ -9,7 +9,7 @@
 
 The cleanest way to install anything from this repository is **[Sunshine](https://github.com/bettie9/Sunshine)** — a Tauri-based League of Legends companion app that reads this mirror directly.
 
-Inside Sunshine you get a built-in browser for **Skins**, **Emotes**, and **Totems** with one-click install — no manual `.fantome` hunting, no version-mismatch surprises. Sunshine handles the download, the import via `cslol-manager`.
+Inside Sunshine you get a built-in browser for **Skins**, **TFT Chibis**, **Emotes**, and **Totems** with one-click install — no manual `.fantome` hunting, no version-mismatch surprises. Sunshine handles the download, the import via `cslol-manager`.
 
 Of course you're also free to grab the `.fantome` files from this repo directly and load them into your own mod manager.
 
