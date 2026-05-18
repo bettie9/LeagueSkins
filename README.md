@@ -22,7 +22,7 @@ Of course you're also free to grab the `.fantome` files from this repo directly 
 
 Despite our best efforts, a small number of files may not work perfectly in-game — animated emotes and VFX-heavy assets are the most common offenders. We recommend testing anything important in **Practice Tool** before relying on it in a live game.
 
-The `.fantome` files in this repository may also be **incompatible with the latest builds** of cslol-manager / LtMAO mod-tools. If you hit import or injection errors, fall back to a slightly older `mod-tools.exe` + `cslol-dll.dll` pairing — or simply use Sunshine, which pins a known-working version automatically.
+The `.fantome` files in this repository may also be **incompatible with the latest builds** of cslol-manager / LTK Manager mod-tools. If you hit import or injection errors, fall back to a slightly older `mod-tools.exe` + `cslol-dll.dll` pairing — or simply use Sunshine, which pins a known-working version automatically.
 
 ## 🔁 Patch cadence
 
