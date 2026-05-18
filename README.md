@@ -13,6 +13,11 @@ Inside Sunshine you get a built-in browser for **Skins**, **TFT Chibis**, **Emot
 
 Of course you're also free to grab the `.fantome` files from this repo directly and load them into your own mod manager.
 
+<div align="center">
+  <h2>⚠️ IMPORTANT: TFT CONTENT CURRENTLY DOES NOT WORK IN MULTIPLAYER MODES</h2>
+  <p><strong>TFT things are currently broken in normal, ranked, and other multiplayer modes.</strong> We are actively investigating the issue and will update this notice when it is fixed. Please don't use them, or game will crash. Sorry for the inconvenience!</p>
+</div>
+
 ## ⚠️ Compatibility notice
 
 Despite our best efforts, a small number of files may not work perfectly in-game — animated emotes and VFX-heavy assets are the most common offenders. We recommend testing anything important in **Practice Tool** before relying on it in a live game.
