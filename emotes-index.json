@@ -9885,6 +9885,66 @@
       "name": "Tip My Hat",
       "file": "Tip My Hat.fantome",
       "missing": []
+    },
+    "5103": {
+      "name": "I'm A Locke Star",
+      "file": "I'm A Locke Star.fantome",
+      "missing": []
+    },
+    "5105": {
+      "name": "What A Headache",
+      "file": "What A Headache.fantome",
+      "missing": []
+    },
+    "5106": {
+      "name": "Gotta Be Kiddin' Me",
+      "file": "Gotta Be Kiddin' Me.fantome",
+      "missing": []
+    },
+    "5108": {
+      "name": "I'm Surrounded By Idiots",
+      "file": "I'm Surrounded By Idiots.fantome",
+      "missing": []
+    },
+    "5104": {
+      "name": "Watch It All Burn",
+      "file": "Watch It All Burn.fantome",
+      "missing": []
+    },
+    "em_10124_unbound_aurelionsol_howyoudoing": {
+      "name": "How You Doing?",
+      "file": "How You Doing.fantome",
+      "missing": []
+    },
+    "em_10125_ll_meep_space_surprise": {
+      "name": "Meep Meep!",
+      "file": "Meep Meep!.fantome",
+      "missing": []
+    },
+    "5110": {
+      "name": "I Call The Shots",
+      "file": "I Call The Shots.fantome",
+      "missing": []
+    },
+    "5109": {
+      "name": "Bready Or Not!",
+      "file": "Bready Or Not!.fantome",
+      "missing": []
+    },
+    "5107": {
+      "name": "Flex On 'Em",
+      "file": "Flex On 'Em.fantome",
+      "missing": []
+    },
+    "em_10127_unbound_rengar_psyops_lookatthiscat": {
+      "name": "Take a Look at this Cat",
+      "file": "Take a Look at this Cat.fantome",
+      "missing": []
+    },
+    "em_10126_unbound_yasuo_praisethegods": {
+      "name": "Praise the Gods",
+      "file": "Praise the Gods.fantome",
+      "missing": []
     }
   }
 }
