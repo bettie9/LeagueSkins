@@ -236,7 +236,8 @@
       },
       "forms": {
         "85": {
-          "86": "Stage 2"
+          "86": "Stage 2",
+          "87": "Stage 3"
         }
       }
     },
@@ -3595,7 +3596,12 @@
           "64": "Doom"
         }
       },
-      "forms": {}
+      "forms": {
+        "60": {
+          "998": "Stage 2",
+          "999": "Stage 3"
+        }
+      }
     },
     "JarvanIV": {
       "skins": {
@@ -4004,7 +4010,8 @@
       },
       "forms": {
         "70": {
-          "71": "Stage 2"
+          "71": "Stage 2",
+          "999": "Stage 3"
         }
       }
     },
@@ -5649,7 +5656,19 @@
           "80": "Obsidian"
         }
       },
-      "forms": {}
+      "forms": {
+        "7": {
+          "999": "Fire",
+          "998": "Water",
+          "991": "Air",
+          "997": "Storm",
+          "993": "Ice",
+          "994": "Magma",
+          "995": "Mystic",
+          "996": "Nature",
+          "992": "Dark"
+        }
+      }
     },
     "Malzahar": {
       "skins": {
@@ -6135,7 +6154,12 @@
           "58": "Vivid"
         }
       },
-      "forms": {}
+      "forms": {
+        "54": {
+          "998": "Stage 2",
+          "999": "Stage 3"
+        }
+      }
     },
     "Morgana": {
       "skins": {
@@ -6243,7 +6267,11 @@
           "82": "Vivid"
         }
       },
-      "forms": {}
+      "forms": {
+        "80": {
+          "999": "Stage 2"
+        }
+      }
     },
     "Nasus": {
       "skins": {
@@ -7472,7 +7500,13 @@
           "75": "Sapphire"
         }
       },
-      "forms": {}
+      "forms": {
+        "16": {
+          "997": "Zero Hour",
+          "998": "Royal Arms",
+          "999": "Starswarm"
+        }
+      }
     },
     "RekSai": {
       "skins": {
@@ -8193,7 +8227,12 @@
           "75": "Rose Quartz"
         }
       },
-      "forms": {}
+      "forms": {
+        "66": {
+          "998": "Stage 2",
+          "999": "Stage 3"
+        }
+      }
     },
     "Senna": {
       "skins": {
@@ -8891,7 +8930,12 @@
           "76": "Vivid"
         }
       },
-      "forms": {}
+      "forms": {
+        "6": {
+          "998": "Stage 2",
+          "999": "Stage 3"
+        }
+      }
     },
     "Soraka": {
       "skins": {
