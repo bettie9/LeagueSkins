@@ -1309,6 +1309,16 @@
       "id": 264,
       "name": "T1 2025 Ward",
       "file": "T1 2025 Ward.fantome"
+    },
+    "267": {
+      "id": 267,
+      "name": "Pixel Perfect Ward",
+      "file": "Pixel Perfect Ward.fantome"
+    },
+    "266": {
+      "id": 266,
+      "name": "2026 Season 3 Ward",
+      "file": "2026 Season 3 Ward.fantome"
     }
   }
 }
