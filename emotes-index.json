@@ -9980,6 +9980,156 @@
       "name": "Call Your Shot",
       "file": "Call Your Shot.fantome",
       "missing": []
+    },
+    "10128": {
+      "name": "Up and to the right",
+      "file": "Up and to the right.fantome",
+      "missing": []
+    },
+    "10129": {
+      "name": "Make Room for Mush",
+      "file": "Make Room for Mush.fantome",
+      "missing": []
+    },
+    "10130": {
+      "name": "Blue Hearts You",
+      "file": "Blue Hearts You.fantome",
+      "missing": []
+    },
+    "10131": {
+      "name": "Scheming Sorceress",
+      "file": "Scheming Sorceress.fantome",
+      "missing": []
+    },
+    "10132": {
+      "name": "What'd I do now?!",
+      "file": "What'd I do now_!.fantome",
+      "missing": []
+    },
+    "10133": {
+      "name": "Sweat It Out",
+      "file": "Sweat It Out.fantome",
+      "missing": []
+    },
+    "5119": {
+      "name": "2026 MSI Champions Hanwha Life Esports",
+      "file": "2026 MSI Champions Hanwha Life Esports.fantome",
+      "missing": []
+    },
+    "5120": {
+      "name": "Comfy Cloud",
+      "file": "Comfy Cloud.fantome",
+      "missing": []
+    },
+    "5121": {
+      "name": "Right On Target",
+      "file": "Right On Target.fantome",
+      "missing": []
+    },
+    "5122": {
+      "name": "Innocuous Brush",
+      "file": "Innocuous Brush.fantome",
+      "missing": []
+    },
+    "5123": {
+      "name": "Burn It Up",
+      "file": "Burn It Up.fantome",
+      "missing": []
+    },
+    "5124": {
+      "name": "Ghostly Poro",
+      "file": "Ghostly Poro.fantome",
+      "missing": []
+    },
+    "5125": {
+      "name": "Tons Of Damage",
+      "file": "Tons Of Damage.fantome",
+      "missing": []
+    },
+    "5126": {
+      "name": "Mighty Metagolem",
+      "file": "Mighty Metagolem.fantome",
+      "missing": []
+    },
+    "5127": {
+      "name": "Caution: Singed",
+      "file": "Caution_ Singed.fantome",
+      "missing": []
+    },
+    "5128": {
+      "name": "1% Crit Chance",
+      "file": "1% Crit Chance.fantome",
+      "missing": []
+    },
+    "5129": {
+      "name": "Shushei The Gragas Legend",
+      "file": "Shushei The Gragas Legend.fantome",
+      "missing": []
+    },
+    "5130": {
+      "name": "Reading Up",
+      "file": "Reading Up.fantome",
+      "missing": []
+    },
+    "5132": {
+      "name": "Too Tanky",
+      "file": "Too Tanky.fantome",
+      "missing": []
+    },
+    "5131": {
+      "name": "Seeing Stars",
+      "file": "Seeing Stars.fantome",
+      "missing": []
+    },
+    "5133": {
+      "name": "Support Is So Easy",
+      "file": "Support Is So Easy.fantome",
+      "missing": []
+    },
+    "5134": {
+      "name": "Positive Team Player",
+      "file": "Positive Team Player.fantome",
+      "missing": []
+    },
+    "5137": {
+      "name": "Vicious Rumors",
+      "file": "Vicious Rumors.fantome",
+      "missing": []
+    },
+    "5139": {
+      "name": "Unseelie Smirk",
+      "file": "Unseelie Smirk.fantome",
+      "missing": []
+    },
+    "5118": {
+      "name": "Outta Here",
+      "file": "Outta Here.fantome",
+      "missing": []
+    },
+    "5136": {
+      "name": "Can't Chronokeep Me Down",
+      "file": "Can't Chronokeep Me Down.fantome",
+      "missing": []
+    },
+    "5138": {
+      "name": "Frustrated Fae",
+      "file": "Frustrated Fae.fantome",
+      "missing": []
+    },
+    "5135": {
+      "name": "Honorable Opponent",
+      "file": "Honorable Opponent.fantome",
+      "missing": []
+    },
+    "5164": {
+      "name": "I Can't Hear You",
+      "file": "I Can't Hear You.fantome",
+      "missing": []
+    },
+    "5165": {
+      "name": "Goldfish Face",
+      "file": "Goldfish Face.fantome",
+      "missing": []
     }
   }
 }
