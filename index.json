@@ -1,5 +1,5 @@
 {
-  "patch": "16.15.1",
+  "patch": "16.18.1",
   "champions": {
     "Aatrox": {
       "skins": {
@@ -312,7 +312,8 @@
           "88": "Emerald",
           "89": "Rose Quartz",
           "90": "Pearl",
-          "91": "Neon Facade"
+          "91": "Neon Facade",
+          "104": "Paragon"
         },
         "92": {
           "93": "Ruby",
@@ -993,7 +994,8 @@
       "skins": {
         "1": "Battle Boss Bel'Veth",
         "10": "Cosmic Matriarch Bel'Veth",
-        "19": "Primordian Bel'Veth"
+        "19": "Primordian Bel'Veth",
+        "29": "Faerie Court Bel'Veth"
       },
       "chromas": {
         "1": {
@@ -1026,6 +1028,16 @@
           "26": "Pearl",
           "27": "Obsidian",
           "28": "Abyssal"
+        },
+        "29": {
+          "30": "Rose Quartz",
+          "31": "Turquoise",
+          "32": "Pearl",
+          "33": "Obsidian",
+          "34": "Ruby",
+          "35": "Catseye",
+          "36": "Tanzanite",
+          "37": "Sapphire"
         }
       },
       "forms": {}
@@ -2324,7 +2336,8 @@
           "28": "Tanzanite",
           "29": "Golden Tiger",
           "30": "Pearl",
-          "31": "Catseye"
+          "31": "Catseye",
+          "77": "Lustrous"
         },
         "21": {
           "32": "Mythic"
@@ -2992,7 +3005,8 @@
         "11": "Cafe Cuties Gwen",
         "20": "Soul Fighter Gwen",
         "30": "Battle Queen Gwen",
-        "39": "Rain Shepherd Gwen"
+        "39": "Rain Shepherd Gwen",
+        "48": "Faerie Court Gwen"
       },
       "chromas": {
         "1": {
@@ -3046,6 +3060,16 @@
           "45": "Rose Quartz",
           "46": "Pearl",
           "47": "Obsidian"
+        },
+        "48": {
+          "49": "Ruby",
+          "50": "Emerald",
+          "51": "Catseye",
+          "52": "Pearl",
+          "53": "Turquoise",
+          "54": "Obsidian",
+          "55": "Rose Quartz",
+          "56": "Tanzanite"
         }
       },
       "forms": {}
@@ -3434,7 +3458,8 @@
           "51": "Pearl",
           "52": "Obsidian",
           "53": "Catseye",
-          "54": "Opulent"
+          "54": "Opulent",
+          "72": "Lustrous"
         },
         "55": {
           "56": "Ruby",
@@ -3954,7 +3979,8 @@
         "40": "Prestige Battle Cat Jinx",
         "51": "Cafe Cuties Jinx",
         "60": "Arcane Fractured Jinx",
-        "62": "T1 Jinx"
+        "62": "T1 Jinx",
+        "65": "Ocean Song Jinx"
       },
       "chromas": {
         "2": {
@@ -4023,6 +4049,16 @@
         },
         "3": {
           "64": "Doom"
+        },
+        "65": {
+          "66": "Ruby",
+          "67": "Catseye",
+          "68": "Emerald",
+          "69": "Turquoise",
+          "70": "Sapphire",
+          "71": "Rose Quartz",
+          "72": "Obsidian",
+          "73": "Pearl"
         }
       },
       "forms": {
@@ -4785,6 +4821,9 @@
         },
         "59": {
           "60": "Vivid"
+        },
+        "5": {
+          "61": "Paragon"
         }
       },
       "forms": {}
@@ -5007,7 +5046,8 @@
           "29": "Amethyst",
           "30": "Pearl",
           "31": "Obsidian",
-          "32": "Golden Tiger"
+          "32": "Golden Tiger",
+          "52": "Auspicious"
         },
         "34": {
           "35": "Ruby",
@@ -5256,7 +5296,8 @@
         "27": "Prestige Space Groove Lulu",
         "37": "Monster Tamer Lulu",
         "46": "Cafe Cuties Lulu",
-        "55": "Arcana Lulu"
+        "55": "Arcana Lulu",
+        "56": "Faerie Court Lulu"
       },
       "chromas": {
         "5": {
@@ -5312,6 +5353,16 @@
           "52": "Rose Quartz",
           "53": "Turquoise",
           "54": "Obsidian"
+        },
+        "56": {
+          "57": "Ruby",
+          "58": "Emerald",
+          "59": "Catseye",
+          "60": "Pearl",
+          "61": "Turquoise",
+          "62": "Obsidian",
+          "63": "Rose Quartz",
+          "64": "Sapphire"
         }
       },
       "forms": {}
@@ -5504,7 +5555,8 @@
           "35": "Obsidian",
           "36": "Emerald",
           "37": "Pearl",
-          "41": "Golden Tiger"
+          "41": "Golden Tiger",
+          "81": "Beacon"
         },
         "42": {
           "43": "Ruby",
@@ -7018,7 +7070,8 @@
         "11": "Pool Party Orianna",
         "20": "Orbeeanna",
         "29": "Star Guardian Orianna",
-        "38": "T1 Orianna"
+        "38": "T1 Orianna",
+        "40": "Risen Legend Orianna"
       },
       "chromas": {
         "8": {
@@ -7059,6 +7112,10 @@
         },
         "38": {
           "39": "Elite"
+        },
+        "40": {
+          "41": "Paragon",
+          "42": "Mythclimber"
         }
       },
       "forms": {}
@@ -8287,7 +8344,8 @@
         "43": "Battle Dove Seraphine",
         "50": "Dumpling Darlings Seraphine",
         "59": "Firecracker Seraphine",
-        "68": "T1 Seraphine"
+        "68": "T1 Seraphine",
+        "69": "Heartsong Seraphine"
       },
       "chromas": {
         "4": {
@@ -8367,6 +8425,14 @@
           "73": "Rose Quartz",
           "74": "Catseye",
           "75": "Sapphire"
+        },
+        "69": {
+          "76": "Ruby",
+          "77": "Sapphire",
+          "78": "Pearl",
+          "79": "Catseye",
+          "80": "Tanzanite",
+          "81": "Obsidian"
         }
       },
       "forms": {
@@ -9144,7 +9210,8 @@
         "27": "Spirit Blossom Soraka",
         "37": "Immortal Journey Soraka",
         "44": "Faerie Court Soraka",
-        "53": "Flora Fatalis Soraka"
+        "53": "Flora Fatalis Soraka",
+        "63": "Ocean Song Soraka"
       },
       "chromas": {
         "9": {
@@ -9205,6 +9272,16 @@
         },
         "4": {
           "62": "Doom"
+        },
+        "63": {
+          "64": "Ruby",
+          "65": "Catseye",
+          "66": "Emerald",
+          "67": "Turquoise",
+          "68": "Sapphire",
+          "69": "Rose Quartz",
+          "70": "Obsidian",
+          "71": "Pearl"
         }
       },
       "forms": {}
@@ -9448,6 +9525,9 @@
         },
         "2": {
           "23": "Elite"
+        },
+        "1": {
+          "33": "Paragon"
         }
       },
       "forms": {}
@@ -9912,7 +9992,8 @@
         "41": "Firecracker Tristana",
         "51": "Spirit Blossom Tristana",
         "61": "Faerie Court Tristana",
-        "70": "Rain Shepherd Tristana"
+        "70": "Rain Shepherd Tristana",
+        "79": "Risen Legend Tristana"
       },
       "chromas": {
         "6": {
@@ -9996,7 +10077,11 @@
           "78": "Obsidian"
         }
       },
-      "forms": {}
+      "forms": {
+        "79": {
+          "80": "Stage 2"
+        }
+      }
     },
     "Tryndamere": {
       "skins": {
