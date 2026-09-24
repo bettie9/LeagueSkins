@@ -1,5 +1,5 @@
 {
-  "patch": "16.18.1",
+  "patch": "16.19.1",
   "champions": {
     "Aatrox": {
       "skins": {
@@ -139,7 +139,8 @@
           "49": "Obsidian",
           "50": "Pearl",
           "51": "Dark Ritual",
-          "64": "Ahri-versary"
+          "64": "Ahri-versary",
+          "96": "Pristine"
         },
         "1": {
           "52": "Ahri-versary"
@@ -489,7 +490,8 @@
         "17": "Cosmic Flight Anivia",
         "27": "Divine Phoenix Anivia",
         "37": "Bewitching Batnivia",
-        "46": "Victorious Anivia"
+        "46": "Victorious Anivia",
+        "56": "Old God Anivia"
       },
       "chromas": {
         "8": {
@@ -543,6 +545,16 @@
           "52": "Master",
           "53": "Grandmaster",
           "54": "Challenger"
+        },
+        "56": {
+          "57": "Ruby",
+          "58": "Emerald",
+          "59": "Citrine",
+          "60": "Pearl",
+          "61": "Sapphire",
+          "62": "Obsidian",
+          "63": "Rose Quartz",
+          "64": "Tanzanite"
         }
       },
       "forms": {}
@@ -821,7 +833,8 @@
           "38": "Tanzanite",
           "39": "Obsidian",
           "40": "Pearl",
-          "41": "Dark Ritual"
+          "41": "Dark Ritual",
+          "93": "Pristine"
         },
         "43": {
           "44": "Ruby",
@@ -3502,7 +3515,8 @@
         "45": "Cyber Halo Janna",
         "46": "Prestige Cyber Halo Janna",
         "56": "Heavenscale Janna",
-        "66": "Dawnbringer Janna"
+        "66": "Dawnbringer Janna",
+        "67": "Coven Janna"
       },
       "chromas": {
         "8": {
@@ -3568,6 +3582,14 @@
           "63": "Sapphire",
           "64": "Obsidian",
           "65": "Lustrous"
+        },
+        "67": {
+          "68": "Ruby",
+          "69": "Sapphire",
+          "70": "Rose Quartz",
+          "71": "Catseye",
+          "72": "Obsidian",
+          "73": "Pearl"
         }
       },
       "forms": {}
@@ -5747,7 +5769,8 @@
     "Mel": {
       "skins": {
         "1": "Arcane Councilor Mel",
-        "10": "Prestige Winterblessed Mel"
+        "10": "Prestige Winterblessed Mel",
+        "12": "Coven Mel"
       },
       "chromas": {
         "1": {
@@ -5762,6 +5785,16 @@
         },
         "10": {
           "11": "Vivid"
+        },
+        "12": {
+          "13": "Ruby",
+          "14": "Aquamarine",
+          "15": "Turquoise",
+          "16": "Obsidian",
+          "17": "Catseye",
+          "18": "Rose Quartz",
+          "19": "Tanzanite",
+          "20": "Pearl"
         }
       },
       "forms": {}
@@ -6259,7 +6292,8 @@
           "28": "Pearl",
           "29": "Tanzanite",
           "30": "Obsidian",
-          "40": "Dark Ritual"
+          "40": "Dark Ritual",
+          "83": "Pristine"
         },
         "11": {
           "31": "Ruby",
@@ -10323,7 +10357,8 @@
         "9": "High Noon Urgot",
         "15": "Pajama Guardian Cosplay Urgot",
         "23": "Fright Night Urgot",
-        "32": "Urgot the Clogfather"
+        "32": "Urgot the Clogfather",
+        "41": "Old God Urgot"
       },
       "chromas": {
         "3": {
@@ -10368,6 +10403,16 @@
           "38": "Pearl",
           "39": "Meteorite",
           "40": "Obsidian"
+        },
+        "41": {
+          "42": "Ruby",
+          "43": "Catseye",
+          "44": "Emerald",
+          "45": "Sapphire",
+          "46": "Tanzanite",
+          "47": "Rose Quartz",
+          "48": "Pearl",
+          "49": "Obsidian"
         }
       },
       "forms": {}
