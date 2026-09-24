@@ -1,28 +1,98 @@
-<div align="center">
-  <h1>🌻 League of Legends Fantome Repository</h1>
-  <p><i>A comprehensive collection of League of Legends <code>.fantome</code> files — skins, emotes, and totems (wards) — rebuilt every patch.</i></p>
-</div>
+<h1 align="center">LeagueSkins</h1>
+
+<p align="center">Skins, chromas, emotes and wards for League of Legends and League Classic.</p>
+
+<p align="center">
+  The package library behind <a href="https://github.com/bettie9/Sunshine"><strong>Sunshine</strong></a>.
+</p>
+
+<p align="center">
+  <a href="https://github.com/bettie9/Sunshine/releases/latest"><strong>Download Sunshine</strong></a> ·
+  <a href="#browse-the-library">Browse packages</a> ·
+  <a href="classic/README.md">Classic guide</a> ·
+  <a href="https://discord.gg/8zsgZUxVgW">Discord</a>
+</p>
+
+## Browse the library
+
+Download individual `.fantome` packages here, or browse and install them directly in Sunshine.
+
+| Collection | Packages | Coverage | Catalog |
+| --- | ---: | --- | --- |
+| [Champion skins](skins/) | 9,011 | Skins, chromas and forms for 173 normal LoL champions | [index.json](index.json) |
+| [League Classic](classic/) | 1,716 | Skins, chromas and variants for 72 Classic champions | [classic/index.json](classic/index.json) |
+| [Emotes](emotes/) | 2,057 | Replacements for the default thumbs-up emote | [emotes-index.json](emotes-index.json) |
+| [Wards / Totems](wards/) | 265 | Replacements for default ward and trinket appearances | [wards-index.json](wards-index.json) |
+
+*Library snapshot: September 24, 2026. Normal skin catalog: 16.19.1. Classic catalog: 16.19. Counts include individual variant packages.*
+
+**Choose the collection for your game mode.** Packages in `skins/` target normal LoL champions. Packages in `classic/` target the `Jade_*` champions used by League Classic; they do not turn normal LoL champions into their Classic versions.
+
+## Use with Sunshine
+
+1. Install [Sunshine](https://github.com/bettie9/Sunshine/releases/latest) and configure your League installation in **Settings → Game setup**.
+2. Select **Sunshine** under **Skin source** to prefer this repository for regular skins.
+3. Open **Skin Changer**, choose **Skins**, **Classic**, **Emotes** or **Totems**, then browse and install your selection.
+4. Enable your packages and use **Apply & Inject** before starting the game. Sunshine uses **LTK Patcher** by default.
+
+The **Classic** tab requires Sunshine **0.13.0 or later**. Classic packages, emotes and wards always download from this repository, independently of the preferred source for regular skins.
+
+For normal champion skins, select the champion's **default skin** in League. Emote packages replace the **default thumbs-up emote**; equip it in your emote wheel. Enable one replacement per champion, one emote and one ward package at a time to avoid conflicting overrides.
+
+## Download a package manually
+
+1. Open the collection above and find the `.fantome` file you want.
+2. Open the file on GitHub and choose **Download raw file**.
+3. Import the downloaded `.fantome` into Sunshine or a mod manager that supports the format, such as LTK Manager.
+4. Enable it using a patcher compatible with your installed game version.
+
+You only need the packages you want; downloading or cloning the entire repository is unnecessary for installation. Leave the `.fantome` file intact when importing it.
+
+Examples: [Dynasty Ahri for normal LoL](skins/Ahri/Dynasty%20Ahri.fantome) · [Dynasty Ahri for League Classic](classic/Jade_Ahri/60103001.fantome).
+
+## Compatibility and updates
+
+- Game patches can change assets, hashes and dependencies. Check the catalog's patch and [recent commits](https://github.com/bettie9/LeagueSkins/commits/main/) when troubleshooting; rebuilds may arrive after the game update.
+- A successful download or import does not guarantee that every model, animation or effect works in game. Test a new package in a practice or custom game for the intended mode.
+- Package compatibility and patcher compatibility are separate. An older patcher is not a guaranteed fix for a broken package.
+- Classic packages have their own targets and validation notes. Read the [Classic guide](classic/README.md) before using them outside Sunshine's Classic browser.
+
+## Report a problem
+
+[Open a package issue](https://github.com/bettie9/LeagueSkins/issues/new) or join [Discord](https://discord.gg/8zsgZUxVgW). Include:
+
+- The package's repository link and the affected skin or chroma.
+- Your League patch and whether you are playing normal LoL or League Classic.
+- Your mod manager version and injection method.
+- What happened: import failure, unchanged appearance, missing effects or a crash, plus any steps that reproduce it.
+
+For problems with Sunshine itself, use the [Sunshine issue tracker](https://github.com/bettie9/Sunshine/issues). You can export support logs from **Settings → Support → Save support logs**; review them before sharing.
+
+<details>
+<summary><strong>Repository layout and catalogs</strong></summary>
+
+```text
+skins/<champion>/<skin>.fantome
+skins/<champion>/<base skin>/<chroma or form>.fantome
+classic/<Jade champion>/<full skin id>.fantome
+emotes/<emote>.fantome
+wards/<ward>.fantome
+```
+
+The regular catalog groups skins, chromas and forms by champion. Emote and ward catalogs provide each package's filename.
+
+The Classic catalog includes champion identities, target slots, artwork, parent-skin relationships and package SHA-256 hashes. Its package `path` values are relative to `classic/`.
+
+Use the catalogs when resolving downloads: display names can contain punctuation or differ from filenames. URL-encode path segments when constructing raw download URLs.
+
+</details>
+
+## Credits
+
+- [Sunshine](https://github.com/bettie9/Sunshine) — package builds and app integration.
+- [CommunityDragon](https://communitydragon.org) — catalogs, artwork references and asset hash data.
+- [LtMAO](https://github.com/tarngaina/LtMAO) and [ritobin](https://github.com/moonshadow565/ritobin) — tooling used by the skin-building pipeline.
 
 ---
 
-## ✨ Use it with Sunshine
-
-The cleanest way to install anything from this repository is **[Sunshine](https://github.com/bettie9/Sunshine)** — a Tauri-based League of Legends companion app that reads this mirror directly.
-
-Inside Sunshine you get a built-in browser for **Skins**, **Emotes**, and **Totems** with one-click install — no manual `.fantome` hunting, no version-mismatch surprises. Sunshine handles the download, the import via `cslol-manager`.
-
-Of course you're also free to grab the `.fantome` files from this repo directly and load them into your own mod manager.
-
-## ⚠️ Compatibility notice
-
-Despite our best efforts, a small number of files may not work perfectly in-game — animated emotes and VFX-heavy assets are the most common offenders. We recommend testing anything important in **Practice Tool** before relying on it in a live game.
-
-The `.fantome` files in this repository may also be **incompatible with the latest builds** of cslol-manager / LTK Manager mod-tools. If you hit import or injection errors, fall back to a slightly older `mod-tools.exe` + `cslol-dll.dll` pairing — or simply use Sunshine, which pins a known-working version automatically.
-
-## 🔁 Patch cadence
-
-Riot churns the WAD entry hashes every patch, so every `.fantome` here gets re-extracted and re-published after each League patch. If something is missing right on patch day, please give the rebuild a few hours to land.
-
-## ⚖️ Legal Disclaimer
-
-> This repository is **not endorsed by Riot Games** and does not represent the views or opinions of Riot Games or any of its affiliates. Riot Games and all related properties are trademarks or registered trademarks of Riot Games, Inc.
+LeagueSkins is an independent project and is not affiliated with or endorsed by Riot Games. League of Legends, its characters and game assets belong to Riot Games. Cosmetic changes are local to your client.
