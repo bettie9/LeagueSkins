@@ -372,6 +372,69 @@
       },
       "forms": {}
     },
+    "Alistar": {
+      "skins": {
+        "1": "Black Alistar",
+        "2": "Golden Alistar",
+        "3": "Matador Alistar",
+        "4": "Longhorn Alistar",
+        "5": "Unchained Alistar",
+        "6": "Infernal Alistar",
+        "7": "Sweeper Alistar",
+        "8": "Marauder Alistar",
+        "9": "SKT T1 Alistar",
+        "10": "Moo Cow Alistar",
+        "19": "Hextech Alistar",
+        "20": "Conqueror Alistar",
+        "22": "Blackfrost Alistar",
+        "29": "Lunar Beast Alistar",
+        "40": "Elderwood Alistar",
+        "49": "Black Alistar Modern"
+      },
+      "chromas": {
+        "10": {
+          "11": "Rose Quartz",
+          "12": "Peridot",
+          "13": "Catseye",
+          "14": "Aquamarine",
+          "15": "Jasper",
+          "16": "Sapphire",
+          "17": "Citrine",
+          "18": "Amethyst"
+        },
+        "20": {
+          "21": "Golden"
+        },
+        "22": {
+          "23": "Ruby",
+          "24": "Turquoise",
+          "25": "Emerald",
+          "26": "Amethyst",
+          "27": "Obsidian",
+          "28": "Pearl"
+        },
+        "29": {
+          "30": "Ruby",
+          "31": "Sapphire",
+          "32": "Catseye",
+          "33": "Amethyst",
+          "34": "Vitality",
+          "35": "Obsidian",
+          "36": "Rose Quartz"
+        },
+        "40": {
+          "41": "Ruby",
+          "42": "Catseye",
+          "43": "Emerald",
+          "44": "Amethyst",
+          "45": "Sapphire",
+          "46": "Rose Quartz",
+          "47": "Pearl",
+          "48": "Obsidian"
+        }
+      },
+      "forms": {}
+    },
     "Ambessa": {
       "skins": {
         "1": "Chosen of the Wolf Ambessa",
@@ -559,65 +622,78 @@
       },
       "forms": {}
     },
-    "Alistar": {
+    "Annie": {
       "skins": {
-        "1": "Black Alistar",
-        "2": "Golden Alistar",
-        "3": "Matador Alistar",
-        "4": "Longhorn Alistar",
-        "5": "Unchained Alistar",
-        "6": "Infernal Alistar",
-        "7": "Sweeper Alistar",
-        "8": "Marauder Alistar",
-        "9": "SKT T1 Alistar",
-        "10": "Moo Cow Alistar",
-        "19": "Hextech Alistar",
-        "20": "Conqueror Alistar",
-        "22": "Blackfrost Alistar",
-        "29": "Lunar Beast Alistar",
-        "40": "Elderwood Alistar",
-        "49": "Black Alistar Modern"
+        "1": "Goth Annie",
+        "2": "Red Riding Annie",
+        "3": "Annie in Wonderland",
+        "4": "Prom Queen Annie",
+        "5": "Frostfire Annie",
+        "6": "Reverse Annie",
+        "7": "FrankenTibbers Annie",
+        "8": "Panda Annie",
+        "9": "Sweetheart Annie",
+        "10": "Hextech Annie",
+        "11": "Super Galaxy Annie",
+        "12": "Annie-Versary",
+        "13": "Lunar Beast Annie",
+        "22": "Cafe Cuties Annie",
+        "31": "Fright Night Annie",
+        "40": "Winterblessed Annie",
+        "50": "Battle Princess Annie",
+        "59": "Pandemonium Annie",
+        "60": "Goth Annie Modern"
       },
       "chromas": {
-        "10": {
-          "11": "Rose Quartz",
-          "12": "Peridot",
-          "13": "Catseye",
-          "14": "Aquamarine",
-          "15": "Jasper",
-          "16": "Sapphire",
-          "17": "Citrine",
-          "18": "Amethyst"
-        },
-        "20": {
-          "21": "Golden"
+        "13": {
+          "14": "Ruby",
+          "15": "Vitality",
+          "16": "Citrine",
+          "17": "Amethyst",
+          "18": "Sapphire",
+          "19": "Obsidian",
+          "20": "Rose Quartz"
         },
         "22": {
           "23": "Ruby",
-          "24": "Turquoise",
+          "24": "Catseye",
           "25": "Emerald",
-          "26": "Amethyst",
-          "27": "Obsidian",
-          "28": "Pearl"
+          "26": "Aquamarine",
+          "27": "Tanzanite",
+          "28": "Rose Quartz",
+          "29": "Pearl",
+          "30": "Obsidian"
         },
-        "29": {
-          "30": "Ruby",
-          "31": "Sapphire",
-          "32": "Catseye",
-          "33": "Amethyst",
-          "34": "Vitality",
-          "35": "Obsidian",
-          "36": "Rose Quartz"
+        "31": {
+          "32": "Ruby",
+          "33": "Catseye",
+          "34": "Emerald",
+          "35": "Aquamarine",
+          "36": "Rose Quartz",
+          "37": "Tanzanite",
+          "38": "Pearl",
+          "39": "Obsidian"
         },
         "40": {
           "41": "Ruby",
-          "42": "Catseye",
-          "43": "Emerald",
-          "44": "Amethyst",
+          "42": "Rose Quartz",
+          "43": "Catseye",
+          "44": "Emerald",
           "45": "Sapphire",
-          "46": "Rose Quartz",
-          "47": "Pearl",
-          "48": "Obsidian"
+          "46": "Aquamarine",
+          "47": "Rainbow",
+          "48": "Obsidian",
+          "49": "Wreathguard"
+        },
+        "50": {
+          "51": "Ruby",
+          "52": "Citrine",
+          "53": "Turquoise",
+          "54": "Sapphire",
+          "55": "Tanzanite",
+          "56": "Rose Quartz",
+          "57": "Pearl",
+          "58": "Obsidian"
         }
       },
       "forms": {}
@@ -674,99 +750,6 @@
           "37": "Pearl",
           "38": "Citrine",
           "39": "Rockstar"
-        }
-      },
-      "forms": {}
-    },
-    "AurelionSol": {
-      "skins": {
-        "1": "Ashen Lord Aurelion Sol",
-        "2": "Mecha Aurelion Sol",
-        "11": "Storm Dragon Aurelion Sol",
-        "21": "Inkshadow Aurelion Sol",
-        "31": "Porcelain Protector Aurelion Sol",
-        "38": "Divine Architect Porcelain Aurelion Sol"
-      },
-      "chromas": {
-        "2": {
-          "4": "Ruby",
-          "5": "Catseye",
-          "6": "Sapphire",
-          "7": "Rose Quartz",
-          "8": "Amethyst",
-          "9": "Pearl",
-          "10": "Obsidian"
-        },
-        "11": {
-          "12": "Ruby",
-          "13": "Tanzanite",
-          "14": "Jadeclaw",
-          "15": "Sapphire",
-          "16": "Obsidian",
-          "17": "Pearl",
-          "18": "Amethyst",
-          "19": "Rose Quartz",
-          "20": "Emberclaw"
-        },
-        "21": {
-          "22": "Ruby",
-          "23": "Citrine",
-          "24": "Emerald",
-          "25": "Turquoise",
-          "26": "Sapphire",
-          "27": "Rose Quartz",
-          "28": "Tanzanite",
-          "29": "Obsidian",
-          "30": "Inked"
-        },
-        "31": {
-          "32": "Ruby",
-          "33": "Amethyst",
-          "34": "Opulent",
-          "35": "Obsidian",
-          "36": "Rose Quartz",
-          "37": "Catseye"
-        }
-      },
-      "forms": {}
-    },
-    "Aurora": {
-      "skins": {
-        "1": "Battle Bunny Aurora",
-        "11": "Arcana Aurora",
-        "20": "Broken Covenant Aurora"
-      },
-      "chromas": {
-        "1": {
-          "2": "Ruby",
-          "3": "Catseye",
-          "4": "Emerald",
-          "5": "Turquoise",
-          "6": "Obsidian",
-          "7": "Amethyst",
-          "8": "Meteorite",
-          "9": "Rose Quartz",
-          "10": "Nightwire"
-        },
-        "11": {
-          "12": "Ruby",
-          "13": "Catseye",
-          "14": "Emerald",
-          "15": "Sapphire",
-          "16": "Rose Quartz",
-          "17": "Tanzanite",
-          "18": "Pearl",
-          "19": "Obsidian"
-        },
-        "20": {
-          "21": "Ruby",
-          "22": "Catseye",
-          "23": "Emerald",
-          "24": "Tanzanite",
-          "25": "Sapphire",
-          "26": "Rose Quartz",
-          "27": "Pearl",
-          "28": "Obsidian"
         }
       },
       "forms": {}
@@ -893,6 +876,99 @@
           "90": "Rose Quartz",
           "91": "Obsidian",
           "92": "Pearl"
+        }
+      },
+      "forms": {}
+    },
+    "AurelionSol": {
+      "skins": {
+        "1": "Ashen Lord Aurelion Sol",
+        "2": "Mecha Aurelion Sol",
+        "11": "Storm Dragon Aurelion Sol",
+        "21": "Inkshadow Aurelion Sol",
+        "31": "Porcelain Protector Aurelion Sol",
+        "38": "Divine Architect Porcelain Aurelion Sol"
+      },
+      "chromas": {
+        "2": {
+          "4": "Ruby",
+          "5": "Catseye",
+          "6": "Sapphire",
+          "7": "Rose Quartz",
+          "8": "Amethyst",
+          "9": "Pearl",
+          "10": "Obsidian"
+        },
+        "11": {
+          "12": "Ruby",
+          "13": "Tanzanite",
+          "14": "Jadeclaw",
+          "15": "Sapphire",
+          "16": "Obsidian",
+          "17": "Pearl",
+          "18": "Amethyst",
+          "19": "Rose Quartz",
+          "20": "Emberclaw"
+        },
+        "21": {
+          "22": "Ruby",
+          "23": "Citrine",
+          "24": "Emerald",
+          "25": "Turquoise",
+          "26": "Sapphire",
+          "27": "Rose Quartz",
+          "28": "Tanzanite",
+          "29": "Obsidian",
+          "30": "Inked"
+        },
+        "31": {
+          "32": "Ruby",
+          "33": "Amethyst",
+          "34": "Opulent",
+          "35": "Obsidian",
+          "36": "Rose Quartz",
+          "37": "Catseye"
+        }
+      },
+      "forms": {}
+    },
+    "Aurora": {
+      "skins": {
+        "1": "Battle Bunny Aurora",
+        "11": "Arcana Aurora",
+        "20": "Broken Covenant Aurora"
+      },
+      "chromas": {
+        "1": {
+          "2": "Ruby",
+          "3": "Catseye",
+          "4": "Emerald",
+          "5": "Turquoise",
+          "6": "Obsidian",
+          "7": "Amethyst",
+          "8": "Meteorite",
+          "9": "Rose Quartz",
+          "10": "Nightwire"
+        },
+        "11": {
+          "12": "Ruby",
+          "13": "Catseye",
+          "14": "Emerald",
+          "15": "Sapphire",
+          "16": "Rose Quartz",
+          "17": "Tanzanite",
+          "18": "Pearl",
+          "19": "Obsidian"
+        },
+        "20": {
+          "21": "Ruby",
+          "22": "Catseye",
+          "23": "Emerald",
+          "24": "Tanzanite",
+          "25": "Sapphire",
+          "26": "Rose Quartz",
+          "27": "Pearl",
+          "28": "Obsidian"
         }
       },
       "forms": {}
@@ -1345,6 +1421,97 @@
       },
       "forms": {}
     },
+    "Caitlyn": {
+      "skins": {
+        "1": "Resistance Caitlyn",
+        "2": "Sheriff Caitlyn",
+        "3": "Safari Caitlyn",
+        "4": "Arctic Warfare Caitlyn",
+        "5": "Officer Caitlyn",
+        "6": "Headhunter Caitlyn",
+        "10": "Lunar Wraith Caitlyn",
+        "11": "Pulsefire Caitlyn",
+        "13": "Pool Party Caitlyn",
+        "19": "Arcade Caitlyn",
+        "20": "Prestige Arcade Caitlyn",
+        "22": "Battle Academia Caitlyn",
+        "28": "Arcane Enforcer Caitlyn",
+        "29": "Prestige Arcade Caitlyn (2022)",
+        "30": "Snow Moon Caitlyn",
+        "39": "Heartthrob Caitlyn",
+        "48": "DRX Caitlyn",
+        "50": "Arcane Commander Caitlyn",
+        "51": "Prestige Arcane Commander Caitlyn",
+        "54": "Firecracker Caitlyn"
+      },
+      "chromas": {
+        "0": {
+          "7": "Caitlyn Rebel Pink",
+          "8": "Caitlyn Rebel Green",
+          "9": "Caitlyn Rebel Blue"
+        },
+        "10": {
+          "12": "Golden"
+        },
+        "13": {
+          "14": "Ruby",
+          "15": "Rose Quartz",
+          "16": "Catseye",
+          "17": "Obsidian",
+          "18": "Aquamarine"
+        },
+        "11": {
+          "21": "Chrono"
+        },
+        "22": {
+          "23": "Ruby",
+          "24": "Sapphire",
+          "25": "Rose Quartz",
+          "26": "Obsidian",
+          "27": "Pearl"
+        },
+        "30": {
+          "31": "Ruby",
+          "32": "Sapphire",
+          "33": "Catseye",
+          "34": "Tanzanite",
+          "35": "Emerald",
+          "36": "Rose Quartz",
+          "37": "Turquoise",
+          "38": "Pearl"
+        },
+        "39": {
+          "40": "Ruby",
+          "41": "Turquoise",
+          "42": "Sapphire",
+          "43": "Rose Quartz",
+          "44": "Peridot",
+          "45": "Sandstone",
+          "46": "Amethyst",
+          "47": "Obsidian"
+        },
+        "48": {
+          "49": "Elite"
+        },
+        "50": {
+          "52": "Paragon"
+        },
+        "51": {
+          "53": "Stellar"
+        },
+        "54": {
+          "55": "Ruby",
+          "56": "Catseye",
+          "57": "Emerald",
+          "58": "Sapphire",
+          "59": "Rose Quartz",
+          "60": "Amethyst",
+          "61": "Obsidian",
+          "62": "Pearl"
+        }
+      },
+      "forms": {}
+    },
     "Camille": {
       "skins": {
         "1": "Program Camille",
@@ -1464,97 +1631,6 @@
           "34": "Turquoise",
           "35": "Pearl",
           "36": "Obsidian"
-        }
-      },
-      "forms": {}
-    },
-    "Caitlyn": {
-      "skins": {
-        "1": "Resistance Caitlyn",
-        "2": "Sheriff Caitlyn",
-        "3": "Safari Caitlyn",
-        "4": "Arctic Warfare Caitlyn",
-        "5": "Officer Caitlyn",
-        "6": "Headhunter Caitlyn",
-        "10": "Lunar Wraith Caitlyn",
-        "11": "Pulsefire Caitlyn",
-        "13": "Pool Party Caitlyn",
-        "19": "Arcade Caitlyn",
-        "20": "Prestige Arcade Caitlyn",
-        "22": "Battle Academia Caitlyn",
-        "28": "Arcane Enforcer Caitlyn",
-        "29": "Prestige Arcade Caitlyn (2022)",
-        "30": "Snow Moon Caitlyn",
-        "39": "Heartthrob Caitlyn",
-        "48": "DRX Caitlyn",
-        "50": "Arcane Commander Caitlyn",
-        "51": "Prestige Arcane Commander Caitlyn",
-        "54": "Firecracker Caitlyn"
-      },
-      "chromas": {
-        "0": {
-          "7": "Caitlyn Rebel Pink",
-          "8": "Caitlyn Rebel Green",
-          "9": "Caitlyn Rebel Blue"
-        },
-        "10": {
-          "12": "Golden"
-        },
-        "13": {
-          "14": "Ruby",
-          "15": "Rose Quartz",
-          "16": "Catseye",
-          "17": "Obsidian",
-          "18": "Aquamarine"
-        },
-        "11": {
-          "21": "Chrono"
-        },
-        "22": {
-          "23": "Ruby",
-          "24": "Sapphire",
-          "25": "Rose Quartz",
-          "26": "Obsidian",
-          "27": "Pearl"
-        },
-        "30": {
-          "31": "Ruby",
-          "32": "Sapphire",
-          "33": "Catseye",
-          "34": "Tanzanite",
-          "35": "Emerald",
-          "36": "Rose Quartz",
-          "37": "Turquoise",
-          "38": "Pearl"
-        },
-        "39": {
-          "40": "Ruby",
-          "41": "Turquoise",
-          "42": "Sapphire",
-          "43": "Rose Quartz",
-          "44": "Peridot",
-          "45": "Sandstone",
-          "46": "Amethyst",
-          "47": "Obsidian"
-        },
-        "48": {
-          "49": "Elite"
-        },
-        "50": {
-          "52": "Paragon"
-        },
-        "51": {
-          "53": "Stellar"
-        },
-        "54": {
-          "55": "Ruby",
-          "56": "Catseye",
-          "57": "Emerald",
-          "58": "Sapphire",
-          "59": "Rose Quartz",
-          "60": "Amethyst",
-          "61": "Obsidian",
-          "62": "Pearl"
         }
       },
       "forms": {}
@@ -1773,82 +1849,6 @@
       },
       "forms": {}
     },
-    "Annie": {
-      "skins": {
-        "1": "Goth Annie",
-        "2": "Red Riding Annie",
-        "3": "Annie in Wonderland",
-        "4": "Prom Queen Annie",
-        "5": "Frostfire Annie",
-        "6": "Reverse Annie",
-        "7": "FrankenTibbers Annie",
-        "8": "Panda Annie",
-        "9": "Sweetheart Annie",
-        "10": "Hextech Annie",
-        "11": "Super Galaxy Annie",
-        "12": "Annie-Versary",
-        "13": "Lunar Beast Annie",
-        "22": "Cafe Cuties Annie",
-        "31": "Fright Night Annie",
-        "40": "Winterblessed Annie",
-        "50": "Battle Princess Annie",
-        "59": "Pandemonium Annie",
-        "60": "Goth Annie Modern"
-      },
-      "chromas": {
-        "13": {
-          "14": "Ruby",
-          "15": "Vitality",
-          "16": "Citrine",
-          "17": "Amethyst",
-          "18": "Sapphire",
-          "19": "Obsidian",
-          "20": "Rose Quartz"
-        },
-        "22": {
-          "23": "Ruby",
-          "24": "Catseye",
-          "25": "Emerald",
-          "26": "Aquamarine",
-          "27": "Tanzanite",
-          "28": "Rose Quartz",
-          "29": "Pearl",
-          "30": "Obsidian"
-        },
-        "31": {
-          "32": "Ruby",
-          "33": "Catseye",
-          "34": "Emerald",
-          "35": "Aquamarine",
-          "36": "Rose Quartz",
-          "37": "Tanzanite",
-          "38": "Pearl",
-          "39": "Obsidian"
-        },
-        "40": {
-          "41": "Ruby",
-          "42": "Rose Quartz",
-          "43": "Catseye",
-          "44": "Emerald",
-          "45": "Sapphire",
-          "46": "Aquamarine",
-          "47": "Rainbow",
-          "48": "Obsidian",
-          "49": "Wreathguard"
-        },
-        "50": {
-          "51": "Ruby",
-          "52": "Citrine",
-          "53": "Turquoise",
-          "54": "Sapphire",
-          "55": "Tanzanite",
-          "56": "Rose Quartz",
-          "57": "Pearl",
-          "58": "Obsidian"
-        }
-      },
-      "forms": {}
-    },
     "Diana": {
       "skins": {
         "1": "Dark Valkyrie Diana",
@@ -1998,6 +1998,106 @@
       },
       "forms": {}
     },
+    "Draven": {
+      "skins": {
+        "1": "Soul Reaver Draven",
+        "2": "Gladiator Draven",
+        "3": "Primetime Draven",
+        "4": "Pool Party Draven",
+        "5": "Beast Hunter Draven",
+        "6": "Draven Draven",
+        "12": "Santa Draven",
+        "13": "Mecha Kingdoms Draven",
+        "20": "Ruined Draven",
+        "29": "Debonair Draven",
+        "39": "Fright Night Draven",
+        "48": "La Ilusión Draven",
+        "58": "Grand Reckoning Draven",
+        "68": "Victorious Draven"
+      },
+      "chromas": {
+        "3": {
+          "7": "Pearl",
+          "8": "Catseye",
+          "9": "Tanzanite",
+          "10": "Sapphire",
+          "11": "Obsidian"
+        },
+        "13": {
+          "14": "Ruby",
+          "15": "Peacekeeper",
+          "16": "Emerald",
+          "17": "Obsidian",
+          "18": "Rose Quartz",
+          "19": "Amethyst"
+        },
+        "20": {
+          "21": "Ruby",
+          "22": "Citrine",
+          "23": "Amethyst",
+          "24": "Sapphire",
+          "25": "Emerald",
+          "26": "Rose Quartz",
+          "27": "Pearl",
+          "28": "Cursed"
+        },
+        "29": {
+          "30": "Ruby",
+          "31": "Catseye",
+          "32": "Rose Quartz",
+          "33": "Emerald",
+          "34": "Sapphire",
+          "35": "Tanzanite",
+          "36": "Turquoise",
+          "37": "Obsidian",
+          "38": "Cerulean Club"
+        },
+        "39": {
+          "40": "Ruby",
+          "41": "Catseye",
+          "42": "Sapphire",
+          "43": "Emerald",
+          "44": "Rose Quartz",
+          "45": "Tanzanite",
+          "46": "Obsidian",
+          "47": "Pearl"
+        },
+        "48": {
+          "49": "Ruby",
+          "50": "Citrine",
+          "51": "Emerald",
+          "52": "Tanzanite",
+          "53": "Turquoise",
+          "54": "Rose Quartz",
+          "55": "Sapphire",
+          "56": "Pearl",
+          "57": "Vivida"
+        },
+        "58": {
+          "59": "Ruby",
+          "60": "Catseye",
+          "61": "Emerald",
+          "62": "Turquoise",
+          "63": "Sapphire",
+          "64": "Tanzanite",
+          "65": "Pearl",
+          "66": "Obsidian",
+          "67": "Paragon"
+        },
+        "68": {
+          "69": "Bronze",
+          "70": "Silver",
+          "71": "Gold",
+          "72": "Platinum",
+          "73": "Emerald",
+          "74": "Diamond",
+          "75": "Master",
+          "76": "Grandmaster",
+          "77": "Challenger"
+        }
+      },
+      "forms": {}
+    },
     "Ekko": {
       "skins": {
         "1": "Sandstorm Ekko",
@@ -2121,106 +2221,6 @@
           "31": "Pearl",
           "32": "Obsidian",
           "33": "Profane"
-        }
-      },
-      "forms": {}
-    },
-    "Draven": {
-      "skins": {
-        "1": "Soul Reaver Draven",
-        "2": "Gladiator Draven",
-        "3": "Primetime Draven",
-        "4": "Pool Party Draven",
-        "5": "Beast Hunter Draven",
-        "6": "Draven Draven",
-        "12": "Santa Draven",
-        "13": "Mecha Kingdoms Draven",
-        "20": "Ruined Draven",
-        "29": "Debonair Draven",
-        "39": "Fright Night Draven",
-        "48": "La Ilusión Draven",
-        "58": "Grand Reckoning Draven",
-        "68": "Victorious Draven"
-      },
-      "chromas": {
-        "3": {
-          "7": "Pearl",
-          "8": "Catseye",
-          "9": "Tanzanite",
-          "10": "Sapphire",
-          "11": "Obsidian"
-        },
-        "13": {
-          "14": "Ruby",
-          "15": "Peacekeeper",
-          "16": "Emerald",
-          "17": "Obsidian",
-          "18": "Rose Quartz",
-          "19": "Amethyst"
-        },
-        "20": {
-          "21": "Ruby",
-          "22": "Citrine",
-          "23": "Amethyst",
-          "24": "Sapphire",
-          "25": "Emerald",
-          "26": "Rose Quartz",
-          "27": "Pearl",
-          "28": "Cursed"
-        },
-        "29": {
-          "30": "Ruby",
-          "31": "Catseye",
-          "32": "Rose Quartz",
-          "33": "Emerald",
-          "34": "Sapphire",
-          "35": "Tanzanite",
-          "36": "Turquoise",
-          "37": "Obsidian",
-          "38": "Cerulean Club"
-        },
-        "39": {
-          "40": "Ruby",
-          "41": "Catseye",
-          "42": "Sapphire",
-          "43": "Emerald",
-          "44": "Rose Quartz",
-          "45": "Tanzanite",
-          "46": "Obsidian",
-          "47": "Pearl"
-        },
-        "48": {
-          "49": "Ruby",
-          "50": "Citrine",
-          "51": "Emerald",
-          "52": "Tanzanite",
-          "53": "Turquoise",
-          "54": "Rose Quartz",
-          "55": "Sapphire",
-          "56": "Pearl",
-          "57": "Vivida"
-        },
-        "58": {
-          "59": "Ruby",
-          "60": "Catseye",
-          "61": "Emerald",
-          "62": "Turquoise",
-          "63": "Sapphire",
-          "64": "Tanzanite",
-          "65": "Pearl",
-          "66": "Obsidian",
-          "67": "Paragon"
-        },
-        "68": {
-          "69": "Bronze",
-          "70": "Silver",
-          "71": "Gold",
-          "72": "Platinum",
-          "73": "Emerald",
-          "74": "Diamond",
-          "75": "Master",
-          "76": "Grandmaster",
-          "77": "Challenger"
         }
       },
       "forms": {}
@@ -2478,6 +2478,136 @@
           "52": "Catseye",
           "53": "Obsidian",
           "54": "Pearl"
+        }
+      },
+      "forms": {}
+    },
+    "Fiora": {
+      "skins": {
+        "1": "Royal Guard Fiora",
+        "2": "Nightraven Fiora",
+        "3": "Headmistress Fiora",
+        "4": "PROJECT: Fiora",
+        "5": "Pool Party Fiora",
+        "22": "Soaring Sword Fiora",
+        "23": "Heartpiercer Fiora",
+        "31": "iG Fiora",
+        "41": "Pulsefire Fiora",
+        "50": "Lunar Beast Fiora",
+        "51": "Prestige Lunar Beast Fiora",
+        "60": "Bewitching Fiora",
+        "69": "Faerie Court Fiora",
+        "80": "Dragonmancer Fiora",
+        "89": "Battle Queen Fiora",
+        "98": "Victorious Fiora"
+      },
+      "chromas": {
+        "3": {
+          "6": "Jasper",
+          "7": "Amethyst",
+          "8": "Sandstone",
+          "9": "Ruby",
+          "10": "Sapphire",
+          "11": "Pearl",
+          "12": "Catseye",
+          "13": "Rose Quartz"
+        },
+        "5": {
+          "14": "Tanzanite",
+          "15": "Turquoise",
+          "16": "Rose Quartz",
+          "17": "Aquamarine",
+          "18": "Citrine",
+          "19": "Pearl",
+          "20": "Rainbow",
+          "21": "Sapphire"
+        },
+        "23": {
+          "24": "Ruby",
+          "25": "Citrine",
+          "26": "Amethyst",
+          "27": "Rose Quartz",
+          "28": "Aquamarine",
+          "29": "Obsidian",
+          "30": "Pearl"
+        },
+        "4": {
+          "40": "Reckoning"
+        },
+        "41": {
+          "42": "Ruby",
+          "43": "Citrine",
+          "44": "Turquoise",
+          "45": "Sapphire",
+          "46": "Amethyst",
+          "47": "Pearl",
+          "48": "Obsidian",
+          "49": "Chrono"
+        },
+        "50": {
+          "52": "Ruby",
+          "53": "Catseye",
+          "54": "Tanzanite",
+          "55": "Sapphire",
+          "56": "Vitality",
+          "57": "Rose Quartz",
+          "58": "Obsidian"
+        },
+        "60": {
+          "61": "Ruby",
+          "62": "Citrine",
+          "63": "Emerald",
+          "64": "Rose Quartz",
+          "65": "Turquoise",
+          "66": "Sapphire",
+          "67": "Pearl",
+          "68": "Obsidian"
+        },
+        "69": {
+          "70": "Ruby",
+          "71": "Catseye",
+          "72": "Sapphire",
+          "73": "Emerald",
+          "74": "Turquoise",
+          "75": "Rose Quartz",
+          "76": "Obsidian",
+          "77": "Peridot",
+          "78": "Winsome"
+        },
+        "31": {
+          "79": "Tenfold Triumph",
+          "108": "Elite"
+        },
+        "80": {
+          "81": "Ruby",
+          "82": "Citrine",
+          "83": "Emerald",
+          "84": "Sapphire",
+          "85": "Rose Quartz",
+          "86": "Obsidian",
+          "87": "Tanzanite",
+          "88": "Pearl"
+        },
+        "89": {
+          "90": "Ruby",
+          "91": "Catseye",
+          "92": "Emerald",
+          "93": "Sapphire",
+          "94": "Tanzanite",
+          "95": "Rose Quartz",
+          "96": "Pearl",
+          "97": "Obsidian"
+        },
+        "98": {
+          "99": "Bronze",
+          "100": "Silver",
+          "101": "Gold",
+          "102": "Platinum",
+          "103": "Emerald",
+          "104": "Diamond",
+          "105": "Master",
+          "106": "Grandmaster",
+          "107": "Challenger"
         }
       },
       "forms": {}
@@ -2806,6 +2936,68 @@
       },
       "forms": {}
     },
+    "Gragas": {
+      "skins": {
+        "1": "Scuba Gragas",
+        "2": "Hillbilly Gragas",
+        "3": "Santa Gragas",
+        "4": "Gragas, Esq.",
+        "5": "Vandal Gragas",
+        "6": "Oktoberfest Gragas",
+        "7": "Superfan Gragas",
+        "8": "Fnatic Gragas",
+        "9": "Gragas Caskbreaker",
+        "10": "Arctic Ops Gragas",
+        "11": "Warden Gragas",
+        "20": "Space Groove Gragas",
+        "29": "High Noon Gragas",
+        "39": "Music Fan Gragas"
+      },
+      "chromas": {
+        "11": {
+          "12": "Citrine",
+          "13": "Sapphire",
+          "14": "Rose Quartz",
+          "15": "Ruby",
+          "16": "Pearl",
+          "17": "Amethyst",
+          "18": "Turquoise",
+          "19": "Peridot"
+        },
+        "20": {
+          "21": "Ruby",
+          "22": "Catseye",
+          "23": "Emerald",
+          "24": "Rose Quartz",
+          "25": "Tanzanite",
+          "26": "Pearl",
+          "27": "Obsidian",
+          "28": "Rainbow"
+        },
+        "29": {
+          "30": "Ruby",
+          "31": "Rose Quartz",
+          "32": "Citrine",
+          "33": "Emerald",
+          "34": "Turquoise",
+          "35": "Sapphire",
+          "36": "Tanzanite",
+          "37": "Obsidian",
+          "38": "Noonday"
+        },
+        "39": {
+          "40": "Ruby",
+          "41": "Catseye",
+          "42": "Sapphire",
+          "43": "Emerald",
+          "44": "Turquoise",
+          "45": "Rose Quartz",
+          "46": "Obsidian",
+          "47": "Pearl"
+        }
+      },
+      "forms": {}
+    },
     "Graves": {
       "skins": {
         "1": "Hired Gun Graves",
@@ -2878,136 +3070,6 @@
           "52": "Tanzanite",
           "53": "Catseye",
           "54": "Opulent"
-        }
-      },
-      "forms": {}
-    },
-    "Fiora": {
-      "skins": {
-        "1": "Royal Guard Fiora",
-        "2": "Nightraven Fiora",
-        "3": "Headmistress Fiora",
-        "4": "PROJECT: Fiora",
-        "5": "Pool Party Fiora",
-        "22": "Soaring Sword Fiora",
-        "23": "Heartpiercer Fiora",
-        "31": "iG Fiora",
-        "41": "Pulsefire Fiora",
-        "50": "Lunar Beast Fiora",
-        "51": "Prestige Lunar Beast Fiora",
-        "60": "Bewitching Fiora",
-        "69": "Faerie Court Fiora",
-        "80": "Dragonmancer Fiora",
-        "89": "Battle Queen Fiora",
-        "98": "Victorious Fiora"
-      },
-      "chromas": {
-        "3": {
-          "6": "Jasper",
-          "7": "Amethyst",
-          "8": "Sandstone",
-          "9": "Ruby",
-          "10": "Sapphire",
-          "11": "Pearl",
-          "12": "Catseye",
-          "13": "Rose Quartz"
-        },
-        "5": {
-          "14": "Tanzanite",
-          "15": "Turquoise",
-          "16": "Rose Quartz",
-          "17": "Aquamarine",
-          "18": "Citrine",
-          "19": "Pearl",
-          "20": "Rainbow",
-          "21": "Sapphire"
-        },
-        "23": {
-          "24": "Ruby",
-          "25": "Citrine",
-          "26": "Amethyst",
-          "27": "Rose Quartz",
-          "28": "Aquamarine",
-          "29": "Obsidian",
-          "30": "Pearl"
-        },
-        "4": {
-          "40": "Reckoning"
-        },
-        "41": {
-          "42": "Ruby",
-          "43": "Citrine",
-          "44": "Turquoise",
-          "45": "Sapphire",
-          "46": "Amethyst",
-          "47": "Pearl",
-          "48": "Obsidian",
-          "49": "Chrono"
-        },
-        "50": {
-          "52": "Ruby",
-          "53": "Catseye",
-          "54": "Tanzanite",
-          "55": "Sapphire",
-          "56": "Vitality",
-          "57": "Rose Quartz",
-          "58": "Obsidian"
-        },
-        "60": {
-          "61": "Ruby",
-          "62": "Citrine",
-          "63": "Emerald",
-          "64": "Rose Quartz",
-          "65": "Turquoise",
-          "66": "Sapphire",
-          "67": "Pearl",
-          "68": "Obsidian"
-        },
-        "69": {
-          "70": "Ruby",
-          "71": "Catseye",
-          "72": "Sapphire",
-          "73": "Emerald",
-          "74": "Turquoise",
-          "75": "Rose Quartz",
-          "76": "Obsidian",
-          "77": "Peridot",
-          "78": "Winsome"
-        },
-        "31": {
-          "79": "Tenfold Triumph",
-          "108": "Elite"
-        },
-        "80": {
-          "81": "Ruby",
-          "82": "Citrine",
-          "83": "Emerald",
-          "84": "Sapphire",
-          "85": "Rose Quartz",
-          "86": "Obsidian",
-          "87": "Tanzanite",
-          "88": "Pearl"
-        },
-        "89": {
-          "90": "Ruby",
-          "91": "Catseye",
-          "92": "Emerald",
-          "93": "Sapphire",
-          "94": "Tanzanite",
-          "95": "Rose Quartz",
-          "96": "Pearl",
-          "97": "Obsidian"
-        },
-        "98": {
-          "99": "Bronze",
-          "100": "Silver",
-          "101": "Gold",
-          "102": "Platinum",
-          "103": "Emerald",
-          "104": "Diamond",
-          "105": "Master",
-          "106": "Grandmaster",
-          "107": "Challenger"
         }
       },
       "forms": {}
@@ -3153,64 +3215,41 @@
       },
       "forms": {}
     },
-    "Gragas": {
+    "Heimerdinger": {
       "skins": {
-        "1": "Scuba Gragas",
-        "2": "Hillbilly Gragas",
-        "3": "Santa Gragas",
-        "4": "Gragas, Esq.",
-        "5": "Vandal Gragas",
-        "6": "Oktoberfest Gragas",
-        "7": "Superfan Gragas",
-        "8": "Fnatic Gragas",
-        "9": "Gragas Caskbreaker",
-        "10": "Arctic Ops Gragas",
-        "11": "Warden Gragas",
-        "20": "Space Groove Gragas",
-        "29": "High Noon Gragas",
-        "39": "Music Fan Gragas"
+        "1": "Alien Invader Heimerdinger",
+        "2": "Blast Zone Heimerdinger",
+        "3": "Piltover Customs Heimerdinger",
+        "4": "Snowmerdinger",
+        "5": "Hazmat Heimerdinger",
+        "6": "Dragon Trainer Heimerdinger",
+        "15": "Pool Party Heimerdinger",
+        "24": "Heimerstinger",
+        "33": "Arcane Professor Heimerdinger"
       },
       "chromas": {
-        "11": {
-          "12": "Citrine",
-          "13": "Sapphire",
-          "14": "Rose Quartz",
-          "15": "Ruby",
-          "16": "Pearl",
+        "15": {
+          "16": "Ruby",
           "17": "Amethyst",
-          "18": "Turquoise",
-          "19": "Peridot"
+          "18": "Citrine",
+          "19": "Aquamarine",
+          "20": "Emerald",
+          "21": "Obsidian",
+          "22": "Rose Quartz",
+          "23": "Rainbow"
         },
-        "20": {
-          "21": "Ruby",
-          "22": "Catseye",
-          "23": "Emerald",
-          "24": "Rose Quartz",
-          "25": "Tanzanite",
-          "26": "Pearl",
-          "27": "Obsidian",
-          "28": "Rainbow"
+        "24": {
+          "25": "Ruby",
+          "26": "Sapphire",
+          "27": "Tanzanite",
+          "28": "Emerald",
+          "29": "Rose Quartz",
+          "30": "Pearl",
+          "31": "Obsidian",
+          "32": "Rainbow"
         },
-        "29": {
-          "30": "Ruby",
-          "31": "Rose Quartz",
-          "32": "Citrine",
-          "33": "Emerald",
-          "34": "Turquoise",
-          "35": "Sapphire",
-          "36": "Tanzanite",
-          "37": "Obsidian",
-          "38": "Noonday"
-        },
-        "39": {
-          "40": "Ruby",
-          "41": "Catseye",
-          "42": "Sapphire",
-          "43": "Emerald",
-          "44": "Turquoise",
-          "45": "Rose Quartz",
-          "46": "Obsidian",
-          "47": "Pearl"
+        "33": {
+          "34": "Paragon"
         }
       },
       "forms": {}
@@ -3305,98 +3344,6 @@
           "43": "Catseye",
           "44": "Pearl",
           "45": "Obsidian"
-        }
-      },
-      "forms": {}
-    },
-    "Heimerdinger": {
-      "skins": {
-        "1": "Alien Invader Heimerdinger",
-        "2": "Blast Zone Heimerdinger",
-        "3": "Piltover Customs Heimerdinger",
-        "4": "Snowmerdinger",
-        "5": "Hazmat Heimerdinger",
-        "6": "Dragon Trainer Heimerdinger",
-        "15": "Pool Party Heimerdinger",
-        "24": "Heimerstinger",
-        "33": "Arcane Professor Heimerdinger"
-      },
-      "chromas": {
-        "15": {
-          "16": "Ruby",
-          "17": "Amethyst",
-          "18": "Citrine",
-          "19": "Aquamarine",
-          "20": "Emerald",
-          "21": "Obsidian",
-          "22": "Rose Quartz",
-          "23": "Rainbow"
-        },
-        "24": {
-          "25": "Ruby",
-          "26": "Sapphire",
-          "27": "Tanzanite",
-          "28": "Emerald",
-          "29": "Rose Quartz",
-          "30": "Pearl",
-          "31": "Obsidian",
-          "32": "Rainbow"
-        },
-        "33": {
-          "34": "Paragon"
-        }
-      },
-      "forms": {}
-    },
-    "Ivern": {
-      "skins": {
-        "1": "Candy King Ivern",
-        "2": "Dunkmaster Ivern",
-        "11": "Old God Ivern",
-        "20": "Astronaut Ivern",
-        "30": "Spirit Blossom Ivern",
-        "31": "Rain Shepherd Ivern"
-      },
-      "chromas": {
-        "2": {
-          "3": "Ruby",
-          "4": "Peridot",
-          "5": "Rose Quartz",
-          "6": "Catseye",
-          "7": "Aquamarine",
-          "8": "Amethyst",
-          "9": "Obsidian",
-          "10": "Pearl"
-        },
-        "11": {
-          "12": "Ruby",
-          "13": "Citrine",
-          "14": "Emerald",
-          "15": "Sapphire",
-          "16": "Tanzanite",
-          "17": "Rose Quartz",
-          "18": "Emberwood",
-          "19": "Pearl"
-        },
-        "20": {
-          "21": "Ruby",
-          "22": "Catseye",
-          "23": "Aquamarine",
-          "24": "Rose Quartz",
-          "25": "Emerald",
-          "26": "Turquoise",
-          "27": "Amethyst",
-          "28": "Obsidian"
-        },
-        "31": {
-          "32": "Ruby",
-          "33": "Catseye",
-          "34": "Sapphire",
-          "35": "Tanzanite",
-          "36": "Rose Quartz",
-          "37": "Turquoise",
-          "38": "Pearl",
-          "39": "Obsidian"
         }
       },
       "forms": {}
@@ -3498,6 +3445,59 @@
       },
       "forms": {}
     },
+    "Ivern": {
+      "skins": {
+        "1": "Candy King Ivern",
+        "2": "Dunkmaster Ivern",
+        "11": "Old God Ivern",
+        "20": "Astronaut Ivern",
+        "30": "Spirit Blossom Ivern",
+        "31": "Rain Shepherd Ivern"
+      },
+      "chromas": {
+        "2": {
+          "3": "Ruby",
+          "4": "Peridot",
+          "5": "Rose Quartz",
+          "6": "Catseye",
+          "7": "Aquamarine",
+          "8": "Amethyst",
+          "9": "Obsidian",
+          "10": "Pearl"
+        },
+        "11": {
+          "12": "Ruby",
+          "13": "Citrine",
+          "14": "Emerald",
+          "15": "Sapphire",
+          "16": "Tanzanite",
+          "17": "Rose Quartz",
+          "18": "Emberwood",
+          "19": "Pearl"
+        },
+        "20": {
+          "21": "Ruby",
+          "22": "Catseye",
+          "23": "Aquamarine",
+          "24": "Rose Quartz",
+          "25": "Emerald",
+          "26": "Turquoise",
+          "27": "Amethyst",
+          "28": "Obsidian"
+        },
+        "31": {
+          "32": "Ruby",
+          "33": "Catseye",
+          "34": "Sapphire",
+          "35": "Tanzanite",
+          "36": "Rose Quartz",
+          "37": "Turquoise",
+          "38": "Pearl",
+          "39": "Obsidian"
+        }
+      },
+      "forms": {}
+    },
     "Janna": {
       "skins": {
         "1": "Tempest Janna",
@@ -3590,6 +3590,145 @@
           "71": "Catseye",
           "72": "Obsidian",
           "73": "Pearl"
+        }
+      },
+      "forms": {}
+    },
+    "JarvanIV": {
+      "skins": {
+        "1": "Commando Jarvan IV",
+        "2": "Dragonslayer Jarvan IV",
+        "3": "Darkforge Jarvan IV",
+        "4": "Victorious Jarvan IV",
+        "5": "Warring Kingdoms Jarvan IV",
+        "6": "Fnatic Jarvan IV",
+        "7": "Dark Star Jarvan IV",
+        "8": "SSG Jarvan IV",
+        "9": "Hextech Jarvan IV",
+        "11": "Pool Party Jarvan IV",
+        "21": "Lunar Beast Jarvan IV",
+        "30": "Worlds 2021 Jarvan IV",
+        "35": "Nightbringer Jarvan IV",
+        "44": "Mythmaker Jarvan IV",
+        "54": "Prestige Visions of the Fallen Jarvan IV"
+      },
+      "chromas": {
+        "5": {
+          "10": "Golden"
+        },
+        "7": {
+          "12": "Antimatter"
+        },
+        "11": {
+          "13": "Ruby",
+          "14": "Emerald",
+          "15": "Aquamarine",
+          "16": "Amethyst",
+          "17": "Rose Quartz",
+          "18": "Pearl",
+          "19": "Obsidian",
+          "20": "Peridot"
+        },
+        "21": {
+          "22": "Ruby",
+          "23": "Catseye",
+          "24": "Rose Quartz",
+          "25": "Sapphire",
+          "26": "Vitality",
+          "27": "Obsidian",
+          "28": "Amethyst"
+        },
+        "30": {
+          "31": "Aquamarine",
+          "32": "Catseye",
+          "33": "Amethyst",
+          "34": "MAKE/BREAK"
+        },
+        "35": {
+          "36": "Ruby",
+          "37": "Citrine",
+          "38": "Amethyst",
+          "39": "Sapphire",
+          "40": "Rose Quartz",
+          "41": "Emerald",
+          "42": "Obsidian",
+          "43": "Pearl"
+        },
+        "44": {
+          "45": "Ruby",
+          "46": "Turquoise",
+          "47": "Rose Quartz",
+          "48": "Sapphire",
+          "49": "Catseye",
+          "50": "Tanzanite",
+          "51": "Emerald",
+          "52": "Obsidian"
+        },
+        "54": {
+          "55": "Vivid"
+        },
+        "8": {
+          "56": "Elite"
+        }
+      },
+      "forms": {}
+    },
+    "Jax": {
+      "skins": {
+        "1": "The Mighty Jax",
+        "2": "Vandal Jax",
+        "3": "Angler Jax",
+        "4": "PAX Jax",
+        "5": "Jaximus",
+        "6": "Temple Jax",
+        "7": "Nemesis Jax",
+        "8": "SKT T1 Jax",
+        "12": "Warden Jax",
+        "13": "God Staff Jax",
+        "14": "Mecha Kingdoms Jax",
+        "20": "Conqueror Jax",
+        "21": "Prestige Conqueror Jax",
+        "22": "Empyrean Jax",
+        "32": "Neo PAX Jax",
+        "33": "PROJECT: Jax",
+        "42": "Prestige Magma Chamber Jax"
+      },
+      "chromas": {
+        "7": {
+          "9": "Nemesis Jax Sand Cream",
+          "10": "Nemesis Jax Sand Amber",
+          "11": "Nemesis Jax Sand Brick"
+        },
+        "14": {
+          "15": "Ruby",
+          "16": "Peridot",
+          "17": "Rose Quartz",
+          "18": "Peacekeeper",
+          "19": "Pearl"
+        },
+        "22": {
+          "23": "Ruby",
+          "24": "Catseye",
+          "25": "Emerald",
+          "26": "Rose Quartz",
+          "27": "Turquoise",
+          "28": "Tanzanite",
+          "29": "Citrine",
+          "30": "Pearl",
+          "31": "Neon Flare"
+        },
+        "33": {
+          "34": "Ruby",
+          "35": "Catseye",
+          "36": "Emerald",
+          "37": "Turquoise",
+          "38": "Amethyst",
+          "39": "Sapphire",
+          "40": "Obsidian",
+          "41": "Sandstone"
+        },
+        "42": {
+          "43": "Vivid"
         }
       },
       "forms": {}
@@ -3740,81 +3879,134 @@
       },
       "forms": {}
     },
-    "JarvanIV": {
+    "Jinx": {
       "skins": {
-        "1": "Commando Jarvan IV",
-        "2": "Dragonslayer Jarvan IV",
-        "3": "Darkforge Jarvan IV",
-        "4": "Victorious Jarvan IV",
-        "5": "Warring Kingdoms Jarvan IV",
-        "6": "Fnatic Jarvan IV",
-        "7": "Dark Star Jarvan IV",
-        "8": "SSG Jarvan IV",
-        "9": "Hextech Jarvan IV",
-        "11": "Pool Party Jarvan IV",
-        "21": "Lunar Beast Jarvan IV",
-        "30": "Worlds 2021 Jarvan IV",
-        "35": "Nightbringer Jarvan IV",
-        "44": "Mythmaker Jarvan IV",
-        "54": "Prestige Visions of the Fallen Jarvan IV"
+        "1": "Crime City Jinx",
+        "2": "Firecracker Jinx",
+        "3": "Zombie Slayer Jinx",
+        "4": "Star Guardian Jinx",
+        "12": "Ambitious Elf Jinx",
+        "13": "Odyssey Jinx",
+        "20": "PROJECT: Jinx",
+        "29": "Heartseeker Jinx",
+        "37": "Arcane Enemy Jinx",
+        "38": "Battle Cat Jinx",
+        "40": "Prestige Battle Cat Jinx",
+        "51": "Cafe Cuties Jinx",
+        "60": "Arcane Fractured Jinx",
+        "62": "T1 Jinx",
+        "65": "Ocean Song Jinx"
       },
       "chromas": {
-        "5": {
-          "10": "Golden"
+        "2": {
+          "5": "Pearl",
+          "6": "Obsidian",
+          "7": "Aquamarine",
+          "8": "Rose Quartz",
+          "9": "Citrine",
+          "10": "Amethyst",
+          "11": "Emerald",
+          "39": "Golden Tiger"
         },
-        "7": {
-          "12": "Antimatter"
-        },
-        "11": {
-          "13": "Ruby",
-          "14": "Emerald",
+        "13": {
+          "14": "Ruby",
           "15": "Aquamarine",
-          "16": "Amethyst",
+          "16": "Emerald",
           "17": "Rose Quartz",
-          "18": "Pearl",
-          "19": "Obsidian",
-          "20": "Peridot"
+          "18": "Tanzanite",
+          "19": "Pearl"
         },
-        "21": {
-          "22": "Ruby",
-          "23": "Catseye",
-          "24": "Rose Quartz",
-          "25": "Sapphire",
-          "26": "Vitality",
-          "27": "Obsidian",
-          "28": "Amethyst"
+        "20": {
+          "21": "Obsidian",
+          "22": "Catseye",
+          "23": "Aquamarine",
+          "24": "Emerald",
+          "25": "Ruby",
+          "26": "Rose Quartz",
+          "27": "Pearl",
+          "28": "Reckoning"
         },
-        "30": {
+        "29": {
+          "30": "Pearl",
           "31": "Aquamarine",
-          "32": "Catseye",
+          "32": "Ruby",
           "33": "Amethyst",
-          "34": "MAKE/BREAK"
+          "34": "Catseye",
+          "35": "Rose Quartz",
+          "36": "Rainbow"
         },
-        "35": {
-          "36": "Ruby",
-          "37": "Citrine",
-          "38": "Amethyst",
-          "39": "Sapphire",
-          "40": "Rose Quartz",
-          "41": "Emerald",
-          "42": "Obsidian",
-          "43": "Pearl"
+        "38": {
+          "41": "Ruby",
+          "42": "Catseye",
+          "43": "Tanzanite",
+          "44": "Rose Quartz",
+          "45": "Sapphire",
+          "46": "Emerald",
+          "47": "Obsidian",
+          "48": "Pearl",
+          "49": "Nightwire"
         },
-        "44": {
-          "45": "Ruby",
-          "46": "Turquoise",
-          "47": "Rose Quartz",
-          "48": "Sapphire",
-          "49": "Catseye",
-          "50": "Tanzanite",
-          "51": "Emerald",
-          "52": "Obsidian"
+        "4": {
+          "50": "Mythic"
         },
-        "54": {
-          "55": "Vivid"
+        "51": {
+          "52": "Ruby",
+          "53": "Emerald",
+          "54": "Citrine",
+          "55": "Sapphire",
+          "56": "Obsidian",
+          "57": "Tanzanite",
+          "58": "Rose Quartz",
+          "59": "Pearl"
+        },
+        "62": {
+          "63": "Elite"
+        },
+        "3": {
+          "64": "Doom"
+        },
+        "65": {
+          "66": "Ruby",
+          "67": "Catseye",
+          "68": "Emerald",
+          "69": "Turquoise",
+          "70": "Sapphire",
+          "71": "Rose Quartz",
+          "72": "Obsidian",
+          "73": "Pearl"
+        }
+      },
+      "forms": {
+        "60": {
+          "998": "Stage 2",
+          "999": "Stage 3"
+        }
+      }
+    },
+    "KSante": {
+      "skins": {
+        "1": "Empyrean K'Sante",
+        "2": "Prestige Empyrean K'Sante",
+        "8": "HEARTSTEEL K'Sante"
+      },
+      "chromas": {
+        "1": {
+          "3": "Ruby",
+          "4": "Emerald",
+          "5": "Turquoise",
+          "6": "Pearl",
+          "7": "Neon Flare"
         },
         "8": {
-          "56": "Elite"
+          "9": "Ruby",
+          "10": "Turquoise",
+          "11": "Rose Quartz",
+          "12": "Sapphire",
+          "13": "Emerald",
+          "14": "Pearl",
+          "15": "Tanzanite",
+          "16": "Citrine",
+          "17": "Rockstar"
         }
       },
       "forms": {}
@@ -3926,257 +4118,49 @@
         }
       }
     },
-    "Karthus": {
+    "Kalista": {
       "skins": {
-        "1": "Phantom Karthus",
-        "2": "Statue of Karthus",
-        "3": "Grim Reaper Karthus",
-        "4": "Pentakill Karthus",
-        "5": "Fnatic Karthus",
-        "9": "Karthus Lightsbane",
-        "10": "Infernal Karthus",
-        "17": "Pentakill III: Lost Chapter Karthus",
-        "26": "Elderwood Karthus",
-        "35": "Arcana Karthus"
-      },
-      "chromas": {
-        "3": {
-          "6": "Grim Reaper Karthus Plague Burn",
-          "7": "Grim Reaper Karthus Plague Blight",
-          "8": "Grim Reaper Karthus Plague Frostbite"
-        },
-        "10": {
-          "11": "Ruby",
-          "12": "Sapphire",
-          "13": "Emerald",
-          "14": "Citrine",
-          "15": "Rose Quartz",
-          "16": "Amethyst"
-        },
-        "17": {
-          "18": "Ruby",
-          "19": "Catseye",
-          "20": "Emerald",
-          "21": "Rose Quartz",
-          "22": "Tanzanite",
-          "23": "Sapphire",
-          "24": "Pearl",
-          "25": "Obsidian"
-        },
-        "26": {
-          "27": "Ruby",
-          "28": "Catseye",
-          "29": "Emerald",
-          "30": "Rose Quartz",
-          "31": "Sapphire",
-          "32": "Pearl",
-          "33": "Turquoise",
-          "34": "Obsidian"
-        },
-        "35": {
-          "36": "Ruby",
-          "37": "Emerald",
-          "38": "Tanzanite",
-          "39": "Catseye",
-          "40": "Rose Quartz",
-          "41": "Sapphire",
-          "42": "Obsidian",
-          "43": "Pearl"
-        }
-      },
-      "forms": {}
-    },
-    "Jinx": {
-      "skins": {
-        "1": "Crime City Jinx",
-        "2": "Firecracker Jinx",
-        "3": "Zombie Slayer Jinx",
-        "4": "Star Guardian Jinx",
-        "12": "Ambitious Elf Jinx",
-        "13": "Odyssey Jinx",
-        "20": "PROJECT: Jinx",
-        "29": "Heartseeker Jinx",
-        "37": "Arcane Enemy Jinx",
-        "38": "Battle Cat Jinx",
-        "40": "Prestige Battle Cat Jinx",
-        "51": "Cafe Cuties Jinx",
-        "60": "Arcane Fractured Jinx",
-        "62": "T1 Jinx",
-        "65": "Ocean Song Jinx"
+        "1": "Blood Moon Kalista",
+        "2": "Worlds 2015 Kalista",
+        "3": "SKT T1 Kalista",
+        "5": "Marauder Kalista",
+        "14": "Faerie Court Kalista",
+        "24": "Dawnbringer Kalista"
       },
       "chromas": {
         "2": {
-          "5": "Pearl",
-          "6": "Obsidian",
-          "7": "Aquamarine",
-          "8": "Rose Quartz",
-          "9": "Citrine",
-          "10": "Amethyst",
-          "11": "Emerald",
-          "39": "Golden Tiger"
+          "4": "Golden"
         },
-        "13": {
-          "14": "Ruby",
-          "15": "Aquamarine",
-          "16": "Emerald",
-          "17": "Rose Quartz",
-          "18": "Tanzanite",
-          "19": "Pearl"
+        "5": {
+          "6": "Citrine",
+          "7": "Sapphire",
+          "8": "Obsidian",
+          "9": "Ruby",
+          "10": "Rose Quartz",
+          "11": "Amethyst",
+          "12": "Turquoise",
+          "13": "Emerald"
         },
-        "20": {
-          "21": "Obsidian",
-          "22": "Catseye",
-          "23": "Aquamarine",
-          "24": "Emerald",
-          "25": "Ruby",
-          "26": "Rose Quartz",
-          "27": "Pearl",
-          "28": "Reckoning"
-        },
-        "29": {
-          "30": "Pearl",
-          "31": "Aquamarine",
-          "32": "Ruby",
-          "33": "Amethyst",
-          "34": "Catseye",
-          "35": "Rose Quartz",
-          "36": "Rainbow"
-        },
-        "38": {
-          "41": "Ruby",
-          "42": "Catseye",
-          "43": "Tanzanite",
-          "44": "Rose Quartz",
-          "45": "Sapphire",
-          "46": "Emerald",
-          "47": "Obsidian",
-          "48": "Pearl",
-          "49": "Nightwire"
-        },
-        "4": {
-          "50": "Mythic"
-        },
-        "51": {
-          "52": "Ruby",
-          "53": "Emerald",
-          "54": "Citrine",
-          "55": "Sapphire",
-          "56": "Obsidian",
-          "57": "Tanzanite",
-          "58": "Rose Quartz",
-          "59": "Pearl"
-        },
-        "62": {
-          "63": "Elite"
-        },
-        "3": {
-          "64": "Doom"
-        },
-        "65": {
-          "66": "Ruby",
-          "67": "Catseye",
-          "68": "Emerald",
-          "69": "Turquoise",
-          "70": "Sapphire",
-          "71": "Rose Quartz",
-          "72": "Obsidian",
-          "73": "Pearl"
-        }
-      },
-      "forms": {
-        "60": {
-          "998": "Stage 2",
-          "999": "Stage 3"
-        }
-      }
-    },
-    "Kassadin": {
-      "skins": {
-        "1": "Festival Kassadin",
-        "2": "Deep One Kassadin",
-        "3": "Pre-Void Kassadin",
-        "4": "Harbinger Kassadin",
-        "5": "Cosmic Reaver Kassadin",
-        "6": "Count Kassadin",
-        "14": "Hextech Kassadin",
-        "15": "Shockblade Kassadin",
-        "24": "Dragonmancer Kassadin"
-      },
-      "chromas": {
-        "6": {
-          "8": "Ruby",
-          "9": "Citrine",
-          "10": "Aquamarine",
-          "11": "Emerald",
-          "12": "Obsidian",
-          "13": "Pearl"
-        },
-        "15": {
-          "16": "Ruby",
-          "17": "Catseye",
+        "14": {
+          "15": "Rose Quartz",
+          "16": "Catseye",
+          "17": "Sapphire",
           "18": "Emerald",
           "19": "Amethyst",
-          "20": "Rose Quartz",
-          "21": "Turquoise",
-          "22": "Obsidian",
-          "23": "Pearl"
+          "20": "Turquoise",
+          "21": "Ruby",
+          "22": "Pearl",
+          "23": "Winsome"
         },
         "24": {
           "25": "Ruby",
-          "26": "Citrine",
+          "26": "Catseye",
           "27": "Emerald",
-          "28": "Rose Quartz",
-          "29": "Sapphire",
-          "30": "Amethyst",
+          "28": "Tanzanite",
+          "29": "Turquoise",
+          "30": "Rose Quartz",
           "31": "Pearl",
           "32": "Obsidian"
-        }
-      },
-      "forms": {}
-    },
-    "Kayn": {
-      "skins": {
-        "1": "Soulhunter Kayn",
-        "2": "Odyssey Kayn",
-        "8": "Nightbringer Kayn",
-        "9": "Prestige Nightbringer Kayn",
-        "15": "Snow Moon Kayn",
-        "20": "HEARTSTEEL Kayn",
-        "26": "Battle Academia Kayn"
-      },
-      "chromas": {
-        "2": {
-          "3": "Ruby",
-          "4": "Pearl",
-          "5": "Emerald",
-          "6": "Merc",
-          "7": "Sapphire"
-        },
-        "8": {
-          "10": "Ruby",
-          "11": "Catseye",
-          "12": "Tanzanite",
-          "13": "Sapphire",
-          "14": "Deathbringer"
-        },
-        "15": {
-          "16": "Ruby",
-          "17": "Obsidian",
-          "18": "Amethyst",
-          "19": "Meteorite"
-        },
-        "20": {
-          "21": "Ruby",
-          "22": "Rose Quartz",
-          "23": "Pearl",
-          "24": "Citrine",
-          "25": "Rockstar"
-        },
-        "26": {
-          "27": "Ruby",
-          "28": "Catseye",
-          "29": "Sapphire",
-          "30": "Emerald"
         }
       },
       "forms": {}
@@ -4277,6 +4261,372 @@
           "74": "Obsidian",
           "75": "Sandstone",
           "76": "Rose Quartz"
+        }
+      },
+      "forms": {}
+    },
+    "Karthus": {
+      "skins": {
+        "1": "Phantom Karthus",
+        "2": "Statue of Karthus",
+        "3": "Grim Reaper Karthus",
+        "4": "Pentakill Karthus",
+        "5": "Fnatic Karthus",
+        "9": "Karthus Lightsbane",
+        "10": "Infernal Karthus",
+        "17": "Pentakill III: Lost Chapter Karthus",
+        "26": "Elderwood Karthus",
+        "35": "Arcana Karthus"
+      },
+      "chromas": {
+        "3": {
+          "6": "Grim Reaper Karthus Plague Burn",
+          "7": "Grim Reaper Karthus Plague Blight",
+          "8": "Grim Reaper Karthus Plague Frostbite"
+        },
+        "10": {
+          "11": "Ruby",
+          "12": "Sapphire",
+          "13": "Emerald",
+          "14": "Citrine",
+          "15": "Rose Quartz",
+          "16": "Amethyst"
+        },
+        "17": {
+          "18": "Ruby",
+          "19": "Catseye",
+          "20": "Emerald",
+          "21": "Rose Quartz",
+          "22": "Tanzanite",
+          "23": "Sapphire",
+          "24": "Pearl",
+          "25": "Obsidian"
+        },
+        "26": {
+          "27": "Ruby",
+          "28": "Catseye",
+          "29": "Emerald",
+          "30": "Rose Quartz",
+          "31": "Sapphire",
+          "32": "Pearl",
+          "33": "Turquoise",
+          "34": "Obsidian"
+        },
+        "35": {
+          "36": "Ruby",
+          "37": "Emerald",
+          "38": "Tanzanite",
+          "39": "Catseye",
+          "40": "Rose Quartz",
+          "41": "Sapphire",
+          "42": "Obsidian",
+          "43": "Pearl"
+        }
+      },
+      "forms": {}
+    },
+    "Kassadin": {
+      "skins": {
+        "1": "Festival Kassadin",
+        "2": "Deep One Kassadin",
+        "3": "Pre-Void Kassadin",
+        "4": "Harbinger Kassadin",
+        "5": "Cosmic Reaver Kassadin",
+        "6": "Count Kassadin",
+        "14": "Hextech Kassadin",
+        "15": "Shockblade Kassadin",
+        "24": "Dragonmancer Kassadin"
+      },
+      "chromas": {
+        "6": {
+          "8": "Ruby",
+          "9": "Citrine",
+          "10": "Aquamarine",
+          "11": "Emerald",
+          "12": "Obsidian",
+          "13": "Pearl"
+        },
+        "15": {
+          "16": "Ruby",
+          "17": "Catseye",
+          "18": "Emerald",
+          "19": "Amethyst",
+          "20": "Rose Quartz",
+          "21": "Turquoise",
+          "22": "Obsidian",
+          "23": "Pearl"
+        },
+        "24": {
+          "25": "Ruby",
+          "26": "Citrine",
+          "27": "Emerald",
+          "28": "Rose Quartz",
+          "29": "Sapphire",
+          "30": "Amethyst",
+          "31": "Pearl",
+          "32": "Obsidian"
+        }
+      },
+      "forms": {}
+    },
+    "Katarina": {
+      "skins": {
+        "1": "Mercenary Katarina",
+        "2": "Red Card Katarina",
+        "3": "Bilgewater Katarina",
+        "4": "Kitty Cat Katarina",
+        "5": "High Command Katarina",
+        "6": "Sandstorm Katarina",
+        "7": "Slay Belle Katarina",
+        "8": "Warring Kingdoms Katarina",
+        "9": "PROJECT: Katarina",
+        "10": "Death Sworn Katarina",
+        "12": "Battle Academia Katarina",
+        "21": "Blood Moon Katarina",
+        "29": "Battle Queen Katarina",
+        "37": "High Noon Katarina",
+        "47": "Faerie Court Katarina",
+        "48": "Prestige Faerie Court Katarina",
+        "59": "Chosen of the Wolf Katarina",
+        "60": "Prestige Masque of the Black Rose Katarina",
+        "70": "Petals of Spring Katarina"
+      },
+      "chromas": {
+        "8": {
+          "11": "Golden"
+        },
+        "12": {
+          "13": "Ruby",
+          "14": "Formal",
+          "15": "Sapphire",
+          "16": "Tanzanite",
+          "17": "Obsidian",
+          "18": "Citrine",
+          "19": "Pearl",
+          "20": "Turquoise"
+        },
+        "21": {
+          "22": "Ruby",
+          "23": "Sapphire",
+          "24": "Obsidian",
+          "25": "Emerald",
+          "26": "Rose Quartz",
+          "27": "Citrine",
+          "28": "Pearl"
+        },
+        "29": {
+          "30": "Ruby",
+          "31": "Sapphire",
+          "32": "Emerald",
+          "33": "Tanzanite",
+          "34": "Pearl",
+          "35": "Obsidian",
+          "36": "Coronation"
+        },
+        "37": {
+          "38": "Ruby",
+          "39": "Catseye",
+          "40": "Emerald",
+          "41": "Rose Quartz",
+          "42": "Sapphire",
+          "43": "Tanzanite",
+          "44": "Pearl",
+          "45": "Obsidian",
+          "46": "Nomad"
+        },
+        "47": {
+          "49": "Ruby",
+          "50": "Citrine",
+          "51": "Aquamarine",
+          "52": "Emerald",
+          "53": "Turquoise",
+          "54": "Obsidian",
+          "55": "Rose Quartz",
+          "56": "Tanzanite",
+          "57": "Winsome"
+        },
+        "59": {
+          "61": "Ruby",
+          "62": "Emerald",
+          "63": "Rose Quartz",
+          "64": "Sapphire",
+          "65": "Tanzanite",
+          "66": "Turquoise",
+          "67": "Obsidian",
+          "68": "Pearl"
+        },
+        "60": {
+          "69": "Enigma"
+        },
+        "70": {
+          "71": "Ruby",
+          "72": "Catseye",
+          "73": "Rose Quartz",
+          "74": "Sapphire",
+          "75": "Tanzanite",
+          "76": "Pearl",
+          "77": "Peridot",
+          "78": "Emerald"
+        }
+      },
+      "forms": {}
+    },
+    "Kayle": {
+      "skins": {
+        "1": "Silver Kayle",
+        "2": "Viridian Kayle",
+        "3": "Transcended Kayle",
+        "4": "Battleborn Kayle",
+        "5": "Judgment Kayle",
+        "6": "Aether Wing Kayle",
+        "7": "Riot Kayle",
+        "8": "Iron Inquisitor Kayle",
+        "9": "Pentakill Kayle",
+        "15": "PsyOps Kayle",
+        "24": "Dragonslayer Kayle",
+        "33": "Pentakill III: Lost Chapter Kayle",
+        "42": "Sun-Eater Kayle",
+        "57": "Immortal Journey Kayle",
+        "66": "Empyrean Kayle",
+        "67": "Prestige Empyrean Kayle",
+        "78": "Spirit Blossom Kayle",
+        "88": "Founders Silver Kayle"
+      },
+      "chromas": {
+        "2": {
+          "10": "Citrine",
+          "11": "Aquamarine",
+          "12": "Pearl",
+          "13": "Rose Quartz",
+          "14": "Obsidian"
+        },
+        "15": {
+          "16": "Ruby",
+          "17": "Sandstone",
+          "18": "Turquoise",
+          "19": "Sapphire",
+          "20": "Rose Quartz",
+          "21": "Emerald",
+          "22": "Tanzanite",
+          "23": "Hunter"
+        },
+        "24": {
+          "25": "Ruby",
+          "26": "Citrine",
+          "27": "Emerald",
+          "28": "Sapphire",
+          "29": "Tanzanite",
+          "30": "Rose Quartz",
+          "31": "Obsidian",
+          "32": "Pearl"
+        },
+        "33": {
+          "34": "Ruby",
+          "35": "Emerald",
+          "36": "Rose Quartz",
+          "37": "Aquamarine",
+          "38": "Tanzanite",
+          "39": "Pearl",
+          "40": "Obsidian",
+          "41": "Catseye"
+        },
+        "42": {
+          "43": "Ruby",
+          "44": "Citrine",
+          "45": "Emerald",
+          "46": "Tanzanite",
+          "47": "Rose Quartz",
+          "48": "Sapphire",
+          "49": "Rainbow",
+          "50": "Turquoise"
+        },
+        "6": {
+          "51": "Ruby",
+          "52": "Emerald",
+          "53": "Rose Quartz",
+          "54": "Amethyst",
+          "55": "Sapphire",
+          "56": "Ace"
+        },
+        "57": {
+          "58": "Ruby",
+          "59": "Sapphire",
+          "60": "Rose Quartz",
+          "61": "Emerald",
+          "62": "Amethyst",
+          "63": "Catseye",
+          "64": "Obsidian",
+          "65": "Pearl"
+        },
+        "66": {
+          "68": "Ruby",
+          "69": "Catseye",
+          "70": "Emerald",
+          "71": "Turquoise",
+          "72": "Rose Quartz",
+          "73": "Sapphire",
+          "74": "Pearl",
+          "75": "Tanzanite",
+          "76": "Neon Facade",
+          "77": "MSI 2024 Chaos"
+        },
+        "78": {
+          "79": "Ruby",
+          "80": "Citrine",
+          "81": "Emerald",
+          "82": "Tanzanite",
+          "83": "Sapphire",
+          "84": "Turquoise",
+          "85": "Rose Quartz",
+          "86": "Obsidian",
+          "87": "Paragon"
+        }
+      },
+      "forms": {}
+    },
+    "Kayn": {
+      "skins": {
+        "1": "Soulhunter Kayn",
+        "2": "Odyssey Kayn",
+        "8": "Nightbringer Kayn",
+        "9": "Prestige Nightbringer Kayn",
+        "15": "Snow Moon Kayn",
+        "20": "HEARTSTEEL Kayn",
+        "26": "Battle Academia Kayn"
+      },
+      "chromas": {
+        "2": {
+          "3": "Ruby",
+          "4": "Pearl",
+          "5": "Emerald",
+          "6": "Merc",
+          "7": "Sapphire"
+        },
+        "8": {
+          "10": "Ruby",
+          "11": "Catseye",
+          "12": "Tanzanite",
+          "13": "Sapphire",
+          "14": "Deathbringer"
+        },
+        "15": {
+          "16": "Ruby",
+          "17": "Obsidian",
+          "18": "Amethyst",
+          "19": "Meteorite"
+        },
+        "20": {
+          "21": "Ruby",
+          "22": "Rose Quartz",
+          "23": "Pearl",
+          "24": "Citrine",
+          "25": "Rockstar"
+        },
+        "26": {
+          "27": "Ruby",
+          "28": "Catseye",
+          "29": "Sapphire",
+          "30": "Emerald"
         }
       },
       "forms": {}
@@ -4403,53 +4753,6 @@
       },
       "forms": {}
     },
-    "Kalista": {
-      "skins": {
-        "1": "Blood Moon Kalista",
-        "2": "Worlds 2015 Kalista",
-        "3": "SKT T1 Kalista",
-        "5": "Marauder Kalista",
-        "14": "Faerie Court Kalista",
-        "24": "Dawnbringer Kalista"
-      },
-      "chromas": {
-        "2": {
-          "4": "Golden"
-        },
-        "5": {
-          "6": "Citrine",
-          "7": "Sapphire",
-          "8": "Obsidian",
-          "9": "Ruby",
-          "10": "Rose Quartz",
-          "11": "Amethyst",
-          "12": "Turquoise",
-          "13": "Emerald"
-        },
-        "14": {
-          "15": "Rose Quartz",
-          "16": "Catseye",
-          "17": "Sapphire",
-          "18": "Emerald",
-          "19": "Amethyst",
-          "20": "Turquoise",
-          "21": "Ruby",
-          "22": "Pearl",
-          "23": "Winsome"
-        },
-        "24": {
-          "25": "Ruby",
-          "26": "Catseye",
-          "27": "Emerald",
-          "28": "Tanzanite",
-          "29": "Turquoise",
-          "30": "Rose Quartz",
-          "31": "Pearl",
-          "32": "Obsidian"
-        }
-      },
-      "forms": {}
-    },
     "Kindred": {
       "skins": {
         "1": "Shadowfire Kindred",
@@ -4545,136 +4848,6 @@
           "24": "Amethyst",
           "25": "Rose Quartz",
           "26": "Pearl"
-        }
-      },
-      "forms": {}
-    },
-    "Katarina": {
-      "skins": {
-        "1": "Mercenary Katarina",
-        "2": "Red Card Katarina",
-        "3": "Bilgewater Katarina",
-        "4": "Kitty Cat Katarina",
-        "5": "High Command Katarina",
-        "6": "Sandstorm Katarina",
-        "7": "Slay Belle Katarina",
-        "8": "Warring Kingdoms Katarina",
-        "9": "PROJECT: Katarina",
-        "10": "Death Sworn Katarina",
-        "12": "Battle Academia Katarina",
-        "21": "Blood Moon Katarina",
-        "29": "Battle Queen Katarina",
-        "37": "High Noon Katarina",
-        "47": "Faerie Court Katarina",
-        "48": "Prestige Faerie Court Katarina",
-        "59": "Chosen of the Wolf Katarina",
-        "60": "Prestige Masque of the Black Rose Katarina",
-        "70": "Petals of Spring Katarina"
-      },
-      "chromas": {
-        "8": {
-          "11": "Golden"
-        },
-        "12": {
-          "13": "Ruby",
-          "14": "Formal",
-          "15": "Sapphire",
-          "16": "Tanzanite",
-          "17": "Obsidian",
-          "18": "Citrine",
-          "19": "Pearl",
-          "20": "Turquoise"
-        },
-        "21": {
-          "22": "Ruby",
-          "23": "Sapphire",
-          "24": "Obsidian",
-          "25": "Emerald",
-          "26": "Rose Quartz",
-          "27": "Citrine",
-          "28": "Pearl"
-        },
-        "29": {
-          "30": "Ruby",
-          "31": "Sapphire",
-          "32": "Emerald",
-          "33": "Tanzanite",
-          "34": "Pearl",
-          "35": "Obsidian",
-          "36": "Coronation"
-        },
-        "37": {
-          "38": "Ruby",
-          "39": "Catseye",
-          "40": "Emerald",
-          "41": "Rose Quartz",
-          "42": "Sapphire",
-          "43": "Tanzanite",
-          "44": "Pearl",
-          "45": "Obsidian",
-          "46": "Nomad"
-        },
-        "47": {
-          "49": "Ruby",
-          "50": "Citrine",
-          "51": "Aquamarine",
-          "52": "Emerald",
-          "53": "Turquoise",
-          "54": "Obsidian",
-          "55": "Rose Quartz",
-          "56": "Tanzanite",
-          "57": "Winsome"
-        },
-        "59": {
-          "61": "Ruby",
-          "62": "Emerald",
-          "63": "Rose Quartz",
-          "64": "Sapphire",
-          "65": "Tanzanite",
-          "66": "Turquoise",
-          "67": "Obsidian",
-          "68": "Pearl"
-        },
-        "60": {
-          "69": "Enigma"
-        },
-        "70": {
-          "71": "Ruby",
-          "72": "Catseye",
-          "73": "Rose Quartz",
-          "74": "Sapphire",
-          "75": "Tanzanite",
-          "76": "Pearl",
-          "77": "Peridot",
-          "78": "Emerald"
-        }
-      },
-      "forms": {}
-    },
-    "KSante": {
-      "skins": {
-        "1": "Empyrean K'Sante",
-        "2": "Prestige Empyrean K'Sante",
-        "8": "HEARTSTEEL K'Sante"
-      },
-      "chromas": {
-        "1": {
-          "3": "Ruby",
-          "4": "Emerald",
-          "5": "Turquoise",
-          "6": "Pearl",
-          "7": "Neon Flare"
-        },
-        "8": {
-          "9": "Ruby",
-          "10": "Turquoise",
-          "11": "Rose Quartz",
-          "12": "Sapphire",
-          "13": "Emerald",
-          "14": "Pearl",
-          "15": "Tanzanite",
-          "16": "Citrine",
-          "17": "Rockstar"
         }
       },
       "forms": {}
@@ -4850,77 +5023,6 @@
       },
       "forms": {}
     },
-    "Lillia": {
-      "skins": {
-        "1": "Spirit Blossom Lillia",
-        "10": "Nightbringer Lillia",
-        "19": "Shan Hai Scrolls Lillia",
-        "28": "Faerie Court Lillia",
-        "37": "Bowling League Lillia",
-        "46": "Petals of Spring Lillia"
-      },
-      "chromas": {
-        "1": {
-          "2": "Ruby",
-          "3": "Obsidian",
-          "4": "Rose Quartz",
-          "5": "Citrine",
-          "6": "Turquoise",
-          "7": "Amethyst",
-          "8": "Sapphire",
-          "9": "Night Blossom"
-        },
-        "10": {
-          "11": "Ruby",
-          "12": "Emerald",
-          "13": "Rose Quartz",
-          "14": "Sapphire",
-          "15": "Catseye",
-          "16": "Tanzanite",
-          "17": "Pearl",
-          "18": "Deathbringer"
-        },
-        "19": {
-          "20": "Ruby",
-          "21": "Emerald",
-          "22": "Meteorite",
-          "23": "Rose Quartz",
-          "24": "Pearl",
-          "25": "Amethyst",
-          "26": "Obsidian",
-          "27": "Citrine"
-        },
-        "28": {
-          "29": "Ruby",
-          "30": "Catseye",
-          "31": "Rose Quartz",
-          "32": "Emerald",
-          "33": "Pearl",
-          "34": "Obsidian",
-          "35": "Sapphire",
-          "36": "Tanzanite"
-        },
-        "37": {
-          "38": "Ruby",
-          "39": "Catseye",
-          "40": "Rose Quartz",
-          "41": "Emerald",
-          "42": "Pearl",
-          "43": "Obsidian",
-          "44": "Sapphire",
-          "45": "Amethyst"
-        },
-        "46": {
-          "47": "Ruby",
-          "48": "Citrine",
-          "49": "Rose Quartz",
-          "50": "Pearl",
-          "51": "Peridot",
-          "52": "Emerald"
-        }
-      },
-      "forms": {}
-    },
     "LeeSin": {
       "skins": {
         "1": "Traditional Lee Sin",
@@ -5021,6 +5123,172 @@
           "78": "Pearl",
           "79": "Tanzanite",
           "80": "Turquoise"
+        }
+      },
+      "forms": {}
+    },
+    "Leona": {
+      "skins": {
+        "1": "Valkyrie Leona",
+        "2": "Defender Leona",
+        "3": "Iron Solari Leona",
+        "4": "Pool Party Leona",
+        "8": "PROJECT: Leona",
+        "9": "Barbecue Leona",
+        "10": "Solar Eclipse Leona",
+        "11": "Lunar Eclipse Leona",
+        "12": "Mecha Kingdoms Leona",
+        "21": "Battle Academia Leona",
+        "22": "DWG Leona",
+        "23": "Prestige Battle Academia Leona",
+        "33": "Debonair Leona",
+        "34": "High Noon Leona",
+        "50": "Crystalis Motus Leona",
+        "52": "Battle Lion Leona",
+        "53": "Prestige Battle Lion Leona",
+        "64": "Eternal Aspect Leona"
+      },
+      "chromas": {
+        "4": {
+          "5": "Pool Party Leona Dawn Pink",
+          "6": "Pool Party Leona Dawn Azure",
+          "7": "Pool Party Leona Dawn Lemon"
+        },
+        "12": {
+          "13": "Peacekeeper",
+          "14": "Obsidian",
+          "15": "Pearl",
+          "16": "Ruby",
+          "17": "Turquoise",
+          "18": "Sapphire",
+          "19": "Rose Quartz",
+          "20": "Tanzanite"
+        },
+        "21": {
+          "24": "Ruby",
+          "25": "Citrine",
+          "26": "Sapphire",
+          "27": "Turquoise",
+          "28": "Emerald",
+          "29": "Rose Quartz",
+          "30": "Obsidian",
+          "31": "Pearl"
+        },
+        "22": {
+          "32": "Elite"
+        },
+        "33": {
+          "35": "Ruby",
+          "36": "Catseye",
+          "37": "Rose Quartz",
+          "38": "Sapphire",
+          "39": "Turquoise",
+          "40": "Emerald",
+          "41": "Tanzanite",
+          "42": "Obsidian",
+          "43": "Cerulean Club"
+        },
+        "34": {
+          "44": "Ruby",
+          "45": "Tanzanite",
+          "46": "Rose Quartz",
+          "47": "Catseye",
+          "48": "Nomad",
+          "49": "Sapphire"
+        },
+        "50": {
+          "51": "Reclaimed"
+        },
+        "52": {
+          "54": "Ruby",
+          "55": "Emerald",
+          "56": "Rose Quartz",
+          "57": "Catseye",
+          "58": "Tanzanite",
+          "59": "Turquoise",
+          "60": "Meteorite",
+          "61": "Pearl",
+          "62": "Nightwire",
+          "63": "Override"
+        },
+        "64": {
+          "65": "Ruby",
+          "66": "Turquoise",
+          "67": "Sapphire",
+          "68": "Rose Quartz",
+          "69": "Tanzanite",
+          "70": "Pearl"
+        }
+      },
+      "forms": {}
+    },
+    "Lillia": {
+      "skins": {
+        "1": "Spirit Blossom Lillia",
+        "10": "Nightbringer Lillia",
+        "19": "Shan Hai Scrolls Lillia",
+        "28": "Faerie Court Lillia",
+        "37": "Bowling League Lillia",
+        "46": "Petals of Spring Lillia"
+      },
+      "chromas": {
+        "1": {
+          "2": "Ruby",
+          "3": "Obsidian",
+          "4": "Rose Quartz",
+          "5": "Citrine",
+          "6": "Turquoise",
+          "7": "Amethyst",
+          "8": "Sapphire",
+          "9": "Night Blossom"
+        },
+        "10": {
+          "11": "Ruby",
+          "12": "Emerald",
+          "13": "Rose Quartz",
+          "14": "Sapphire",
+          "15": "Catseye",
+          "16": "Tanzanite",
+          "17": "Pearl",
+          "18": "Deathbringer"
+        },
+        "19": {
+          "20": "Ruby",
+          "21": "Emerald",
+          "22": "Meteorite",
+          "23": "Rose Quartz",
+          "24": "Pearl",
+          "25": "Amethyst",
+          "26": "Obsidian",
+          "27": "Citrine"
+        },
+        "28": {
+          "29": "Ruby",
+          "30": "Catseye",
+          "31": "Rose Quartz",
+          "32": "Emerald",
+          "33": "Pearl",
+          "34": "Obsidian",
+          "35": "Sapphire",
+          "36": "Tanzanite"
+        },
+        "37": {
+          "38": "Ruby",
+          "39": "Catseye",
+          "40": "Rose Quartz",
+          "41": "Emerald",
+          "42": "Pearl",
+          "43": "Obsidian",
+          "44": "Sapphire",
+          "45": "Amethyst"
+        },
+        "46": {
+          "47": "Ruby",
+          "48": "Citrine",
+          "49": "Rose Quartz",
+          "50": "Pearl",
+          "51": "Peridot",
+          "52": "Emerald"
         }
       },
       "forms": {}
@@ -5209,101 +5477,6 @@
       },
       "forms": {}
     },
-    "Leona": {
-      "skins": {
-        "1": "Valkyrie Leona",
-        "2": "Defender Leona",
-        "3": "Iron Solari Leona",
-        "4": "Pool Party Leona",
-        "8": "PROJECT: Leona",
-        "9": "Barbecue Leona",
-        "10": "Solar Eclipse Leona",
-        "11": "Lunar Eclipse Leona",
-        "12": "Mecha Kingdoms Leona",
-        "21": "Battle Academia Leona",
-        "22": "DWG Leona",
-        "23": "Prestige Battle Academia Leona",
-        "33": "Debonair Leona",
-        "34": "High Noon Leona",
-        "50": "Crystalis Motus Leona",
-        "52": "Battle Lion Leona",
-        "53": "Prestige Battle Lion Leona",
-        "64": "Eternal Aspect Leona"
-      },
-      "chromas": {
-        "4": {
-          "5": "Pool Party Leona Dawn Pink",
-          "6": "Pool Party Leona Dawn Azure",
-          "7": "Pool Party Leona Dawn Lemon"
-        },
-        "12": {
-          "13": "Peacekeeper",
-          "14": "Obsidian",
-          "15": "Pearl",
-          "16": "Ruby",
-          "17": "Turquoise",
-          "18": "Sapphire",
-          "19": "Rose Quartz",
-          "20": "Tanzanite"
-        },
-        "21": {
-          "24": "Ruby",
-          "25": "Citrine",
-          "26": "Sapphire",
-          "27": "Turquoise",
-          "28": "Emerald",
-          "29": "Rose Quartz",
-          "30": "Obsidian",
-          "31": "Pearl"
-        },
-        "22": {
-          "32": "Elite"
-        },
-        "33": {
-          "35": "Ruby",
-          "36": "Catseye",
-          "37": "Rose Quartz",
-          "38": "Sapphire",
-          "39": "Turquoise",
-          "40": "Emerald",
-          "41": "Tanzanite",
-          "42": "Obsidian",
-          "43": "Cerulean Club"
-        },
-        "34": {
-          "44": "Ruby",
-          "45": "Tanzanite",
-          "46": "Rose Quartz",
-          "47": "Catseye",
-          "48": "Nomad",
-          "49": "Sapphire"
-        },
-        "50": {
-          "51": "Reclaimed"
-        },
-        "52": {
-          "54": "Ruby",
-          "55": "Emerald",
-          "56": "Rose Quartz",
-          "57": "Catseye",
-          "58": "Tanzanite",
-          "59": "Turquoise",
-          "60": "Meteorite",
-          "61": "Pearl",
-          "62": "Nightwire",
-          "63": "Override"
-        },
-        "64": {
-          "65": "Ruby",
-          "66": "Turquoise",
-          "67": "Sapphire",
-          "68": "Rose Quartz",
-          "69": "Tanzanite",
-          "70": "Pearl"
-        }
-      },
-      "forms": {}
-    },
     "Lulu": {
       "skins": {
         "1": "Bittersweet Lulu",
@@ -5385,141 +5558,6 @@
           "62": "Obsidian",
           "63": "Rose Quartz",
           "64": "Sapphire"
-        }
-      },
-      "forms": {}
-    },
-    "Jax": {
-      "skins": {
-        "1": "The Mighty Jax",
-        "2": "Vandal Jax",
-        "3": "Angler Jax",
-        "4": "PAX Jax",
-        "5": "Jaximus",
-        "6": "Temple Jax",
-        "7": "Nemesis Jax",
-        "8": "SKT T1 Jax",
-        "12": "Warden Jax",
-        "13": "God Staff Jax",
-        "14": "Mecha Kingdoms Jax",
-        "20": "Conqueror Jax",
-        "21": "Prestige Conqueror Jax",
-        "22": "Empyrean Jax",
-        "32": "Neo PAX Jax",
-        "33": "PROJECT: Jax",
-        "42": "Prestige Magma Chamber Jax"
-      },
-      "chromas": {
-        "7": {
-          "9": "Nemesis Jax Sand Cream",
-          "10": "Nemesis Jax Sand Amber",
-          "11": "Nemesis Jax Sand Brick"
-        },
-        "14": {
-          "15": "Ruby",
-          "16": "Peridot",
-          "17": "Rose Quartz",
-          "18": "Peacekeeper",
-          "19": "Pearl"
-        },
-        "22": {
-          "23": "Ruby",
-          "24": "Catseye",
-          "25": "Emerald",
-          "26": "Rose Quartz",
-          "27": "Turquoise",
-          "28": "Tanzanite",
-          "29": "Citrine",
-          "30": "Pearl",
-          "31": "Neon Flare"
-        },
-        "33": {
-          "34": "Ruby",
-          "35": "Catseye",
-          "36": "Emerald",
-          "37": "Turquoise",
-          "38": "Amethyst",
-          "39": "Sapphire",
-          "40": "Obsidian",
-          "41": "Sandstone"
-        },
-        "42": {
-          "43": "Vivid"
-        }
-      },
-      "forms": {}
-    },
-    "Malphite": {
-      "skins": {
-        "1": "Shamrock Malphite",
-        "2": "Coral Reef Malphite",
-        "3": "Marble Malphite",
-        "4": "Obsidian Malphite",
-        "5": "Glacial Malphite",
-        "6": "Mecha Malphite",
-        "7": "Ironside Malphite",
-        "16": "Odyssey Malphite",
-        "23": "Dark Star Malphite",
-        "24": "Prestige Dark Star Malphite",
-        "25": "FPX Malphite",
-        "27": "Old God Malphite",
-        "37": "Lunar Guardian Malphite",
-        "48": "Pool Party Malphite"
-      },
-      "chromas": {
-        "6": {
-          "8": "Catseye",
-          "9": "Emerald",
-          "10": "Obsidian",
-          "11": "Sandstone",
-          "12": "Pearl",
-          "13": "Sapphire",
-          "14": "Granite",
-          "15": "Citrine"
-        },
-        "16": {
-          "17": "Ruby",
-          "18": "Emerald",
-          "19": "Pearl",
-          "20": "Rose Quartz",
-          "21": "Sapphire",
-          "22": "Tanzanite"
-        },
-        "25": {
-          "26": "Elite",
-          "47": "Tenfold Triumph"
-        },
-        "27": {
-          "28": "Ruby",
-          "29": "Catseye",
-          "30": "Emerald",
-          "31": "Tanzanite",
-          "32": "Sapphire",
-          "33": "Rose Quartz",
-          "34": "Pearl",
-          "35": "Obsidian",
-          "36": "Dark Ritual"
-        },
-        "37": {
-          "38": "Ruby",
-          "39": "Emerald",
-          "40": "Sapphire",
-          "41": "Turquoise",
-          "42": "Rose Quartz",
-          "43": "Tanzanite",
-          "44": "Pearl",
-          "45": "Obsidian",
-          "46": "Resplendent"
-        },
-        "48": {
-          "49": "Ruby",
-          "50": "Catseye",
-          "51": "Sapphire",
-          "52": "Emerald",
-          "53": "Meteorite",
-          "54": "Obsidian",
-          "55": "Pearl",
-          "56": "Rose Quartz"
         }
       },
       "forms": {}
@@ -5628,17 +5666,92 @@
       },
       "forms": {
         "7": {
-          "999": "Fire",
-          "998": "Water",
           "991": "Air",
-          "997": "Storm",
+          "992": "Dark",
           "993": "Ice",
           "994": "Magma",
           "995": "Mystic",
           "996": "Nature",
-          "992": "Dark"
+          "997": "Storm",
+          "998": "Water",
+          "999": "Fire"
         }
       }
+    },
+    "Malphite": {
+      "skins": {
+        "1": "Shamrock Malphite",
+        "2": "Coral Reef Malphite",
+        "3": "Marble Malphite",
+        "4": "Obsidian Malphite",
+        "5": "Glacial Malphite",
+        "6": "Mecha Malphite",
+        "7": "Ironside Malphite",
+        "16": "Odyssey Malphite",
+        "23": "Dark Star Malphite",
+        "24": "Prestige Dark Star Malphite",
+        "25": "FPX Malphite",
+        "27": "Old God Malphite",
+        "37": "Lunar Guardian Malphite",
+        "48": "Pool Party Malphite"
+      },
+      "chromas": {
+        "6": {
+          "8": "Catseye",
+          "9": "Emerald",
+          "10": "Obsidian",
+          "11": "Sandstone",
+          "12": "Pearl",
+          "13": "Sapphire",
+          "14": "Granite",
+          "15": "Citrine"
+        },
+        "16": {
+          "17": "Ruby",
+          "18": "Emerald",
+          "19": "Pearl",
+          "20": "Rose Quartz",
+          "21": "Sapphire",
+          "22": "Tanzanite"
+        },
+        "25": {
+          "26": "Elite",
+          "47": "Tenfold Triumph"
+        },
+        "27": {
+          "28": "Ruby",
+          "29": "Catseye",
+          "30": "Emerald",
+          "31": "Tanzanite",
+          "32": "Sapphire",
+          "33": "Rose Quartz",
+          "34": "Pearl",
+          "35": "Obsidian",
+          "36": "Dark Ritual"
+        },
+        "37": {
+          "38": "Ruby",
+          "39": "Emerald",
+          "40": "Sapphire",
+          "41": "Turquoise",
+          "42": "Rose Quartz",
+          "43": "Tanzanite",
+          "44": "Pearl",
+          "45": "Obsidian",
+          "46": "Resplendent"
+        },
+        "48": {
+          "49": "Ruby",
+          "50": "Catseye",
+          "51": "Sapphire",
+          "52": "Emerald",
+          "53": "Meteorite",
+          "54": "Obsidian",
+          "55": "Pearl",
+          "56": "Rose Quartz"
+        }
+      },
+      "forms": {}
     },
     "Malzahar": {
       "skins": {
@@ -5766,39 +5879,6 @@
       },
       "forms": {}
     },
-    "Mel": {
-      "skins": {
-        "1": "Arcane Councilor Mel",
-        "10": "Prestige Winterblessed Mel",
-        "12": "Coven Mel"
-      },
-      "chromas": {
-        "1": {
-          "2": "Ruby",
-          "3": "Turquoise",
-          "4": "Tanzanite",
-          "5": "Catseye",
-          "6": "Rose Quartz",
-          "7": "Sapphire",
-          "8": "Obsidian",
-          "9": "Pearl"
-        },
-        "10": {
-          "11": "Vivid"
-        },
-        "12": {
-          "13": "Ruby",
-          "14": "Aquamarine",
-          "15": "Turquoise",
-          "16": "Obsidian",
-          "17": "Catseye",
-          "18": "Rose Quartz",
-          "19": "Tanzanite",
-          "20": "Pearl"
-        }
-      },
-      "forms": {}
-    },
     "MasterYi": {
       "skins": {
         "1": "Assassin Master Yi",
@@ -5915,6 +5995,39 @@
       },
       "forms": {}
     },
+    "Mel": {
+      "skins": {
+        "1": "Arcane Councilor Mel",
+        "10": "Prestige Winterblessed Mel",
+        "12": "Coven Mel"
+      },
+      "chromas": {
+        "1": {
+          "2": "Ruby",
+          "3": "Turquoise",
+          "4": "Tanzanite",
+          "5": "Catseye",
+          "6": "Rose Quartz",
+          "7": "Sapphire",
+          "8": "Obsidian",
+          "9": "Pearl"
+        },
+        "10": {
+          "11": "Vivid"
+        },
+        "12": {
+          "13": "Ruby",
+          "14": "Aquamarine",
+          "15": "Turquoise",
+          "16": "Obsidian",
+          "17": "Catseye",
+          "18": "Rose Quartz",
+          "19": "Tanzanite",
+          "20": "Pearl"
+        }
+      },
+      "forms": {}
+    },
     "Milio": {
       "skins": {
         "1": "Faerie Court Milio",
@@ -5952,58 +6065,6 @@
           "26": "Pearl",
           "27": "Obsidian",
           "28": "Rose Quartz"
-        }
-      },
-      "forms": {}
-    },
-    "MonkeyKing": {
-      "skins": {
-        "1": "Volcanic Wukong",
-        "2": "General Wukong",
-        "3": "Jade Dragon Wukong",
-        "4": "Underworld Wukong",
-        "5": "Radiant Wukong",
-        "6": "Lancer Stratus Wukong",
-        "7": "Battle Academia Wukong",
-        "16": "Elderwood Wukong",
-        "26": "Mecha Kingdoms Wukong"
-      },
-      "chromas": {
-        "7": {
-          "8": "Ruby",
-          "9": "Rose Quartz",
-          "10": "Catseye",
-          "11": "Sapphire",
-          "12": "Emerald",
-          "13": "Pearl",
-          "14": "Meteorite",
-          "15": "Obsidian"
-        },
-        "16": {
-          "17": "Ruby",
-          "18": "Citrine",
-          "19": "Emerald",
-          "20": "Turquoise",
-          "21": "Aquamarine",
-          "22": "Rose Quartz",
-          "23": "Amethyst",
-          "24": "Pearl"
-        },
-        "3": {
-          "25": "Meteorite"
-        },
-        "4": {
-          "27": "Doom"
-        },
-        "26": {
-          "29": "Ruby",
-          "30": "Emerald",
-          "31": "Rose Quartz",
-          "32": "Sapphire",
-          "33": "Amethyst",
-          "34": "Pearl",
-          "35": "Obsidian",
-          "36": "Catseye"
         }
       },
       "forms": {}
@@ -6110,6 +6171,58 @@
         }
       }
     },
+    "MonkeyKing": {
+      "skins": {
+        "1": "Volcanic Wukong",
+        "2": "General Wukong",
+        "3": "Jade Dragon Wukong",
+        "4": "Underworld Wukong",
+        "5": "Radiant Wukong",
+        "6": "Lancer Stratus Wukong",
+        "7": "Battle Academia Wukong",
+        "16": "Elderwood Wukong",
+        "26": "Mecha Kingdoms Wukong"
+      },
+      "chromas": {
+        "7": {
+          "8": "Ruby",
+          "9": "Rose Quartz",
+          "10": "Catseye",
+          "11": "Sapphire",
+          "12": "Emerald",
+          "13": "Pearl",
+          "14": "Meteorite",
+          "15": "Obsidian"
+        },
+        "16": {
+          "17": "Ruby",
+          "18": "Citrine",
+          "19": "Emerald",
+          "20": "Turquoise",
+          "21": "Aquamarine",
+          "22": "Rose Quartz",
+          "23": "Amethyst",
+          "24": "Pearl"
+        },
+        "3": {
+          "25": "Meteorite"
+        },
+        "4": {
+          "27": "Doom"
+        },
+        "26": {
+          "29": "Ruby",
+          "30": "Emerald",
+          "31": "Rose Quartz",
+          "32": "Sapphire",
+          "33": "Amethyst",
+          "34": "Pearl",
+          "35": "Obsidian",
+          "36": "Catseye"
+        }
+      },
+      "forms": {}
+    },
     "Mordekaiser": {
       "skins": {
         "1": "Dragon Knight Mordekaiser",
@@ -6191,58 +6304,6 @@
           "999": "Stage 3"
         }
       }
-    },
-    "Naafiri": {
-      "skins": {
-        "1": "Soul Fighter Naafiri",
-        "11": "PROJECT: Naafiri",
-        "20": "Glizzy Naafiri",
-        "29": "Warhound Naafiri"
-      },
-      "chromas": {
-        "1": {
-          "2": "Ruby",
-          "3": "Catseye",
-          "4": "Amethyst",
-          "5": "Turquoise",
-          "6": "Emerald",
-          "7": "Sapphire",
-          "8": "Jasper",
-          "9": "Obsidian",
-          "10": "Limitless"
-        },
-        "11": {
-          "12": "Ruby",
-          "13": "Sapphire",
-          "14": "Citrine",
-          "15": "Rose Quartz",
-          "16": "Emerald",
-          "17": "Tanzanite",
-          "18": "Turquoise",
-          "19": "Pearl"
-        },
-        "20": {
-          "21": "Ruby",
-          "22": "Catseye",
-          "23": "Emerald",
-          "24": "Tanzanite",
-          "25": "Sapphire",
-          "26": "Rose Quartz",
-          "27": "Obsidian",
-          "28": "Pearl"
-        },
-        "29": {
-          "30": "Ruby",
-          "31": "Catseye",
-          "32": "Rose Quartz",
-          "33": "Turquoise",
-          "34": "Sapphire",
-          "35": "Emerald",
-          "36": "Obsidian",
-          "37": "Pearl"
-        }
-      },
-      "forms": {}
     },
     "Morgana": {
       "skins": {
@@ -6356,6 +6417,148 @@
           "999": "Stage 2"
         }
       }
+    },
+    "Naafiri": {
+      "skins": {
+        "1": "Soul Fighter Naafiri",
+        "11": "PROJECT: Naafiri",
+        "20": "Glizzy Naafiri",
+        "29": "Warhound Naafiri"
+      },
+      "chromas": {
+        "1": {
+          "2": "Ruby",
+          "3": "Catseye",
+          "4": "Amethyst",
+          "5": "Turquoise",
+          "6": "Emerald",
+          "7": "Sapphire",
+          "8": "Jasper",
+          "9": "Obsidian",
+          "10": "Limitless"
+        },
+        "11": {
+          "12": "Ruby",
+          "13": "Sapphire",
+          "14": "Citrine",
+          "15": "Rose Quartz",
+          "16": "Emerald",
+          "17": "Tanzanite",
+          "18": "Turquoise",
+          "19": "Pearl"
+        },
+        "20": {
+          "21": "Ruby",
+          "22": "Catseye",
+          "23": "Emerald",
+          "24": "Tanzanite",
+          "25": "Sapphire",
+          "26": "Rose Quartz",
+          "27": "Obsidian",
+          "28": "Pearl"
+        },
+        "29": {
+          "30": "Ruby",
+          "31": "Catseye",
+          "32": "Rose Quartz",
+          "33": "Turquoise",
+          "34": "Sapphire",
+          "35": "Emerald",
+          "36": "Obsidian",
+          "37": "Pearl"
+        }
+      },
+      "forms": {}
+    },
+    "Nami": {
+      "skins": {
+        "1": "Koi Nami",
+        "2": "River Spirit Nami",
+        "3": "Urf the Nami-tee",
+        "7": "Deep Sea Nami",
+        "8": "SKT T1 Nami",
+        "9": "Program Nami",
+        "15": "Splendid Staff Nami",
+        "24": "Cosmic Destiny Nami",
+        "32": "Bewitching Nami",
+        "41": "Space Groove Nami",
+        "42": "Prestige Space Groove Nami",
+        "51": "Coven Nami",
+        "58": "Mythmaker Nami",
+        "68": "Sunken Shadows Nami"
+      },
+      "chromas": {
+        "1": {
+          "4": "Koi Nami Element Sunbeam",
+          "5": "Koi Nami Element Smoke",
+          "6": "Koi Nami Element Twilight"
+        },
+        "9": {
+          "10": "Ruby",
+          "11": "Amethyst",
+          "12": "Obsidian",
+          "13": "Pearl",
+          "14": "Rose Quartz"
+        },
+        "15": {
+          "16": "Ruby",
+          "17": "Rose Quartz",
+          "18": "Aquamarine",
+          "19": "Citrine",
+          "20": "Tanzanite",
+          "21": "Peridot",
+          "22": "Heavenly Crane",
+          "23": "Pearl"
+        },
+        "24": {
+          "25": "Ruby",
+          "26": "Emerald",
+          "27": "Turquoise",
+          "28": "Amethyst",
+          "29": "Rose Quartz",
+          "30": "Obsidian",
+          "31": "Rainbow"
+        },
+        "32": {
+          "33": "Ruby",
+          "34": "Citrine",
+          "35": "Emerald",
+          "36": "Sapphire",
+          "37": "Rose Quartz",
+          "38": "Obsidian",
+          "39": "Pearl",
+          "40": "Turquoise"
+        },
+        "41": {
+          "43": "Ruby",
+          "44": "Citrine",
+          "45": "Emerald",
+          "46": "Sapphire",
+          "47": "Rose Quartz",
+          "48": "Obsidian",
+          "49": "Pearl",
+          "50": "Rainbow"
+        },
+        "51": {
+          "52": "Ruby",
+          "53": "Catseye",
+          "54": "Emerald",
+          "55": "Sapphire",
+          "56": "Pearl",
+          "57": "Profane"
+        },
+        "58": {
+          "59": "Ruby",
+          "60": "Turquoise",
+          "61": "Tanzanite",
+          "62": "Sapphire",
+          "63": "Rose Quartz",
+          "64": "Catseye",
+          "65": "Obsidian",
+          "66": "Pearl"
+        }
+      },
+      "forms": {}
     },
     "Nasus": {
       "skins": {
@@ -6570,92 +6773,91 @@
       },
       "forms": {}
     },
-    "Nami": {
+    "Nidalee": {
       "skins": {
-        "1": "Koi Nami",
-        "2": "River Spirit Nami",
-        "3": "Urf the Nami-tee",
-        "7": "Deep Sea Nami",
-        "8": "SKT T1 Nami",
-        "9": "Program Nami",
-        "15": "Splendid Staff Nami",
-        "24": "Cosmic Destiny Nami",
-        "32": "Bewitching Nami",
-        "41": "Space Groove Nami",
-        "42": "Prestige Space Groove Nami",
-        "51": "Coven Nami",
-        "58": "Mythmaker Nami",
-        "68": "Sunken Shadows Nami"
+        "1": "Snow Bunny Nidalee",
+        "2": "Leopard Nidalee",
+        "3": "French Maid Nidalee",
+        "4": "Pharaoh Nidalee",
+        "5": "Bewitching Nidalee",
+        "6": "Headhunter Nidalee",
+        "7": "Warring Kingdoms Nidalee",
+        "8": "Challenger Nidalee",
+        "9": "Super Galaxy Nidalee",
+        "11": "Dawnbringer Nidalee",
+        "18": "Cosmic Huntress Nidalee",
+        "27": "DWG Nidalee",
+        "29": "Ocean Song Nidalee",
+        "39": "Kittalee",
+        "48": "La Ilusión Nidalee",
+        "58": "Spirit Blossom Nidalee"
       },
       "chromas": {
-        "1": {
-          "4": "Koi Nami Element Sunbeam",
-          "5": "Koi Nami Element Smoke",
-          "6": "Koi Nami Element Twilight"
+        "8": {
+          "10": "Golden"
         },
-        "9": {
-          "10": "Ruby",
-          "11": "Amethyst",
-          "12": "Obsidian",
-          "13": "Pearl",
-          "14": "Rose Quartz"
+        "11": {
+          "12": "Ruby",
+          "13": "Amethyst",
+          "14": "Peridot",
+          "15": "Paragon",
+          "16": "Rose Quartz",
+          "17": "Pearl"
         },
-        "15": {
-          "16": "Ruby",
-          "17": "Rose Quartz",
-          "18": "Aquamarine",
-          "19": "Citrine",
-          "20": "Tanzanite",
-          "21": "Peridot",
-          "22": "Heavenly Crane",
-          "23": "Pearl"
+        "18": {
+          "19": "Ruby",
+          "20": "Citrine",
+          "21": "Emerald",
+          "22": "Turquoise",
+          "23": "Tanzanite",
+          "24": "Rose Quartz",
+          "25": "Obsidian",
+          "26": "Pearl"
         },
-        "24": {
-          "25": "Ruby",
-          "26": "Emerald",
-          "27": "Turquoise",
-          "28": "Amethyst",
-          "29": "Rose Quartz",
-          "30": "Obsidian",
-          "31": "Rainbow"
+        "27": {
+          "28": "Elite"
         },
-        "32": {
-          "33": "Ruby",
-          "34": "Citrine",
-          "35": "Emerald",
-          "36": "Sapphire",
-          "37": "Rose Quartz",
-          "38": "Obsidian",
-          "39": "Pearl",
-          "40": "Turquoise"
+        "29": {
+          "30": "Ruby",
+          "31": "Catseye",
+          "32": "Rose Quartz",
+          "33": "Sapphire",
+          "34": "Emerald",
+          "35": "Tanzanite",
+          "36": "Pearl",
+          "37": "Obsidian"
         },
-        "41": {
-          "43": "Ruby",
-          "44": "Citrine",
-          "45": "Emerald",
-          "46": "Sapphire",
-          "47": "Rose Quartz",
-          "48": "Obsidian",
-          "49": "Pearl",
-          "50": "Rainbow"
+        "39": {
+          "40": "Ruby",
+          "41": "Citrine",
+          "42": "Aquamarine",
+          "43": "Peridot",
+          "44": "Obsidian",
+          "45": "Amethyst",
+          "46": "Rose Quartz",
+          "47": "Pearl"
         },
-        "51": {
-          "52": "Ruby",
-          "53": "Catseye",
-          "54": "Emerald",
+        "48": {
+          "49": "Ruby",
+          "50": "Citrine",
+          "51": "Emerald",
+          "52": "Tanzanite",
+          "53": "Turquoise",
+          "54": "Rose Quartz",
           "55": "Sapphire",
           "56": "Pearl",
-          "57": "Profane"
+          "57": "Vivida"
         },
         "58": {
           "59": "Ruby",
           "60": "Turquoise",
-          "61": "Tanzanite",
-          "62": "Sapphire",
-          "63": "Rose Quartz",
-          "64": "Catseye",
+          "61": "Catseye",
+          "62": "Amethyst",
+          "63": "Emerald",
+          "64": "Tanzanite",
           "65": "Obsidian",
-          "66": "Pearl"
+          "66": "Pearl",
+          "67": "Paragon"
         }
       },
       "forms": {}
@@ -6746,208 +6948,6 @@
           "33": "Rose Quartz",
           "34": "Pearl",
           "35": "Neon Facade"
-        }
-      },
-      "forms": {}
-    },
-    "Kayle": {
-      "skins": {
-        "1": "Silver Kayle",
-        "2": "Viridian Kayle",
-        "3": "Transcended Kayle",
-        "4": "Battleborn Kayle",
-        "5": "Judgment Kayle",
-        "6": "Aether Wing Kayle",
-        "7": "Riot Kayle",
-        "8": "Iron Inquisitor Kayle",
-        "9": "Pentakill Kayle",
-        "15": "PsyOps Kayle",
-        "24": "Dragonslayer Kayle",
-        "33": "Pentakill III: Lost Chapter Kayle",
-        "42": "Sun-Eater Kayle",
-        "57": "Immortal Journey Kayle",
-        "66": "Empyrean Kayle",
-        "67": "Prestige Empyrean Kayle",
-        "78": "Spirit Blossom Kayle",
-        "88": "Founders Silver Kayle"
-      },
-      "chromas": {
-        "2": {
-          "10": "Citrine",
-          "11": "Aquamarine",
-          "12": "Pearl",
-          "13": "Rose Quartz",
-          "14": "Obsidian"
-        },
-        "15": {
-          "16": "Ruby",
-          "17": "Sandstone",
-          "18": "Turquoise",
-          "19": "Sapphire",
-          "20": "Rose Quartz",
-          "21": "Emerald",
-          "22": "Tanzanite",
-          "23": "Hunter"
-        },
-        "24": {
-          "25": "Ruby",
-          "26": "Citrine",
-          "27": "Emerald",
-          "28": "Sapphire",
-          "29": "Tanzanite",
-          "30": "Rose Quartz",
-          "31": "Obsidian",
-          "32": "Pearl"
-        },
-        "33": {
-          "34": "Ruby",
-          "35": "Emerald",
-          "36": "Rose Quartz",
-          "37": "Aquamarine",
-          "38": "Tanzanite",
-          "39": "Pearl",
-          "40": "Obsidian",
-          "41": "Catseye"
-        },
-        "42": {
-          "43": "Ruby",
-          "44": "Citrine",
-          "45": "Emerald",
-          "46": "Tanzanite",
-          "47": "Rose Quartz",
-          "48": "Sapphire",
-          "49": "Rainbow",
-          "50": "Turquoise"
-        },
-        "6": {
-          "51": "Ruby",
-          "52": "Emerald",
-          "53": "Rose Quartz",
-          "54": "Amethyst",
-          "55": "Sapphire",
-          "56": "Ace"
-        },
-        "57": {
-          "58": "Ruby",
-          "59": "Sapphire",
-          "60": "Rose Quartz",
-          "61": "Emerald",
-          "62": "Amethyst",
-          "63": "Catseye",
-          "64": "Obsidian",
-          "65": "Pearl"
-        },
-        "66": {
-          "68": "Ruby",
-          "69": "Catseye",
-          "70": "Emerald",
-          "71": "Turquoise",
-          "72": "Rose Quartz",
-          "73": "Sapphire",
-          "74": "Pearl",
-          "75": "Tanzanite",
-          "76": "Neon Facade",
-          "77": "MSI 2024 Chaos"
-        },
-        "78": {
-          "79": "Ruby",
-          "80": "Citrine",
-          "81": "Emerald",
-          "82": "Tanzanite",
-          "83": "Sapphire",
-          "84": "Turquoise",
-          "85": "Rose Quartz",
-          "86": "Obsidian",
-          "87": "Paragon"
-        }
-      },
-      "forms": {}
-    },
-    "Nidalee": {
-      "skins": {
-        "1": "Snow Bunny Nidalee",
-        "2": "Leopard Nidalee",
-        "3": "French Maid Nidalee",
-        "4": "Pharaoh Nidalee",
-        "5": "Bewitching Nidalee",
-        "6": "Headhunter Nidalee",
-        "7": "Warring Kingdoms Nidalee",
-        "8": "Challenger Nidalee",
-        "9": "Super Galaxy Nidalee",
-        "11": "Dawnbringer Nidalee",
-        "18": "Cosmic Huntress Nidalee",
-        "27": "DWG Nidalee",
-        "29": "Ocean Song Nidalee",
-        "39": "Kittalee",
-        "48": "La Ilusión Nidalee",
-        "58": "Spirit Blossom Nidalee"
-      },
-      "chromas": {
-        "8": {
-          "10": "Golden"
-        },
-        "11": {
-          "12": "Ruby",
-          "13": "Amethyst",
-          "14": "Peridot",
-          "15": "Paragon",
-          "16": "Rose Quartz",
-          "17": "Pearl"
-        },
-        "18": {
-          "19": "Ruby",
-          "20": "Citrine",
-          "21": "Emerald",
-          "22": "Turquoise",
-          "23": "Tanzanite",
-          "24": "Rose Quartz",
-          "25": "Obsidian",
-          "26": "Pearl"
-        },
-        "27": {
-          "28": "Elite"
-        },
-        "29": {
-          "30": "Ruby",
-          "31": "Catseye",
-          "32": "Rose Quartz",
-          "33": "Sapphire",
-          "34": "Emerald",
-          "35": "Tanzanite",
-          "36": "Pearl",
-          "37": "Obsidian"
-        },
-        "39": {
-          "40": "Ruby",
-          "41": "Citrine",
-          "42": "Aquamarine",
-          "43": "Peridot",
-          "44": "Obsidian",
-          "45": "Amethyst",
-          "46": "Rose Quartz",
-          "47": "Pearl"
-        },
-        "48": {
-          "49": "Ruby",
-          "50": "Citrine",
-          "51": "Emerald",
-          "52": "Tanzanite",
-          "53": "Turquoise",
-          "54": "Rose Quartz",
-          "55": "Sapphire",
-          "56": "Pearl",
-          "57": "Vivida"
-        },
-        "58": {
-          "59": "Ruby",
-          "60": "Turquoise",
-          "61": "Catseye",
-          "62": "Amethyst",
-          "63": "Emerald",
-          "64": "Tanzanite",
-          "65": "Obsidian",
-          "66": "Pearl",
-          "67": "Paragon"
         }
       },
       "forms": {}
@@ -7206,6 +7206,69 @@
       },
       "forms": {}
     },
+    "Pantheon": {
+      "skins": {
+        "1": "Myrmidon Pantheon",
+        "2": "Ruthless Pantheon",
+        "3": "Perseus Pantheon",
+        "4": "Full Metal Pantheon",
+        "5": "Glaive Warrior Pantheon",
+        "6": "Dragonslayer Pantheon",
+        "7": "Zombie Slayer Pantheon",
+        "8": "Baker Pantheon",
+        "16": "Pulsefire Pantheon",
+        "25": "Ruined Pantheon",
+        "26": "Prestige Ascended Pantheon",
+        "36": "Ashen Conqueror Pantheon",
+        "38": "Chosen of the Wolf Pantheon"
+      },
+      "chromas": {
+        "6": {
+          "9": "Pearl",
+          "10": "Amethyst",
+          "11": "Sandstone",
+          "12": "Obsidian",
+          "13": "Catseye",
+          "14": "Emerald",
+          "15": "Ruby"
+        },
+        "16": {
+          "17": "Ruby",
+          "18": "Citrine",
+          "19": "Aquamarine",
+          "20": "Pearl",
+          "21": "Amethyst",
+          "22": "Chrono",
+          "23": "Obsidian",
+          "24": "Emerald"
+        },
+        "25": {
+          "27": "Ruby",
+          "28": "Citrine",
+          "29": "Amethyst",
+          "30": "Sapphire",
+          "31": "Emerald",
+          "32": "Rose Quartz",
+          "33": "Tanzanite",
+          "34": "Pearl",
+          "35": "Cursed"
+        },
+        "36": {
+          "37": "Emberwoken"
+        },
+        "38": {
+          "39": "Ruby",
+          "40": "Emerald",
+          "41": "Tanzanite",
+          "42": "Sapphire",
+          "43": "Rose Quartz",
+          "44": "Obsidian",
+          "45": "Turquoise",
+          "46": "Citrine"
+        }
+      },
+      "forms": {}
+    },
     "Poppy": {
       "skins": {
         "1": "Noxus Poppy",
@@ -7269,6 +7332,119 @@
           "48": "Catseye",
           "49": "Obsidian",
           "50": "Pearl"
+        }
+      },
+      "forms": {}
+    },
+    "Pyke": {
+      "skins": {
+        "1": "Sand Wraith Pyke",
+        "9": "Blood Moon Pyke",
+        "16": "PROJECT: Pyke",
+        "25": "PsyOps Pyke",
+        "34": "Sentinel Pyke",
+        "44": "Ashen Knight Pyke",
+        "45": "Empyrean Pyke",
+        "53": "Soul Fighter Pyke",
+        "54": "Prestige Soul Fighter Pyke",
+        "64": "Fright Night Pyke",
+        "74": "Inkshadow Pyke",
+        "75": "T1 Pyke"
+      },
+      "chromas": {
+        "1": {
+          "2": "Catseye",
+          "3": "Obsidian",
+          "4": "Sapphire",
+          "5": "Tanzanite",
+          "6": "Rose Quartz",
+          "7": "Turquoise",
+          "8": "Pearl"
+        },
+        "9": {
+          "10": "Ruby",
+          "11": "Citrine",
+          "12": "Aquamarine",
+          "13": "Rose Quartz",
+          "14": "Obsidian",
+          "15": "Pearl"
+        },
+        "16": {
+          "17": "Obsidian",
+          "18": "Ruby",
+          "19": "Turquoise",
+          "20": "Pearl",
+          "21": "Aquamarine",
+          "22": "Amethyst",
+          "23": "Rose Quartz",
+          "24": "Reckoning"
+        },
+        "25": {
+          "26": "Ruby",
+          "27": "Sandstone",
+          "28": "Sapphire",
+          "29": "Tanzanite",
+          "30": "Emerald",
+          "31": "Rose Quartz",
+          "32": "Hunter",
+          "33": "Obsidian"
+        },
+        "34": {
+          "35": "Ruby",
+          "36": "Citrine",
+          "37": "Emerald",
+          "38": "Tanzanite",
+          "39": "Sapphire",
+          "40": "Pearl",
+          "41": "Aquamarine",
+          "42": "Turquoise",
+          "43": "Resolute"
+        },
+        "44": {
+          "46": "Emberwoken"
+        },
+        "45": {
+          "47": "Ruby",
+          "48": "Emerald",
+          "49": "Pearl",
+          "50": "Rose Quartz",
+          "51": "Turquoise",
+          "52": "Neon Flare"
+        },
+        "53": {
+          "55": "Ruby",
+          "56": "Tanzanite",
+          "57": "Citrine",
+          "58": "Turquoise",
+          "59": "Rose Quartz",
+          "60": "Emerald",
+          "61": "Pearl",
+          "62": "Obsidian",
+          "63": "Limitless"
+        },
+        "64": {
+          "65": "Ruby",
+          "66": "Catseye",
+          "67": "Emerald",
+          "68": "Turquoise",
+          "69": "Sapphire",
+          "70": "Amethyst",
+          "71": "Pearl",
+          "72": "Tanzanite",
+          "73": "Ghoulish"
+        },
+        "74": {
+          "76": "Ruby",
+          "77": "Emerald",
+          "78": "Rose Quartz",
+          "79": "Sapphire",
+          "80": "Obsidian",
+          "81": "Pearl",
+          "82": "Citrine",
+          "83": "Turquoise"
+        },
+        "75": {
+          "84": "Elite"
         }
       },
       "forms": {}
@@ -7465,6 +7641,54 @@
       },
       "forms": {}
     },
+    "Rammus": {
+      "skins": {
+        "1": "King Rammus",
+        "2": "Chrome Rammus",
+        "3": "Molten Rammus",
+        "4": "Freljord Rammus",
+        "5": "Ninja Rammus",
+        "6": "Full Metal Rammus",
+        "7": "Guardian of the Sands Rammus",
+        "8": "Sweeper Rammus",
+        "16": "Hextech Rammus",
+        "17": "Astronaut Rammus",
+        "26": "Durian Defender Rammus",
+        "35": "Baron Rammus"
+      },
+      "chromas": {
+        "8": {
+          "9": "Ruby",
+          "10": "Rose Quartz",
+          "11": "Emerald",
+          "12": "Sapphire",
+          "13": "Aquamarine",
+          "14": "Tanzanite",
+          "15": "Obsidian"
+        },
+        "17": {
+          "18": "Ruby",
+          "19": "Citrine",
+          "20": "Catseye",
+          "21": "Turquoise",
+          "22": "Sapphire",
+          "23": "Emerald",
+          "24": "Amethyst",
+          "25": "Rose Quartz"
+        },
+        "26": {
+          "27": "Ruby",
+          "28": "Citrine",
+          "29": "Aquamarine",
+          "30": "Rose Quartz",
+          "31": "Tanzanite",
+          "32": "Obsidian",
+          "33": "Jasper",
+          "34": "Pearl"
+        }
+      },
+      "forms": {}
+    },
     "RekSai": {
       "skins": {
         "1": "Eternum Rek'Sai",
@@ -7554,182 +7778,6 @@
           "27": "Pearl",
           "28": "Citrine",
           "29": "Noonday"
-        }
-      },
-      "forms": {}
-    },
-    "Pantheon": {
-      "skins": {
-        "1": "Myrmidon Pantheon",
-        "2": "Ruthless Pantheon",
-        "3": "Perseus Pantheon",
-        "4": "Full Metal Pantheon",
-        "5": "Glaive Warrior Pantheon",
-        "6": "Dragonslayer Pantheon",
-        "7": "Zombie Slayer Pantheon",
-        "8": "Baker Pantheon",
-        "16": "Pulsefire Pantheon",
-        "25": "Ruined Pantheon",
-        "26": "Prestige Ascended Pantheon",
-        "36": "Ashen Conqueror Pantheon",
-        "38": "Chosen of the Wolf Pantheon"
-      },
-      "chromas": {
-        "6": {
-          "9": "Pearl",
-          "10": "Amethyst",
-          "11": "Sandstone",
-          "12": "Obsidian",
-          "13": "Catseye",
-          "14": "Emerald",
-          "15": "Ruby"
-        },
-        "16": {
-          "17": "Ruby",
-          "18": "Citrine",
-          "19": "Aquamarine",
-          "20": "Pearl",
-          "21": "Amethyst",
-          "22": "Chrono",
-          "23": "Obsidian",
-          "24": "Emerald"
-        },
-        "25": {
-          "27": "Ruby",
-          "28": "Citrine",
-          "29": "Amethyst",
-          "30": "Sapphire",
-          "31": "Emerald",
-          "32": "Rose Quartz",
-          "33": "Tanzanite",
-          "34": "Pearl",
-          "35": "Cursed"
-        },
-        "36": {
-          "37": "Emberwoken"
-        },
-        "38": {
-          "39": "Ruby",
-          "40": "Emerald",
-          "41": "Tanzanite",
-          "42": "Sapphire",
-          "43": "Rose Quartz",
-          "44": "Obsidian",
-          "45": "Turquoise",
-          "46": "Citrine"
-        }
-      },
-      "forms": {}
-    },
-    "Pyke": {
-      "skins": {
-        "1": "Sand Wraith Pyke",
-        "9": "Blood Moon Pyke",
-        "16": "PROJECT: Pyke",
-        "25": "PsyOps Pyke",
-        "34": "Sentinel Pyke",
-        "44": "Ashen Knight Pyke",
-        "45": "Empyrean Pyke",
-        "53": "Soul Fighter Pyke",
-        "54": "Prestige Soul Fighter Pyke",
-        "64": "Fright Night Pyke",
-        "74": "Inkshadow Pyke",
-        "75": "T1 Pyke"
-      },
-      "chromas": {
-        "1": {
-          "2": "Catseye",
-          "3": "Obsidian",
-          "4": "Sapphire",
-          "5": "Tanzanite",
-          "6": "Rose Quartz",
-          "7": "Turquoise",
-          "8": "Pearl"
-        },
-        "9": {
-          "10": "Ruby",
-          "11": "Citrine",
-          "12": "Aquamarine",
-          "13": "Rose Quartz",
-          "14": "Obsidian",
-          "15": "Pearl"
-        },
-        "16": {
-          "17": "Obsidian",
-          "18": "Ruby",
-          "19": "Turquoise",
-          "20": "Pearl",
-          "21": "Aquamarine",
-          "22": "Amethyst",
-          "23": "Rose Quartz",
-          "24": "Reckoning"
-        },
-        "25": {
-          "26": "Ruby",
-          "27": "Sandstone",
-          "28": "Sapphire",
-          "29": "Tanzanite",
-          "30": "Emerald",
-          "31": "Rose Quartz",
-          "32": "Hunter",
-          "33": "Obsidian"
-        },
-        "34": {
-          "35": "Ruby",
-          "36": "Citrine",
-          "37": "Emerald",
-          "38": "Tanzanite",
-          "39": "Sapphire",
-          "40": "Pearl",
-          "41": "Aquamarine",
-          "42": "Turquoise",
-          "43": "Resolute"
-        },
-        "44": {
-          "46": "Emberwoken"
-        },
-        "45": {
-          "47": "Ruby",
-          "48": "Emerald",
-          "49": "Pearl",
-          "50": "Rose Quartz",
-          "51": "Turquoise",
-          "52": "Neon Flare"
-        },
-        "53": {
-          "55": "Ruby",
-          "56": "Tanzanite",
-          "57": "Citrine",
-          "58": "Turquoise",
-          "59": "Rose Quartz",
-          "60": "Emerald",
-          "61": "Pearl",
-          "62": "Obsidian",
-          "63": "Limitless"
-        },
-        "64": {
-          "65": "Ruby",
-          "66": "Catseye",
-          "67": "Emerald",
-          "68": "Turquoise",
-          "69": "Sapphire",
-          "70": "Amethyst",
-          "71": "Pearl",
-          "72": "Tanzanite",
-          "73": "Ghoulish"
-        },
-        "74": {
-          "76": "Ruby",
-          "77": "Emerald",
-          "78": "Rose Quartz",
-          "79": "Sapphire",
-          "80": "Obsidian",
-          "81": "Pearl",
-          "82": "Citrine",
-          "83": "Turquoise"
-        },
-        "75": {
-          "84": "Elite"
         }
       },
       "forms": {}
@@ -7932,50 +7980,6 @@
       },
       "forms": {}
     },
-    "Rumble": {
-      "skins": {
-        "1": "Rumble in the Jungle",
-        "2": "Bilgerat Rumble",
-        "3": "Super Galaxy Rumble",
-        "4": "Badlands Baron Rumble",
-        "13": "Space Groove Rumble",
-        "23": "Cafe Cuties Rumble"
-      },
-      "chromas": {
-        "4": {
-          "5": "Ruby",
-          "6": "Meteorite",
-          "7": "Turquoise",
-          "8": "Pearl",
-          "9": "Rose Quartz",
-          "10": "Obsidian",
-          "11": "Catseye",
-          "12": "Emerald"
-        },
-        "13": {
-          "14": "Ruby",
-          "15": "Rose Quartz",
-          "16": "Catseye",
-          "17": "Turquoise",
-          "18": "Emerald",
-          "19": "Aquamarine",
-          "20": "Amethyst",
-          "21": "Obsidian",
-          "22": "Disco"
-        },
-        "23": {
-          "24": "Ruby",
-          "25": "Catseye",
-          "26": "Emerald",
-          "27": "Sapphire",
-          "28": "Rose Quartz",
-          "29": "Tanzanite",
-          "30": "Obsidian",
-          "31": "Pearl"
-        }
-      },
-      "forms": {}
-    },
     "Riven": {
       "skins": {
         "1": "Redeemed Riven",
@@ -8073,6 +8077,50 @@
           "69": "Amethyst",
           "70": "Turquoise",
           "71": "Obsidian"
+        }
+      },
+      "forms": {}
+    },
+    "Rumble": {
+      "skins": {
+        "1": "Rumble in the Jungle",
+        "2": "Bilgerat Rumble",
+        "3": "Super Galaxy Rumble",
+        "4": "Badlands Baron Rumble",
+        "13": "Space Groove Rumble",
+        "23": "Cafe Cuties Rumble"
+      },
+      "chromas": {
+        "4": {
+          "5": "Ruby",
+          "6": "Meteorite",
+          "7": "Turquoise",
+          "8": "Pearl",
+          "9": "Rose Quartz",
+          "10": "Obsidian",
+          "11": "Catseye",
+          "12": "Emerald"
+        },
+        "13": {
+          "14": "Ruby",
+          "15": "Rose Quartz",
+          "16": "Catseye",
+          "17": "Turquoise",
+          "18": "Emerald",
+          "19": "Aquamarine",
+          "20": "Amethyst",
+          "21": "Obsidian",
+          "22": "Disco"
+        },
+        "23": {
+          "24": "Ruby",
+          "25": "Catseye",
+          "26": "Emerald",
+          "27": "Sapphire",
+          "28": "Rose Quartz",
+          "29": "Tanzanite",
+          "30": "Obsidian",
+          "31": "Pearl"
         }
       },
       "forms": {}
@@ -8579,6 +8627,101 @@
         }
       }
     },
+    "Shaco": {
+      "skins": {
+        "1": "Mad Hatter Shaco",
+        "2": "Royal Shaco",
+        "3": "Nutcracko",
+        "4": "Workshop Shaco",
+        "5": "Asylum Shaco",
+        "6": "Masked Shaco",
+        "7": "Wild Card Shaco",
+        "8": "Dark Star Shaco",
+        "15": "Arcanist Shaco",
+        "23": "Crime City Nightmare Shaco",
+        "33": "Winterblessed Shaco",
+        "43": "Soul Fighter Shaco",
+        "44": "Prestige Soul Fighter Shaco",
+        "54": "Fright Night Shaco",
+        "64": "Cat-in-the-Box Shaco",
+        "71": "Prestige Pandemonium Shaco"
+      },
+      "chromas": {
+        "8": {
+          "9": "Ruby",
+          "10": "Catseye",
+          "11": "Emerald",
+          "12": "Rose Quartz",
+          "13": "Pearl",
+          "14": "Obsidian"
+        },
+        "15": {
+          "16": "Rainbow",
+          "17": "Aquamarine",
+          "18": "Ruby",
+          "19": "Sapphire",
+          "20": "Emerald",
+          "21": "Turquoise",
+          "22": "Tanzanite"
+        },
+        "23": {
+          "24": "Ruby",
+          "25": "Catseye",
+          "26": "Emerald",
+          "27": "Amethyst",
+          "28": "Rose Quartz",
+          "29": "Sapphire",
+          "30": "Obsidian",
+          "31": "Pearl",
+          "32": "Underground"
+        },
+        "33": {
+          "34": "Ruby",
+          "35": "Turquoise",
+          "36": "Catseye",
+          "37": "Emerald",
+          "38": "Rose Quartz",
+          "39": "Amethyst",
+          "40": "Obsidian",
+          "41": "Pearl",
+          "42": "Wreathguard"
+        },
+        "43": {
+          "45": "Ruby",
+          "46": "Emerald",
+          "47": "Rose Quartz",
+          "48": "Turquoise",
+          "49": "Catseye",
+          "50": "Sapphire",
+          "51": "Amethyst",
+          "52": "Obsidian",
+          "53": "Limitless"
+        },
+        "54": {
+          "55": "Ruby",
+          "56": "Catseye",
+          "57": "Emerald",
+          "58": "Rose Quartz",
+          "59": "Sapphire",
+          "60": "Pearl",
+          "61": "Tanzanite",
+          "62": "Obsidian",
+          "63": "Ghoulish"
+        },
+        "64": {
+          "65": "Ruby",
+          "66": "Emerald",
+          "67": "Rose Quartz",
+          "68": "Catseye",
+          "69": "Pearl",
+          "70": "Obsidian"
+        },
+        "71": {
+          "72": "Vivid"
+        }
+      },
+      "forms": {}
+    },
     "Shen": {
       "skins": {
         "1": "Frozen Shen",
@@ -8701,54 +8844,6 @@
       },
       "forms": {}
     },
-    "Rammus": {
-      "skins": {
-        "1": "King Rammus",
-        "2": "Chrome Rammus",
-        "3": "Molten Rammus",
-        "4": "Freljord Rammus",
-        "5": "Ninja Rammus",
-        "6": "Full Metal Rammus",
-        "7": "Guardian of the Sands Rammus",
-        "8": "Sweeper Rammus",
-        "16": "Hextech Rammus",
-        "17": "Astronaut Rammus",
-        "26": "Durian Defender Rammus",
-        "35": "Baron Rammus"
-      },
-      "chromas": {
-        "8": {
-          "9": "Ruby",
-          "10": "Rose Quartz",
-          "11": "Emerald",
-          "12": "Sapphire",
-          "13": "Aquamarine",
-          "14": "Tanzanite",
-          "15": "Obsidian"
-        },
-        "17": {
-          "18": "Ruby",
-          "19": "Citrine",
-          "20": "Catseye",
-          "21": "Turquoise",
-          "22": "Sapphire",
-          "23": "Emerald",
-          "24": "Amethyst",
-          "25": "Rose Quartz"
-        },
-        "26": {
-          "27": "Ruby",
-          "28": "Citrine",
-          "29": "Aquamarine",
-          "30": "Rose Quartz",
-          "31": "Tanzanite",
-          "32": "Obsidian",
-          "33": "Jasper",
-          "34": "Pearl"
-        }
-      },
-      "forms": {}
-    },
     "Singed": {
       "skins": {
         "1": "Riot Squad Singed",
@@ -8784,124 +8879,6 @@
           "25": "Amethyst",
           "26": "Rose Quartz",
           "27": "Turquoise"
-        }
-      },
-      "forms": {}
-    },
-    "Shaco": {
-      "skins": {
-        "1": "Mad Hatter Shaco",
-        "2": "Royal Shaco",
-        "3": "Nutcracko",
-        "4": "Workshop Shaco",
-        "5": "Asylum Shaco",
-        "6": "Masked Shaco",
-        "7": "Wild Card Shaco",
-        "8": "Dark Star Shaco",
-        "15": "Arcanist Shaco",
-        "23": "Crime City Nightmare Shaco",
-        "33": "Winterblessed Shaco",
-        "43": "Soul Fighter Shaco",
-        "44": "Prestige Soul Fighter Shaco",
-        "54": "Fright Night Shaco",
-        "64": "Cat-in-the-Box Shaco",
-        "71": "Prestige Pandemonium Shaco"
-      },
-      "chromas": {
-        "8": {
-          "9": "Ruby",
-          "10": "Catseye",
-          "11": "Emerald",
-          "12": "Rose Quartz",
-          "13": "Pearl",
-          "14": "Obsidian"
-        },
-        "15": {
-          "16": "Rainbow",
-          "17": "Aquamarine",
-          "18": "Ruby",
-          "19": "Sapphire",
-          "20": "Emerald",
-          "21": "Turquoise",
-          "22": "Tanzanite"
-        },
-        "23": {
-          "24": "Ruby",
-          "25": "Catseye",
-          "26": "Emerald",
-          "27": "Amethyst",
-          "28": "Rose Quartz",
-          "29": "Sapphire",
-          "30": "Obsidian",
-          "31": "Pearl",
-          "32": "Underground"
-        },
-        "33": {
-          "34": "Ruby",
-          "35": "Turquoise",
-          "36": "Catseye",
-          "37": "Emerald",
-          "38": "Rose Quartz",
-          "39": "Amethyst",
-          "40": "Obsidian",
-          "41": "Pearl",
-          "42": "Wreathguard"
-        },
-        "43": {
-          "45": "Ruby",
-          "46": "Emerald",
-          "47": "Rose Quartz",
-          "48": "Turquoise",
-          "49": "Catseye",
-          "50": "Sapphire",
-          "51": "Amethyst",
-          "52": "Obsidian",
-          "53": "Limitless"
-        },
-        "54": {
-          "55": "Ruby",
-          "56": "Catseye",
-          "57": "Emerald",
-          "58": "Rose Quartz",
-          "59": "Sapphire",
-          "60": "Pearl",
-          "61": "Tanzanite",
-          "62": "Obsidian",
-          "63": "Ghoulish"
-        },
-        "64": {
-          "65": "Ruby",
-          "66": "Emerald",
-          "67": "Rose Quartz",
-          "68": "Catseye",
-          "69": "Pearl",
-          "70": "Obsidian"
-        },
-        "71": {
-          "72": "Vivid"
-        }
-      },
-      "forms": {}
-    },
-    "Skarner": {
-      "skins": {
-        "1": "Sandscourge Skarner",
-        "2": "Earthrune Skarner",
-        "3": "Battlecast Alpha Skarner",
-        "4": "Guardian of the Sands Skarner",
-        "5": "Cosmic Sting Skarner",
-        "14": "Mecha Kingdoms Skarner"
-      },
-      "chromas": {
-        "5": {
-          "6": "Ruby",
-          "7": "Aquamarine",
-          "8": "Turquoise",
-          "9": "Tanzanite",
-          "10": "Rose Quartz",
-          "11": "Citrine",
-          "12": "Obsidian",
-          "13": "Emerald"
         }
       },
       "forms": {}
@@ -9088,6 +9065,59 @@
       },
       "forms": {}
     },
+    "Skarner": {
+      "skins": {
+        "1": "Sandscourge Skarner",
+        "2": "Earthrune Skarner",
+        "3": "Battlecast Alpha Skarner",
+        "4": "Guardian of the Sands Skarner",
+        "5": "Cosmic Sting Skarner",
+        "14": "Mecha Kingdoms Skarner"
+      },
+      "chromas": {
+        "5": {
+          "6": "Ruby",
+          "7": "Aquamarine",
+          "8": "Turquoise",
+          "9": "Tanzanite",
+          "10": "Rose Quartz",
+          "11": "Citrine",
+          "12": "Obsidian",
+          "13": "Emerald"
+        }
+      },
+      "forms": {}
+    },
+    "Smolder": {
+      "skins": {
+        "1": "Heavenscale Smolder",
+        "11": "Reindeer Smolder"
+      },
+      "chromas": {
+        "1": {
+          "2": "Ruby",
+          "3": "Catseye",
+          "4": "Peridot",
+          "5": "Aquamarine",
+          "6": "Turquoise",
+          "7": "Pearl",
+          "8": "Amethyst",
+          "9": "Obsidian",
+          "10": "Lustrous"
+        },
+        "11": {
+          "12": "Ruby",
+          "13": "Catseye",
+          "14": "Sapphire",
+          "15": "Rose Quartz",
+          "16": "Turquoise",
+          "17": "Amethyst",
+          "18": "Pearl",
+          "19": "Obsidian"
+        }
+      },
+      "forms": {}
+    },
     "Sona": {
       "skins": {
         "1": "Muse Sona",
@@ -9195,36 +9225,6 @@
           "999": "Stage 3"
         }
       }
-    },
-    "Smolder": {
-      "skins": {
-        "1": "Heavenscale Smolder",
-        "11": "Reindeer Smolder"
-      },
-      "chromas": {
-        "1": {
-          "2": "Ruby",
-          "3": "Catseye",
-          "4": "Peridot",
-          "5": "Aquamarine",
-          "6": "Turquoise",
-          "7": "Pearl",
-          "8": "Amethyst",
-          "9": "Obsidian",
-          "10": "Lustrous"
-        },
-        "11": {
-          "12": "Ruby",
-          "13": "Catseye",
-          "14": "Sapphire",
-          "15": "Rose Quartz",
-          "16": "Turquoise",
-          "17": "Amethyst",
-          "18": "Pearl",
-          "19": "Obsidian"
-        }
-      },
-      "forms": {}
     },
     "Soraka": {
       "skins": {
@@ -9461,6 +9461,102 @@
       },
       "forms": {}
     },
+    "Syndra": {
+      "skins": {
+        "1": "Justicar Syndra",
+        "2": "Atlantean Syndra",
+        "3": "Queen of Diamonds Syndra",
+        "4": "Snow Day Syndra",
+        "5": "SKT T1 Syndra",
+        "6": "Star Guardian Syndra",
+        "7": "Pool Party Syndra",
+        "16": "Withered Rose Syndra",
+        "25": "Bewitching Syndra",
+        "34": "Prestige Star Guardian Syndra",
+        "44": "Spirit Blossom Syndra",
+        "54": "Coven Syndra",
+        "65": "Dumpling Darlings Syndra"
+      },
+      "chromas": {
+        "7": {
+          "8": "Ruby",
+          "9": "Rose Quartz",
+          "10": "Catseye",
+          "11": "Aquamarine",
+          "12": "Emerald",
+          "13": "Pearl",
+          "14": "Tanzanite",
+          "15": "Rainbow"
+        },
+        "16": {
+          "17": "Ruby",
+          "18": "Citrine",
+          "19": "Emerald",
+          "20": "Turquoise",
+          "21": "Sapphire",
+          "22": "Rose Quartz",
+          "23": "Obsidian",
+          "24": "Pearl"
+        },
+        "25": {
+          "26": "Ruby",
+          "27": "Citrine",
+          "28": "Emerald",
+          "29": "Rose Quartz",
+          "30": "Turquoise",
+          "31": "Sapphire",
+          "32": "Pearl",
+          "33": "Obsidian"
+        },
+        "6": {
+          "35": "Ruby",
+          "36": "Catseye",
+          "37": "Emerald",
+          "38": "Sapphire",
+          "39": "Tanzanite",
+          "40": "Rose Quartz",
+          "41": "Pearl",
+          "42": "Obsidian",
+          "43": "Brilliant"
+        },
+        "44": {
+          "45": "Ruby",
+          "46": "Turquoise",
+          "47": "Catseye",
+          "48": "Sapphire",
+          "49": "Rose Quartz",
+          "50": "Tanzanite",
+          "51": "Pearl",
+          "52": "Obsidian",
+          "53": "Night Blossom"
+        },
+        "54": {
+          "55": "Ruby",
+          "56": "Rose Quartz",
+          "57": "Catseye",
+          "58": "Emerald",
+          "59": "Meteorite",
+          "60": "Pearl",
+          "61": "Amethyst",
+          "62": "Aquamarine",
+          "63": "Profane"
+        },
+        "5": {
+          "64": "Paragon"
+        },
+        "65": {
+          "66": "Ruby",
+          "67": "Sapphire",
+          "68": "Catseye",
+          "69": "Tanzanite",
+          "70": "Emerald",
+          "71": "Rose Quartz",
+          "72": "Obsidian",
+          "73": "Pearl"
+        }
+      },
+      "forms": {}
+    },
     "TahmKench": {
       "skins": {
         "1": "Master Chef Tahm Kench",
@@ -9562,102 +9658,6 @@
         },
         "1": {
           "33": "Paragon"
-        }
-      },
-      "forms": {}
-    },
-    "Syndra": {
-      "skins": {
-        "1": "Justicar Syndra",
-        "2": "Atlantean Syndra",
-        "3": "Queen of Diamonds Syndra",
-        "4": "Snow Day Syndra",
-        "5": "SKT T1 Syndra",
-        "6": "Star Guardian Syndra",
-        "7": "Pool Party Syndra",
-        "16": "Withered Rose Syndra",
-        "25": "Bewitching Syndra",
-        "34": "Prestige Star Guardian Syndra",
-        "44": "Spirit Blossom Syndra",
-        "54": "Coven Syndra",
-        "65": "Dumpling Darlings Syndra"
-      },
-      "chromas": {
-        "7": {
-          "8": "Ruby",
-          "9": "Rose Quartz",
-          "10": "Catseye",
-          "11": "Aquamarine",
-          "12": "Emerald",
-          "13": "Pearl",
-          "14": "Tanzanite",
-          "15": "Rainbow"
-        },
-        "16": {
-          "17": "Ruby",
-          "18": "Citrine",
-          "19": "Emerald",
-          "20": "Turquoise",
-          "21": "Sapphire",
-          "22": "Rose Quartz",
-          "23": "Obsidian",
-          "24": "Pearl"
-        },
-        "25": {
-          "26": "Ruby",
-          "27": "Citrine",
-          "28": "Emerald",
-          "29": "Rose Quartz",
-          "30": "Turquoise",
-          "31": "Sapphire",
-          "32": "Pearl",
-          "33": "Obsidian"
-        },
-        "6": {
-          "35": "Ruby",
-          "36": "Catseye",
-          "37": "Emerald",
-          "38": "Sapphire",
-          "39": "Tanzanite",
-          "40": "Rose Quartz",
-          "41": "Pearl",
-          "42": "Obsidian",
-          "43": "Brilliant"
-        },
-        "44": {
-          "45": "Ruby",
-          "46": "Turquoise",
-          "47": "Catseye",
-          "48": "Sapphire",
-          "49": "Rose Quartz",
-          "50": "Tanzanite",
-          "51": "Pearl",
-          "52": "Obsidian",
-          "53": "Night Blossom"
-        },
-        "54": {
-          "55": "Ruby",
-          "56": "Rose Quartz",
-          "57": "Catseye",
-          "58": "Emerald",
-          "59": "Meteorite",
-          "60": "Pearl",
-          "61": "Amethyst",
-          "62": "Aquamarine",
-          "63": "Profane"
-        },
-        "5": {
-          "64": "Paragon"
-        },
-        "65": {
-          "66": "Ruby",
-          "67": "Sapphire",
-          "68": "Catseye",
-          "69": "Tanzanite",
-          "70": "Emerald",
-          "71": "Rose Quartz",
-          "72": "Obsidian",
-          "73": "Pearl"
         }
       },
       "forms": {}
@@ -9875,48 +9875,6 @@
       },
       "forms": {}
     },
-    "Trundle": {
-      "skins": {
-        "1": "Lil' Slugger Trundle",
-        "2": "Junkyard Trundle",
-        "3": "Traditional Trundle",
-        "4": "Constable Trundle",
-        "5": "Worldbreaker Trundle",
-        "6": "Dragonslayer Trundle",
-        "12": "Fright Night Trundle",
-        "21": "Esports Fan Trundle"
-      },
-      "chromas": {
-        "6": {
-          "7": "Rose Quartz",
-          "8": "Ruby",
-          "9": "Catseye",
-          "10": "Amethyst",
-          "11": "Pearl"
-        },
-        "12": {
-          "13": "Ruby",
-          "14": "Turquoise",
-          "15": "Catseye",
-          "16": "Emerald",
-          "17": "Rose Quartz",
-          "18": "Tanzanite",
-          "19": "Pearl",
-          "20": "Sapphire"
-        },
-        "21": {
-          "22": "Ruby",
-          "23": "Rose Quartz",
-          "24": "Citrine",
-          "25": "Emerald",
-          "26": "Jasper",
-          "27": "Pearl",
-          "28": "Sapphire",
-          "29": "Obsidian"
-        }
-      },
-      "forms": {}
-    },
     "Thresh": {
       "skins": {
         "1": "Deep Terror Thresh",
@@ -10117,6 +10075,48 @@
         }
       }
     },
+    "Trundle": {
+      "skins": {
+        "1": "Lil' Slugger Trundle",
+        "2": "Junkyard Trundle",
+        "3": "Traditional Trundle",
+        "4": "Constable Trundle",
+        "5": "Worldbreaker Trundle",
+        "6": "Dragonslayer Trundle",
+        "12": "Fright Night Trundle",
+        "21": "Esports Fan Trundle"
+      },
+      "chromas": {
+        "6": {
+          "7": "Rose Quartz",
+          "8": "Ruby",
+          "9": "Catseye",
+          "10": "Amethyst",
+          "11": "Pearl"
+        },
+        "12": {
+          "13": "Ruby",
+          "14": "Turquoise",
+          "15": "Catseye",
+          "16": "Emerald",
+          "17": "Rose Quartz",
+          "18": "Tanzanite",
+          "19": "Pearl",
+          "20": "Sapphire"
+        },
+        "21": {
+          "22": "Ruby",
+          "23": "Rose Quartz",
+          "24": "Citrine",
+          "25": "Emerald",
+          "26": "Jasper",
+          "27": "Pearl",
+          "28": "Sapphire",
+          "29": "Obsidian"
+        }
+      },
+      "forms": {}
+    },
     "Tryndamere": {
       "skins": {
         "1": "Highland Tryndamere",
@@ -10250,26 +10250,6 @@
       },
       "forms": {}
     },
-    "Udyr": {
-      "skins": {
-        "1": "Black Belt Udyr",
-        "2": "Primal Udyr",
-        "3": "Spirit Guard Udyr",
-        "4": "Definitely Not Udyr",
-        "5": "Dragon Oracle Udyr",
-        "6": "Inkshadow Udyr"
-      },
-      "chromas": {
-        "6": {
-          "7": "Ruby",
-          "8": "Sapphire",
-          "9": "Rose Quartz",
-          "10": "Obsidian",
-          "11": "Inked"
-        }
-      },
-      "forms": {}
-    },
     "Twitch": {
       "skins": {
         "1": "Kingpin Twitch",
@@ -10345,6 +10325,26 @@
           "61": "Cheesecake",
           "62": "Chocolate Pie",
           "63": "Rainbow Cake"
+        }
+      },
+      "forms": {}
+    },
+    "Udyr": {
+      "skins": {
+        "1": "Black Belt Udyr",
+        "2": "Primal Udyr",
+        "3": "Spirit Guard Udyr",
+        "4": "Definitely Not Udyr",
+        "5": "Dragon Oracle Udyr",
+        "6": "Inkshadow Udyr"
+      },
+      "chromas": {
+        "6": {
+          "7": "Ruby",
+          "8": "Sapphire",
+          "9": "Rose Quartz",
+          "10": "Obsidian",
+          "11": "Inked"
         }
       },
       "forms": {}
@@ -10612,6 +10612,99 @@
           "71": "Sapphire",
           "72": "Rose Quartz",
           "73": "Pearl"
+        }
+      },
+      "forms": {}
+    },
+    "Veigar": {
+      "skins": {
+        "1": "White Mage Veigar",
+        "2": "Curling Veigar",
+        "3": "Veigar Greybeard",
+        "4": "Leprechaun Veigar",
+        "5": "Baron Von Veigar",
+        "6": "Superb Villain Veigar",
+        "7": "Bad Santa Veigar",
+        "8": "Final Boss Veigar",
+        "9": "Omega Squad Veigar",
+        "13": "Elderwood Veigar",
+        "23": "Furyhorn Cosplay Veigar",
+        "32": "Astronaut Veigar",
+        "41": "Monster Tamer Veigar",
+        "51": "King Beegar",
+        "60": "Fright Night Veigar",
+        "67": "Prestige Magma Chamber Veigar"
+      },
+      "chromas": {
+        "9": {
+          "10": "Sapphire",
+          "11": "Tanzanite",
+          "12": "Catseye"
+        },
+        "13": {
+          "14": "Emerald",
+          "15": "Pearl",
+          "16": "Obsidian",
+          "17": "Rose Quartz",
+          "18": "Turquoise",
+          "19": "Ruby",
+          "20": "Catseye",
+          "21": "Amethyst",
+          "22": "Rainbow"
+        },
+        "23": {
+          "24": "Ruby",
+          "25": "Aquamarine",
+          "26": "Rose Quartz",
+          "27": "Emerald",
+          "28": "Citrine",
+          "29": "Pearl",
+          "30": "Tanzanite",
+          "31": "Obsidian"
+        },
+        "32": {
+          "33": "Ruby",
+          "34": "Sapphire",
+          "35": "Catseye",
+          "36": "Rose Quartz",
+          "37": "Emerald",
+          "38": "Tanzanite",
+          "39": "Rainbow",
+          "40": "Citrine"
+        },
+        "8": {
+          "42": "Mythic"
+        },
+        "41": {
+          "43": "Ruby",
+          "44": "Sapphire",
+          "45": "Catseye",
+          "46": "Turquoise",
+          "47": "Rose Quartz",
+          "48": "Jasper",
+          "49": "Obsidian",
+          "50": "Rainbow"
+        },
+        "51": {
+          "52": "Ruby",
+          "53": "Emerald",
+          "54": "Rose Quartz",
+          "55": "Turquoise",
+          "56": "Sapphire",
+          "57": "Amethyst",
+          "58": "Obsidian",
+          "59": "Pearl"
+        },
+        "60": {
+          "61": "Ruby",
+          "62": "Amethyst",
+          "63": "Turquoise",
+          "64": "Sapphire",
+          "65": "Rose Quartz",
+          "66": "Ghoulish"
+        },
+        "67": {
+          "68": "Vivid"
         }
       },
       "forms": {}
@@ -11100,53 +11193,6 @@
       },
       "forms": {}
     },
-    "Xerath": {
-      "skins": {
-        "1": "Runeborn Xerath",
-        "2": "Battlecast Xerath",
-        "3": "Scorched Earth Xerath",
-        "4": "Guardian of the Sands Xerath",
-        "5": "Dark Star Xerath",
-        "12": "Arcana Xerath",
-        "21": "Astronaut Xerath",
-        "30": "Crystalis Indomitus Xerath",
-        "32": "Corrupted Petricite Xerath"
-      },
-      "chromas": {
-        "5": {
-          "6": "Antimatter",
-          "7": "Sapphire",
-          "8": "Emerald",
-          "9": "Pearl",
-          "10": "Rose Quartz",
-          "11": "Ruby"
-        },
-        "12": {
-          "13": "Ruby",
-          "14": "Citrine",
-          "15": "Amethyst",
-          "16": "Sapphire",
-          "17": "Emerald",
-          "18": "Pearl",
-          "19": "Rose Quartz",
-          "20": "Obsidian"
-        },
-        "21": {
-          "22": "Ruby",
-          "23": "Rose Quartz",
-          "24": "Catseye",
-          "25": "Turquoise",
-          "26": "Sapphire",
-          "27": "Obsidian",
-          "28": "Amethyst",
-          "29": "Sandstone"
-        },
-        "30": {
-          "31": "Fractured"
-        }
-      },
-      "forms": {}
-    },
     "Xayah": {
       "skins": {
         "1": "Cosmic Dusk Xayah",
@@ -11230,6 +11276,53 @@
         },
         "3": {
           "65": "Elite"
+        }
+      },
+      "forms": {}
+    },
+    "Xerath": {
+      "skins": {
+        "1": "Runeborn Xerath",
+        "2": "Battlecast Xerath",
+        "3": "Scorched Earth Xerath",
+        "4": "Guardian of the Sands Xerath",
+        "5": "Dark Star Xerath",
+        "12": "Arcana Xerath",
+        "21": "Astronaut Xerath",
+        "30": "Crystalis Indomitus Xerath",
+        "32": "Corrupted Petricite Xerath"
+      },
+      "chromas": {
+        "5": {
+          "6": "Antimatter",
+          "7": "Sapphire",
+          "8": "Emerald",
+          "9": "Pearl",
+          "10": "Rose Quartz",
+          "11": "Ruby"
+        },
+        "12": {
+          "13": "Ruby",
+          "14": "Citrine",
+          "15": "Amethyst",
+          "16": "Sapphire",
+          "17": "Emerald",
+          "18": "Pearl",
+          "19": "Rose Quartz",
+          "20": "Obsidian"
+        },
+        "21": {
+          "22": "Ruby",
+          "23": "Rose Quartz",
+          "24": "Catseye",
+          "25": "Turquoise",
+          "26": "Sapphire",
+          "27": "Obsidian",
+          "28": "Amethyst",
+          "29": "Sandstone"
+        },
+        "30": {
+          "31": "Fractured"
         }
       },
       "forms": {}
@@ -11538,144 +11631,6 @@
       },
       "forms": {}
     },
-    "Yunara": {
-      "skins": {
-        "1": "Spirit Blossom Springs Yunara",
-        "10": "T1 Yunara"
-      },
-      "chromas": {
-        "1": {
-          "2": "Ruby",
-          "3": "Emerald",
-          "4": "Tanzanite",
-          "5": "Catseye",
-          "6": "Rose Quartz",
-          "7": "Sapphire",
-          "8": "Obsidian",
-          "9": "Pearl"
-        },
-        "10": {
-          "11": "Elite",
-          "12": "Pearl",
-          "13": "Ruby",
-          "14": "Rose Quartz",
-          "15": "Catseye",
-          "16": "Sapphire"
-        }
-      },
-      "forms": {}
-    },
-    "Veigar": {
-      "skins": {
-        "1": "White Mage Veigar",
-        "2": "Curling Veigar",
-        "3": "Veigar Greybeard",
-        "4": "Leprechaun Veigar",
-        "5": "Baron Von Veigar",
-        "6": "Superb Villain Veigar",
-        "7": "Bad Santa Veigar",
-        "8": "Final Boss Veigar",
-        "9": "Omega Squad Veigar",
-        "13": "Elderwood Veigar",
-        "23": "Furyhorn Cosplay Veigar",
-        "32": "Astronaut Veigar",
-        "41": "Monster Tamer Veigar",
-        "51": "King Beegar",
-        "60": "Fright Night Veigar",
-        "67": "Prestige Magma Chamber Veigar"
-      },
-      "chromas": {
-        "9": {
-          "10": "Sapphire",
-          "11": "Tanzanite",
-          "12": "Catseye"
-        },
-        "13": {
-          "14": "Emerald",
-          "15": "Pearl",
-          "16": "Obsidian",
-          "17": "Rose Quartz",
-          "18": "Turquoise",
-          "19": "Ruby",
-          "20": "Catseye",
-          "21": "Amethyst",
-          "22": "Rainbow"
-        },
-        "23": {
-          "24": "Ruby",
-          "25": "Aquamarine",
-          "26": "Rose Quartz",
-          "27": "Emerald",
-          "28": "Citrine",
-          "29": "Pearl",
-          "30": "Tanzanite",
-          "31": "Obsidian"
-        },
-        "32": {
-          "33": "Ruby",
-          "34": "Sapphire",
-          "35": "Catseye",
-          "36": "Rose Quartz",
-          "37": "Emerald",
-          "38": "Tanzanite",
-          "39": "Rainbow",
-          "40": "Citrine"
-        },
-        "8": {
-          "42": "Mythic"
-        },
-        "41": {
-          "43": "Ruby",
-          "44": "Sapphire",
-          "45": "Catseye",
-          "46": "Turquoise",
-          "47": "Rose Quartz",
-          "48": "Jasper",
-          "49": "Obsidian",
-          "50": "Rainbow"
-        },
-        "51": {
-          "52": "Ruby",
-          "53": "Emerald",
-          "54": "Rose Quartz",
-          "55": "Turquoise",
-          "56": "Sapphire",
-          "57": "Amethyst",
-          "58": "Obsidian",
-          "59": "Pearl"
-        },
-        "60": {
-          "61": "Ruby",
-          "62": "Amethyst",
-          "63": "Turquoise",
-          "64": "Sapphire",
-          "65": "Rose Quartz",
-          "66": "Ghoulish"
-        },
-        "67": {
-          "68": "Vivid"
-        }
-      },
-      "forms": {}
-    },
-    "Zaahen": {
-      "skins": {
-        "1": "Immortal Journey Zaahen"
-      },
-      "chromas": {
-        "1": {
-          "2": "Ruby",
-          "3": "Catseye",
-          "4": "Emerald",
-          "5": "Rose Quartz",
-          "6": "Sapphire",
-          "7": "Amethyst",
-          "8": "Pearl",
-          "9": "Obsidian"
-        }
-      },
-      "forms": {}
-    },
     "Yorick": {
       "skins": {
         "1": "Undertaker Yorick",
@@ -11749,6 +11704,33 @@
           "56": "Turquoise",
           "57": "Rose Quartz",
           "58": "Pearl"
+        }
+      },
+      "forms": {}
+    },
+    "Yunara": {
+      "skins": {
+        "1": "Spirit Blossom Springs Yunara",
+        "10": "T1 Yunara"
+      },
+      "chromas": {
+        "1": {
+          "2": "Ruby",
+          "3": "Emerald",
+          "4": "Tanzanite",
+          "5": "Catseye",
+          "6": "Rose Quartz",
+          "7": "Sapphire",
+          "8": "Obsidian",
+          "9": "Pearl"
+        },
+        "10": {
+          "11": "Elite",
+          "12": "Pearl",
+          "13": "Ruby",
+          "14": "Rose Quartz",
+          "15": "Catseye",
+          "16": "Sapphire"
         }
       },
       "forms": {}
@@ -11856,6 +11838,24 @@
       },
       "forms": {}
     },
+    "Zaahen": {
+      "skins": {
+        "1": "Immortal Journey Zaahen"
+      },
+      "chromas": {
+        "1": {
+          "2": "Ruby",
+          "3": "Catseye",
+          "4": "Emerald",
+          "5": "Rose Quartz",
+          "6": "Sapphire",
+          "7": "Amethyst",
+          "8": "Pearl",
+          "9": "Obsidian"
+        }
+      },
+      "forms": {}
+    },
     "Zac": {
       "skins": {
         "1": "Special Weapon Zac",
@@ -11910,69 +11910,6 @@
           "39": "Turquoise",
           "40": "Pearl",
           "41": "Obsidian"
-        }
-      },
-      "forms": {}
-    },
-    "Zeri": {
-      "skins": {
-        "1": "Withered Rose Zeri",
-        "10": "Ocean Song Zeri",
-        "19": "Immortal Journey Zeri",
-        "28": "Fright Night Zeri",
-        "29": "Prestige Fright Night Zeri",
-        "40": "Winter Wonder Zeri"
-      },
-      "chromas": {
-        "1": {
-          "2": "Ruby",
-          "3": "Citrine",
-          "4": "Peridot",
-          "5": "Sapphire",
-          "6": "Rose Quartz",
-          "7": "Obsidian",
-          "8": "Pearl",
-          "9": "Turquoise"
-        },
-        "10": {
-          "11": "Ruby",
-          "12": "Sapphire",
-          "13": "Emerald",
-          "14": "Rose Quartz",
-          "15": "Catseye",
-          "16": "Tanzanite",
-          "17": "Pearl",
-          "18": "Obsidian"
-        },
-        "19": {
-          "20": "Ruby",
-          "21": "Catseye",
-          "22": "Emerald",
-          "23": "Sapphire",
-          "24": "Turquoise",
-          "25": "Rose Quartz",
-          "26": "Pearl",
-          "27": "Obsidian"
-        },
-        "28": {
-          "30": "Ruby",
-          "31": "Catseye",
-          "32": "Emerald",
-          "33": "Turquoise",
-          "34": "Aquamarine",
-          "35": "Meteorite",
-          "36": "Amethyst",
-          "37": "Obsidian",
-          "38": "Nightshade",
-          "39": "Ghoulish"
-        },
-        "40": {
-          "41": "Ruby",
-          "42": "Turquoise",
-          "43": "Amethyst",
-          "44": "Rose Quartz",
-          "45": "Obsidian",
-          "46": "Pearl"
         }
       },
       "forms": {}
@@ -12072,6 +12009,69 @@
         },
         "69": {
           "70": "Vivid"
+        }
+      },
+      "forms": {}
+    },
+    "Zeri": {
+      "skins": {
+        "1": "Withered Rose Zeri",
+        "10": "Ocean Song Zeri",
+        "19": "Immortal Journey Zeri",
+        "28": "Fright Night Zeri",
+        "29": "Prestige Fright Night Zeri",
+        "40": "Winter Wonder Zeri"
+      },
+      "chromas": {
+        "1": {
+          "2": "Ruby",
+          "3": "Citrine",
+          "4": "Peridot",
+          "5": "Sapphire",
+          "6": "Rose Quartz",
+          "7": "Obsidian",
+          "8": "Pearl",
+          "9": "Turquoise"
+        },
+        "10": {
+          "11": "Ruby",
+          "12": "Sapphire",
+          "13": "Emerald",
+          "14": "Rose Quartz",
+          "15": "Catseye",
+          "16": "Tanzanite",
+          "17": "Pearl",
+          "18": "Obsidian"
+        },
+        "19": {
+          "20": "Ruby",
+          "21": "Catseye",
+          "22": "Emerald",
+          "23": "Sapphire",
+          "24": "Turquoise",
+          "25": "Rose Quartz",
+          "26": "Pearl",
+          "27": "Obsidian"
+        },
+        "28": {
+          "30": "Ruby",
+          "31": "Catseye",
+          "32": "Emerald",
+          "33": "Turquoise",
+          "34": "Aquamarine",
+          "35": "Meteorite",
+          "36": "Amethyst",
+          "37": "Obsidian",
+          "38": "Nightshade",
+          "39": "Ghoulish"
+        },
+        "40": {
+          "41": "Ruby",
+          "42": "Turquoise",
+          "43": "Amethyst",
+          "44": "Rose Quartz",
+          "45": "Obsidian",
+          "46": "Pearl"
         }
       },
       "forms": {}

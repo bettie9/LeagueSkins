@@ -19,14 +19,26 @@ Download individual `.fantome` packages here, or browse and install them directl
 
 | Collection | Packages | Coverage | Catalog |
 | --- | ---: | --- | --- |
-| [Champion skins](skins/) | 9,011 | Skins, chromas and forms for 173 normal LoL champions | [index.json](index.json) |
+| [Champion skins](skins/) | 9,007 | Skins, chromas and forms for 173 normal LoL champions | [index.json](index.json) |
 | [League Classic](classic/) | 1,716 | Skins, chromas and variants for 72 Classic champions | [classic/index.json](classic/index.json) |
 | [Emotes](emotes/) | 2,057 | Replacements for the default thumbs-up emote | [emotes-index.json](emotes-index.json) |
 | [Wards / Totems](wards/) | 265 | Replacements for default ward and trinket appearances | [wards-index.json](wards-index.json) |
 
-*Library snapshot: September 24, 2026. Normal skin catalog: 16.19.1. Classic catalog: 16.19. Counts include individual variant packages.*
+*Library snapshot: September 25, 2026. Normal skin catalog: 16.19.1. Classic catalog: 16.19. Counts include individual variants; older duplicate download names are excluded.*
 
 **Choose the collection for your game mode.** Packages in `skins/` target normal LoL champions. Packages in `classic/` target the `Jade_*` champions used by League Classic; they do not turn normal LoL champions into their Classic versions.
+
+## Latest skin update
+
+The regular skin library has been rebuilt with fixes for MVP T1 Miss Fortune,
+Super Galaxy Rumble, Sunken Shadows Lucian, Revenant Reign Viego, Heartseeker
+Jinx, Infernal Nasus and Arcade Hecarim.
+
+Viego's upgraded forms are available from spawn and switch with **Ctrl+5**;
+automatic possession-based selection is not supported. Arcade Hecarim's R
+rider colors can repeat or appear in a different order from the original.
+
+Want to build your own packages? Use [League Skin Fantome Builder](https://github.com/bettie9/league-skin-fantome-builder).
 
 ## Use with Sunshine
 
