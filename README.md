@@ -28,40 +28,13 @@ Download individual `.fantome` packages here, or browse and install them directl
 
 **Choose the collection for your game mode.** Packages in `skins/` target normal LoL champions. Packages in `classic/` target the `Jade_*` champions used by League Classic; they do not turn normal LoL champions into their Classic versions.
 
-## Latest skin update
-
-Missing ability screen effects have been restored for Immortalized Tristana
-and Ahri, Space Groove Teemo, T1 Yunara, Eclipse Eternal Aspect Diana and
-Soul Fighter Samira. Re-download the affected packages to get these fixes.
-
-Additional forms, weapon choices and level appearances are now available,
-including matching chromas. Find them inside each skin's folder and choose
-the appearance you want.
-
-Immortalized Tristana, Ahri and Kai'Sa now have the correct **Stage 2**
-appearance and separate **Stage 3** packages. Browse
-[Tristana's forms](skins/Tristana/Risen%20Legend%20Tristana/),
-[Ahri's forms](skins/Ahri/Risen%20Legend%20Ahri/) or
-[Kai'Sa's forms](skins/Kaisa/Risen%20Legend%20Kai'Sa/).
-
-The regular skin library has been rebuilt with fixes for MVP T1 Miss Fortune,
-Super Galaxy Rumble, Sunken Shadows Lucian, Revenant Reign Viego, Heartseeker
-Jinx, Infernal Nasus and Arcade Hecarim.
-
-Viego's upgraded forms are available from spawn and switch with **Ctrl+5**;
-automatic possession-based selection is not supported. Arcade Hecarim's R
-rider colors can repeat or appear in a different order from the original.
-
-Want to build your own packages? Use [League Skin Fantome Builder](https://github.com/bettie9/league-skin-fantome-builder).
-
 ## Use with Sunshine
 
 1. Install [Sunshine](https://github.com/bettie9/Sunshine/releases/latest) and configure your League installation in **Settings → Game setup**.
-2. Select **Sunshine** under **Skin source** to prefer this repository for regular skins.
-3. Open **Skin Changer**, choose **Skins**, **Classic**, **Emotes** or **Totems**, then browse and install your selection.
-4. Enable your packages and use **Apply & Inject** before starting the game. Sunshine uses **LTK Patcher** by default.
+2. Open **Skin Changer**, choose **Skins**, **Classic**, **Emotes** or **Totems**, then browse and install your selection.
+3. Enable your packages and use **Apply & Inject** before starting the game.
 
-The **Classic** tab requires Sunshine **0.13.0 or later**. Classic packages, emotes and wards always download from this repository, independently of the preferred source for regular skins.
+Sunshine **0.13.1 and later** uses this repository and **LTK Patcher** automatically. The **Classic** tab requires Sunshine **0.13.0 or later**.
 
 For normal champion skins, select the champion's **default skin** in League. Emote packages replace the **default thumbs-up emote**; equip it in your emote wheel. Enable one replacement per champion, one emote and one ward package at a time to avoid conflicting overrides.
 
@@ -85,12 +58,7 @@ Examples: [Dynasty Ahri for normal LoL](skins/Ahri/Dynasty%20Ahri.fantome) · [D
 
 ## Report a problem
 
-[Open a package issue](https://github.com/bettie9/LeagueSkins/issues/new) or join [Discord](https://discord.gg/8zsgZUxVgW). Include:
-
-- The package's repository link and the affected skin or chroma.
-- Your League patch and whether you are playing normal LoL or League Classic.
-- Your mod manager version and injection method.
-- What happened: import failure, unchanged appearance, missing effects or a crash, plus any steps that reproduce it.
+[Report a broken package or request a missing skin/form](https://github.com/bettie9/LeagueSkins/issues/new/choose), or join [Discord](https://discord.gg/8zsgZUxVgW). The issue forms ask for the package, game version and a short description. Screenshots or a short clip help with visual problems.
 
 For problems with Sunshine itself, use the [Sunshine issue tracker](https://github.com/bettie9/Sunshine/issues). You can export support logs from **Settings → Support → Save support logs**; review them before sharing.
 

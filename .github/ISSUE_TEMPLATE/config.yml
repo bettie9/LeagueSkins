@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Sunshine app support
+    url: https://github.com/bettie9/Sunshine/issues/new/choose
+    about: Get help with installing Sunshine, app errors or applying skins.
+  - name: Discord community
+    url: https://discord.gg/8zsgZUxVgW
+    about: Ask general questions and get community help.

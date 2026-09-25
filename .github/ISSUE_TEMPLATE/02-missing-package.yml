@@ -1,0 +1,32 @@
+name: Request a missing skin or form
+description: Request a missing skin, chroma, stage, alternate form, emote or ward.
+title: "[Request]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please check the skin's folder and existing requests first. Chromas and alternate forms are usually inside the base skin's folder.
+  - type: input
+    id: package
+    attributes:
+      label: What is missing?
+      description: Give the champion and skin name, or the name of the emote or ward.
+      placeholder: "Skin name - specific stage or chroma"
+    validations:
+      required: true
+  - type: dropdown
+    id: game
+    attributes:
+      label: Game
+      options:
+        - Normal League of Legends
+        - League Classic
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Describe the version or appearance you want. A reference image, video or link is helpful.
+    validations:
+      required: true

@@ -1,0 +1,53 @@
+name: Report a broken package
+description: Missing effects, incorrect appearance, import errors or crashes.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please check existing issues and try a fresh download of the package before reporting.
+        For Sunshine installation or app problems, use [Sunshine support](https://github.com/bettie9/Sunshine/issues/new/choose).
+  - type: input
+    id: package
+    attributes:
+      label: Affected package
+      description: Paste the package link, or give its exact name including the chroma or form.
+      placeholder: "Immortalized Legend Tristana - Stage 3"
+    validations:
+      required: true
+  - type: dropdown
+    id: game
+    attributes:
+      label: Game
+      options:
+        - Normal League of Legends
+        - League Classic
+    validations:
+      required: true
+  - type: input
+    id: patch
+    attributes:
+      label: League patch
+      placeholder: "e.g. 16.19"
+    validations:
+      required: true
+  - type: input
+    id: manager
+    attributes:
+      label: Mod manager and version
+      placeholder: "e.g. Sunshine 0.13.1"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happens?
+      description: Describe what is wrong, what you expected and how to reproduce it. Mention the ability or form if relevant.
+      placeholder: "After switching to Stage 3, casting R does not show the expected screen effect."
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Screenshots or video (optional)
+      description: Drag and drop a screenshot or short clip here. Include the exact error text if there is one.
