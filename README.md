@@ -30,6 +30,10 @@ Download individual `.fantome` packages here, or browse and install them directl
 
 ## Latest skin update
 
+Missing ability screen effects have been restored for Immortalized Tristana
+and Ahri, Space Groove Teemo, T1 Yunara, Eclipse Eternal Aspect Diana and
+Soul Fighter Samira. Re-download the affected packages to get these fixes.
+
 Additional forms, weapon choices and level appearances are now available,
 including matching chromas. Find them inside each skin's folder and choose
 the appearance you want.
