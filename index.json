@@ -60,7 +60,17 @@
           "40": "Paragon"
         }
       },
-      "forms": {}
+      "forms": {
+        "33": {
+          "993": "Abyssal - Form 2",
+          "994": "Emerald - Form 2",
+          "995": "Tanzanite - Form 2",
+          "996": "Sapphire - Form 2",
+          "997": "Catseye - Form 2",
+          "998": "Ruby - Form 2",
+          "999": "Form 2"
+        }
+      }
     },
     "Ahri": {
       "skins": {
@@ -196,7 +206,8 @@
       "forms": {
         "85": {
           "86": "Stage 2",
-          "87": "Stage 3"
+          "87": "Stage 3",
+          "999": "Immortalized - Form 1"
         }
       }
     },
@@ -328,7 +339,17 @@
           "101": "Paragon"
         }
       },
-      "forms": {}
+      "forms": {
+        "61": {
+          "993": "Brilliant - Form 2",
+          "994": "Rose Quartz - Form 2",
+          "995": "Emerald - Form 2",
+          "996": "Turquoise - Form 2",
+          "997": "Catseye - Form 2",
+          "998": "Ruby - Form 2",
+          "999": "Form 2"
+        }
+      }
     },
     "Akshan": {
       "skins": {
@@ -878,7 +899,32 @@
           "92": "Pearl"
         }
       },
-      "forms": {}
+      "forms": {
+        "76": {
+          "980": "Pearl - Form 3",
+          "981": "Pearl - Form 2",
+          "982": "Obsidian - Form 3",
+          "983": "Obsidian - Form 2",
+          "984": "Sapphire - Form 3",
+          "985": "Sapphire - Form 2",
+          "986": "Catseye - Form 3",
+          "987": "Catseye - Form 2",
+          "988": "Turquoise - Form 3",
+          "989": "Turquoise - Form 2",
+          "990": "Ruby - Form 3",
+          "991": "Ruby - Form 2",
+          "992": "Form 3",
+          "993": "Form 2"
+        },
+        "17": {
+          "994": "Amethyst - Form 2",
+          "995": "Nomad - Form 2",
+          "996": "Obsidian - Form 2",
+          "997": "Aquamarine - Form 2",
+          "998": "Ruby - Form 2",
+          "999": "Form 2"
+        }
+      }
     },
     "AurelionSol": {
       "skins": {
@@ -1510,7 +1556,22 @@
           "62": "Pearl"
         }
       },
-      "forms": {}
+      "forms": {
+        "22": {
+          "988": "Pearl - Form 3",
+          "989": "Pearl - Form 2",
+          "990": "Obsidian - Form 3",
+          "991": "Obsidian - Form 2",
+          "992": "Rose Quartz - Form 3",
+          "993": "Rose Quartz - Form 2",
+          "994": "Sapphire - Form 3",
+          "995": "Sapphire - Form 2",
+          "996": "Ruby - Form 3",
+          "997": "Ruby - Form 2",
+          "998": "Form 3",
+          "999": "Form 2"
+        }
+      }
     },
     "Camille": {
       "skins": {
@@ -1954,7 +2015,29 @@
           "83": "Pearl"
         }
       },
-      "forms": {}
+      "forms": {
+        "76": {
+          "985": "Pearl - Form 2",
+          "986": "Tanzanite - Form 2",
+          "987": "Emerald - Form 2",
+          "988": "Catseye - Form 2",
+          "989": "Rose Quartz - Form 2",
+          "990": "Ruby - Form 2",
+          "992": "Form 2"
+        },
+        "77": {
+          "991": "Form 2"
+        },
+        "47": {
+          "993": "Wreathguard - Form 2",
+          "994": "Pearl - Form 2",
+          "995": "Turquoise - Form 2",
+          "996": "Emerald - Form 2",
+          "997": "Rose Quartz - Form 2",
+          "998": "Ruby - Form 2",
+          "999": "Form 2"
+        }
+      }
     },
     "DrMundo": {
       "skins": {
@@ -2306,7 +2389,17 @@
           "63": "Vendetta"
         }
       },
-      "forms": {}
+      "forms": {
+        "24": {
+          "993": "Dark Ritual - Form 2",
+          "994": "Obsidian - Form 2",
+          "995": "Pearl - Form 2",
+          "996": "Rose Quartz - Form 2",
+          "997": "Sapphire - Form 2",
+          "998": "Ruby - Form 2",
+          "999": "Form 2"
+        }
+      }
     },
     "Ezreal": {
       "skins": {
@@ -2407,7 +2500,31 @@
           "75": "Elite"
         }
       },
-      "forms": {}
+      "forms": {
+        "25": {
+          "981": "Lustrous - Empowered",
+          "982": "Lustrous - Tiger Form",
+          "983": "Catseye - Empowered",
+          "984": "Catseye - Tiger Form",
+          "985": "Pearl - Empowered",
+          "986": "Pearl - Tiger Form",
+          "987": "Golden Tiger - Empowered",
+          "988": "Golden Tiger - Tiger Form",
+          "989": "Tanzanite - Empowered",
+          "990": "Tanzanite - Tiger Form",
+          "991": "Rose Quartz - Empowered",
+          "992": "Rose Quartz - Tiger Form",
+          "993": "Ruby - Empowered",
+          "994": "Ruby - Tiger Form",
+          "995": "Empowered",
+          "996": "Tiger Form"
+        },
+        "5": {
+          "997": "Stage 4",
+          "998": "Stage 3",
+          "999": "Stage 2"
+        }
+      }
     },
     "FiddleSticks": {
       "skins": {
@@ -3072,7 +3189,17 @@
           "54": "Opulent"
         }
       },
-      "forms": {}
+      "forms": {
+        "35": {
+          "993": "Resolute - Form 2",
+          "994": "Pearl - Form 2",
+          "995": "Tanzanite - Form 2",
+          "996": "Rose Quartz - Form 2",
+          "997": "Emerald - Form 2",
+          "998": "Ruby - Form 2",
+          "999": "Form 2"
+        }
+      }
     },
     "Gwen": {
       "skins": {
@@ -3731,7 +3858,16 @@
           "43": "Vivid"
         }
       },
-      "forms": {}
+      "forms": {
+        "14": {
+          "994": "Pearl - Upgraded",
+          "995": "Peacekeeper - Upgraded",
+          "996": "Rose Quartz - Upgraded",
+          "997": "Peridot - Upgraded",
+          "998": "Ruby - Upgraded",
+          "999": "Upgraded"
+        }
+      }
     },
     "Jayce": {
       "skins": {
@@ -4114,7 +4250,8 @@
       "forms": {
         "70": {
           "71": "Stage 2",
-          "999": "Stage 3"
+          "999": "Stage 3",
+          "998": "Immortalized - Form 1"
         }
       }
     },
@@ -4469,7 +4606,50 @@
           "78": "Emerald"
         }
       },
-      "forms": {}
+      "forms": {
+        "29": {
+          "960": "Coronation - Blade 6",
+          "961": "Coronation - Blade 5",
+          "962": "Coronation - Blade 4",
+          "963": "Coronation - Blade 3",
+          "964": "Coronation - Blade 2",
+          "965": "Obsidian - Blade 6",
+          "966": "Obsidian - Blade 5",
+          "967": "Obsidian - Blade 4",
+          "968": "Obsidian - Blade 3",
+          "969": "Obsidian - Blade 2",
+          "970": "Pearl - Blade 6",
+          "971": "Pearl - Blade 5",
+          "972": "Pearl - Blade 4",
+          "973": "Pearl - Blade 3",
+          "974": "Pearl - Blade 2",
+          "975": "Tanzanite - Blade 6",
+          "976": "Tanzanite - Blade 5",
+          "977": "Tanzanite - Blade 4",
+          "978": "Tanzanite - Blade 3",
+          "979": "Tanzanite - Blade 2",
+          "980": "Emerald - Blade 6",
+          "981": "Emerald - Blade 5",
+          "982": "Emerald - Blade 4",
+          "983": "Emerald - Blade 3",
+          "984": "Emerald - Blade 2",
+          "985": "Sapphire - Blade 6",
+          "986": "Sapphire - Blade 5",
+          "987": "Sapphire - Blade 4",
+          "988": "Sapphire - Blade 3",
+          "989": "Sapphire - Blade 2",
+          "990": "Ruby - Blade 6",
+          "991": "Ruby - Blade 5",
+          "992": "Ruby - Blade 4",
+          "993": "Ruby - Blade 3",
+          "994": "Ruby - Blade 2",
+          "995": "Blade 6",
+          "996": "Blade 5",
+          "997": "Blade 4",
+          "998": "Blade 3",
+          "999": "Blade 2"
+        }
+      }
     },
     "Kayle": {
       "skins": {
@@ -4582,7 +4762,308 @@
           "87": "Paragon"
         }
       },
-      "forms": {}
+      "forms": {
+        "88": {
+          "736": "Level 16",
+          "737": "Level 11",
+          "738": "Level 6"
+        },
+        "78": {
+          "739": "Paragon - Level 16",
+          "740": "Paragon - Level 11",
+          "741": "Paragon - Level 6",
+          "742": "Obsidian - Level 16",
+          "743": "Obsidian - Level 11",
+          "744": "Obsidian - Level 6",
+          "745": "Rose Quartz - Level 16",
+          "746": "Rose Quartz - Level 11",
+          "747": "Rose Quartz - Level 6",
+          "748": "Turquoise - Level 16",
+          "749": "Turquoise - Level 11",
+          "750": "Turquoise - Level 6",
+          "751": "Sapphire - Level 16",
+          "752": "Sapphire - Level 11",
+          "753": "Sapphire - Level 6",
+          "754": "Tanzanite - Level 16",
+          "755": "Tanzanite - Level 11",
+          "756": "Tanzanite - Level 6",
+          "757": "Emerald - Level 16",
+          "758": "Emerald - Level 11",
+          "759": "Emerald - Level 6",
+          "760": "Citrine - Level 16",
+          "761": "Citrine - Level 11",
+          "762": "Citrine - Level 6",
+          "763": "Ruby - Level 16",
+          "764": "Ruby - Level 11",
+          "765": "Ruby - Level 6",
+          "766": "Level 16",
+          "767": "Level 11",
+          "768": "Level 6"
+        },
+        "66": {
+          "769": "MSI 2024 Chaos - Level 16",
+          "770": "MSI 2024 Chaos - Level 11",
+          "771": "MSI 2024 Chaos - Level 6",
+          "772": "Neon Facade - Level 16",
+          "773": "Neon Facade - Level 11",
+          "774": "Neon Facade - Level 6",
+          "775": "Tanzanite - Level 16",
+          "776": "Tanzanite - Level 11",
+          "777": "Tanzanite - Level 6",
+          "778": "Pearl - Level 16",
+          "779": "Pearl - Level 11",
+          "780": "Pearl - Level 6",
+          "781": "Sapphire - Level 16",
+          "782": "Sapphire - Level 11",
+          "783": "Sapphire - Level 6",
+          "784": "Rose Quartz - Level 16",
+          "785": "Rose Quartz - Level 11",
+          "786": "Rose Quartz - Level 6",
+          "787": "Turquoise - Level 16",
+          "788": "Turquoise - Level 11",
+          "789": "Turquoise - Level 6",
+          "790": "Emerald - Level 16",
+          "791": "Emerald - Level 11",
+          "792": "Emerald - Level 6",
+          "793": "Catseye - Level 16",
+          "794": "Catseye - Level 11",
+          "795": "Catseye - Level 6",
+          "796": "Ruby - Level 16",
+          "797": "Ruby - Level 11",
+          "798": "Ruby - Level 6",
+          "802": "Level 16",
+          "803": "Level 11",
+          "804": "Level 6"
+        },
+        "67": {
+          "799": "Level 16",
+          "800": "Level 11",
+          "801": "Level 6"
+        },
+        "57": {
+          "805": "Pearl - Level 16",
+          "806": "Pearl - Level 11",
+          "807": "Pearl - Level 6",
+          "808": "Obsidian - Level 16",
+          "809": "Obsidian - Level 11",
+          "810": "Obsidian - Level 6",
+          "811": "Catseye - Level 16",
+          "812": "Catseye - Level 11",
+          "813": "Catseye - Level 6",
+          "814": "Amethyst - Level 16",
+          "815": "Amethyst - Level 11",
+          "816": "Amethyst - Level 6",
+          "817": "Emerald - Level 16",
+          "818": "Emerald - Level 11",
+          "819": "Emerald - Level 6",
+          "820": "Rose Quartz - Level 16",
+          "821": "Rose Quartz - Level 11",
+          "822": "Rose Quartz - Level 6",
+          "823": "Sapphire - Level 16",
+          "824": "Sapphire - Level 11",
+          "825": "Sapphire - Level 6",
+          "826": "Ruby - Level 16",
+          "827": "Ruby - Level 11",
+          "828": "Ruby - Level 6",
+          "829": "Level 16",
+          "830": "Level 11",
+          "831": "Level 6"
+        },
+        "6": {
+          "832": "Ace - Level 16",
+          "833": "Ace - Level 11",
+          "834": "Ace - Level 6",
+          "835": "Sapphire - Level 16",
+          "836": "Sapphire - Level 11",
+          "837": "Sapphire - Level 6",
+          "838": "Amethyst - Level 16",
+          "839": "Amethyst - Level 11",
+          "840": "Amethyst - Level 6",
+          "841": "Rose Quartz - Level 16",
+          "842": "Rose Quartz - Level 11",
+          "843": "Rose Quartz - Level 6",
+          "844": "Emerald - Level 16",
+          "845": "Emerald - Level 11",
+          "846": "Emerald - Level 6",
+          "847": "Ruby - Level 16",
+          "848": "Ruby - Level 11",
+          "849": "Ruby - Level 6",
+          "982": "Level 16",
+          "983": "Level 11",
+          "984": "Level 6"
+        },
+        "42": {
+          "850": "Turquoise - Level 16",
+          "851": "Turquoise - Level 11",
+          "852": "Turquoise - Level 6",
+          "853": "Rainbow - Level 16",
+          "854": "Rainbow - Level 11",
+          "855": "Rainbow - Level 6",
+          "856": "Sapphire - Level 16",
+          "857": "Sapphire - Level 11",
+          "858": "Sapphire - Level 6",
+          "859": "Rose Quartz - Level 16",
+          "860": "Rose Quartz - Level 11",
+          "861": "Rose Quartz - Level 6",
+          "862": "Tanzanite - Level 16",
+          "863": "Tanzanite - Level 11",
+          "864": "Tanzanite - Level 6",
+          "865": "Emerald - Level 16",
+          "866": "Emerald - Level 11",
+          "867": "Emerald - Level 6",
+          "868": "Citrine - Level 16",
+          "869": "Citrine - Level 11",
+          "870": "Citrine - Level 6",
+          "871": "Ruby - Level 16",
+          "872": "Ruby - Level 11",
+          "873": "Ruby - Level 6",
+          "874": "Level 16",
+          "875": "Level 11",
+          "876": "Level 6"
+        },
+        "33": {
+          "877": "Catseye - Level 16",
+          "878": "Catseye - Level 11",
+          "879": "Catseye - Level 6",
+          "880": "Obsidian - Level 16",
+          "881": "Obsidian - Level 11",
+          "882": "Obsidian - Level 6",
+          "883": "Pearl - Level 16",
+          "884": "Pearl - Level 11",
+          "885": "Pearl - Level 6",
+          "886": "Tanzanite - Level 16",
+          "887": "Tanzanite - Level 11",
+          "888": "Tanzanite - Level 6",
+          "889": "Aquamarine - Level 16",
+          "890": "Aquamarine - Level 11",
+          "891": "Aquamarine - Level 6",
+          "892": "Rose Quartz - Level 16",
+          "893": "Rose Quartz - Level 11",
+          "894": "Rose Quartz - Level 6",
+          "895": "Emerald - Level 16",
+          "896": "Emerald - Level 11",
+          "897": "Emerald - Level 6",
+          "898": "Ruby - Level 16",
+          "899": "Ruby - Level 11",
+          "900": "Ruby - Level 6",
+          "901": "Level 16",
+          "902": "Level 11",
+          "903": "Level 6"
+        },
+        "24": {
+          "904": "Pearl - Level 16",
+          "905": "Pearl - Level 11",
+          "906": "Pearl - Level 6",
+          "907": "Obsidian - Level 16",
+          "908": "Obsidian - Level 11",
+          "909": "Obsidian - Level 6",
+          "910": "Rose Quartz - Level 16",
+          "911": "Rose Quartz - Level 11",
+          "912": "Rose Quartz - Level 6",
+          "913": "Tanzanite - Level 16",
+          "914": "Tanzanite - Level 11",
+          "915": "Tanzanite - Level 6",
+          "916": "Sapphire - Level 16",
+          "917": "Sapphire - Level 11",
+          "918": "Sapphire - Level 6",
+          "919": "Emerald - Level 16",
+          "920": "Emerald - Level 11",
+          "921": "Emerald - Level 6",
+          "922": "Citrine - Level 16",
+          "923": "Citrine - Level 11",
+          "924": "Citrine - Level 6",
+          "925": "Ruby - Level 16",
+          "926": "Ruby - Level 11",
+          "927": "Ruby - Level 6",
+          "928": "Level 16",
+          "929": "Level 11",
+          "930": "Level 6"
+        },
+        "15": {
+          "931": "Hunter - Level 16",
+          "932": "Hunter - Level 11",
+          "933": "Hunter - Level 6",
+          "934": "Tanzanite - Level 16",
+          "935": "Tanzanite - Level 11",
+          "936": "Tanzanite - Level 6",
+          "937": "Emerald - Level 16",
+          "938": "Emerald - Level 11",
+          "939": "Emerald - Level 6",
+          "940": "Rose Quartz - Level 16",
+          "941": "Rose Quartz - Level 11",
+          "942": "Rose Quartz - Level 6",
+          "943": "Sapphire - Level 16",
+          "944": "Sapphire - Level 11",
+          "945": "Sapphire - Level 6",
+          "946": "Turquoise - Level 16",
+          "947": "Turquoise - Level 11",
+          "948": "Turquoise - Level 6",
+          "949": "Sandstone - Level 16",
+          "950": "Sandstone - Level 11",
+          "951": "Sandstone - Level 6",
+          "952": "Ruby - Level 16",
+          "953": "Ruby - Level 11",
+          "954": "Ruby - Level 6",
+          "955": "Level 16",
+          "956": "Level 11",
+          "957": "Level 6"
+        },
+        "2": {
+          "958": "Obsidian - Level 16",
+          "959": "Obsidian - Level 11",
+          "960": "Obsidian - Level 6",
+          "961": "Rose Quartz - Level 16",
+          "962": "Rose Quartz - Level 11",
+          "963": "Rose Quartz - Level 6",
+          "964": "Pearl - Level 16",
+          "965": "Pearl - Level 11",
+          "966": "Pearl - Level 6",
+          "967": "Aquamarine - Level 16",
+          "968": "Aquamarine - Level 11",
+          "969": "Aquamarine - Level 6",
+          "970": "Citrine - Level 16",
+          "971": "Citrine - Level 11",
+          "972": "Citrine - Level 6",
+          "994": "Level 16",
+          "995": "Level 11",
+          "996": "Level 6"
+        },
+        "9": {
+          "973": "Level 16",
+          "974": "Level 11",
+          "975": "Level 6"
+        },
+        "8": {
+          "976": "Level 16",
+          "977": "Level 11",
+          "978": "Level 6"
+        },
+        "7": {
+          "979": "Level 16",
+          "980": "Level 11",
+          "981": "Level 6"
+        },
+        "5": {
+          "985": "Level 16",
+          "986": "Level 11",
+          "987": "Level 6"
+        },
+        "4": {
+          "988": "Level 16",
+          "989": "Level 11",
+          "990": "Level 6"
+        },
+        "3": {
+          "991": "Level 16",
+          "992": "Level 11",
+          "993": "Level 6"
+        },
+        "1": {
+          "997": "Level 16",
+          "998": "Level 11",
+          "999": "Level 6"
+        }
+      }
     },
     "Kayn": {
       "skins": {
@@ -4629,7 +5110,82 @@
           "30": "Emerald"
         }
       },
-      "forms": {}
+      "forms": {
+        "26": {
+          "940": "Emerald - Rhaast",
+          "941": "Emerald - Shadow Assassin",
+          "942": "Sapphire - Rhaast",
+          "943": "Sapphire - Shadow Assassin",
+          "944": "Catseye - Rhaast",
+          "945": "Catseye - Shadow Assassin",
+          "946": "Ruby - Rhaast",
+          "947": "Ruby - Shadow Assassin",
+          "948": "Rhaast",
+          "949": "Shadow Assassin"
+        },
+        "20": {
+          "950": "Rockstar - Rhaast",
+          "951": "Rockstar - Shadow Assassin",
+          "952": "Citrine - Rhaast",
+          "953": "Citrine - Shadow Assassin",
+          "954": "Pearl - Rhaast",
+          "955": "Pearl - Shadow Assassin",
+          "956": "Rose Quartz - Rhaast",
+          "957": "Rose Quartz - Shadow Assassin",
+          "958": "Ruby - Rhaast",
+          "959": "Ruby - Shadow Assassin",
+          "960": "Rhaast",
+          "961": "Shadow Assassin"
+        },
+        "15": {
+          "962": "Meteorite - Rhaast",
+          "963": "Meteorite - Shadow Assassin",
+          "964": "Amethyst - Rhaast",
+          "965": "Amethyst - Shadow Assassin",
+          "966": "Obsidian - Rhaast",
+          "967": "Obsidian - Shadow Assassin",
+          "968": "Ruby - Rhaast",
+          "969": "Ruby - Shadow Assassin",
+          "970": "Rhaast",
+          "971": "Shadow Assassin"
+        },
+        "8": {
+          "972": "Deathbringer - Rhaast",
+          "973": "Deathbringer - Shadow Assassin",
+          "974": "Sapphire - Rhaast",
+          "975": "Sapphire - Shadow Assassin",
+          "976": "Tanzanite - Rhaast",
+          "977": "Tanzanite - Shadow Assassin",
+          "978": "Catseye - Rhaast",
+          "979": "Catseye - Shadow Assassin",
+          "980": "Ruby - Rhaast",
+          "981": "Ruby - Shadow Assassin",
+          "984": "Rhaast",
+          "985": "Shadow Assassin"
+        },
+        "9": {
+          "982": "Rhaast",
+          "983": "Shadow Assassin"
+        },
+        "2": {
+          "986": "Sapphire - Rhaast",
+          "987": "Sapphire - Shadow Assassin",
+          "988": "Merc - Rhaast",
+          "989": "Merc - Shadow Assassin",
+          "990": "Emerald - Rhaast",
+          "991": "Emerald - Shadow Assassin",
+          "992": "Pearl - Rhaast",
+          "993": "Pearl - Shadow Assassin",
+          "994": "Ruby - Rhaast",
+          "995": "Ruby - Shadow Assassin",
+          "996": "Rhaast",
+          "997": "Shadow Assassin"
+        },
+        "1": {
+          "998": "Rhaast",
+          "999": "Shadow Assassin"
+        }
+      }
     },
     "Kennen": {
       "skins": {
@@ -5220,7 +5776,33 @@
           "70": "Pearl"
         }
       },
-      "forms": {}
+      "forms": {
+        "64": {
+          "979": "Pearl - Form 2",
+          "980": "Tanzanite - Form 2",
+          "981": "Rose Quartz - Form 2",
+          "982": "Sapphire - Form 2",
+          "983": "Turquoise - Form 2",
+          "984": "Ruby - Form 2",
+          "985": "Form 2"
+        },
+        "34": {
+          "986": "Sapphire - Form 3",
+          "987": "Sapphire - Form 2",
+          "988": "Nomad - Form 3",
+          "989": "Nomad - Form 2",
+          "990": "Catseye - Form 3",
+          "991": "Catseye - Form 2",
+          "992": "Rose Quartz - Form 3",
+          "993": "Rose Quartz - Form 2",
+          "994": "Tanzanite - Form 3",
+          "995": "Tanzanite - Form 2",
+          "996": "Ruby - Form 3",
+          "997": "Ruby - Form 2",
+          "998": "Form 3",
+          "999": "Form 2"
+        }
+      }
     },
     "Lillia": {
       "skins": {
@@ -5291,7 +5873,38 @@
           "52": "Emerald"
         }
       },
-      "forms": {}
+      "forms": {
+        "46": {
+          "972": "Emerald - Form 5",
+          "973": "Emerald - Form 4",
+          "974": "Emerald - Form 3",
+          "975": "Emerald - Form 2",
+          "976": "Peridot - Form 5",
+          "977": "Peridot - Form 4",
+          "978": "Peridot - Form 3",
+          "979": "Peridot - Form 2",
+          "980": "Pearl - Form 5",
+          "981": "Pearl - Form 4",
+          "982": "Pearl - Form 3",
+          "983": "Pearl - Form 2",
+          "984": "Rose Quartz - Form 5",
+          "985": "Rose Quartz - Form 4",
+          "986": "Rose Quartz - Form 3",
+          "987": "Rose Quartz - Form 2",
+          "988": "Citrine - Form 5",
+          "989": "Citrine - Form 4",
+          "990": "Citrine - Form 3",
+          "991": "Citrine - Form 2",
+          "992": "Ruby - Form 5",
+          "993": "Ruby - Form 4",
+          "994": "Ruby - Form 3",
+          "995": "Ruby - Form 2",
+          "996": "Form 5",
+          "997": "Form 4",
+          "998": "Form 3",
+          "999": "Form 2"
+        }
+      }
     },
     "Lissandra": {
       "skins": {
@@ -5993,7 +6606,20 @@
           "115": "Challenger"
         }
       },
-      "forms": {}
+      "forms": {
+        "116": {
+          "992": "Form 2"
+        },
+        "89": {
+          "993": "Inked - Form 2",
+          "994": "Tanzanite - Form 2",
+          "995": "Rose Quartz - Form 2",
+          "996": "Turquoise - Form 2",
+          "997": "Catseye - Form 2",
+          "998": "Ruby - Form 2",
+          "999": "Form 2"
+        }
+      }
     },
     "Mel": {
       "skins": {
@@ -6168,6 +6794,22 @@
           "997": "Zero Hour",
           "998": "Royal Arms",
           "999": "Starswarm"
+        },
+        "69": {
+          "983": "Sapphire - 2024 Weapons",
+          "984": "Sapphire - 2023 Weapons",
+          "985": "Catseye - 2024 Weapons",
+          "986": "Catseye - 2023 Weapons",
+          "987": "Rose Quartz - 2024 Weapons",
+          "988": "Rose Quartz - 2023 Weapons",
+          "989": "Ruby - 2024 Weapons",
+          "990": "Ruby - 2023 Weapons",
+          "991": "Pearl - 2024 Weapons",
+          "992": "Pearl - 2023 Weapons",
+          "993": "Elite - 2024 Weapons",
+          "994": "Elite - 2023 Weapons",
+          "995": "2024 Weapons",
+          "996": "2023 Weapons"
         }
       }
     },
@@ -6301,7 +6943,20 @@
       "forms": {
         "54": {
           "998": "Stage 2",
-          "999": "Stage 3"
+          "999": "Stage 3",
+          "987": "Stage 3 - Empowered"
+        },
+        "13": {
+          "988": "Reckoning - Form 2",
+          "989": "Rainbow - Form 2",
+          "990": "Pearl - Form 2",
+          "991": "Emerald - Form 2",
+          "992": "Amethyst - Form 2",
+          "993": "Aquamarine - Form 2",
+          "994": "Rose Quartz - Form 2",
+          "995": "Catseye - Form 2",
+          "996": "Ruby - Form 2",
+          "997": "Form 2"
         }
       }
     },
@@ -6414,7 +7069,20 @@
       },
       "forms": {
         "80": {
-          "999": "Stage 2"
+          "999": "Stage 2",
+          "989": "Stage 2 - Mask 3",
+          "990": "Stage 2 - Mask 2",
+          "991": "Stage 1 - Mask 3",
+          "992": "Stage 1 - Mask 2"
+        },
+        "26": {
+          "988": "Pristine - Form 2",
+          "993": "Dark Ritual - Form 2",
+          "994": "Obsidian - Form 2",
+          "995": "Tanzanite - Form 2",
+          "996": "Pearl - Form 2",
+          "997": "Ruby - Form 2",
+          "998": "Form 2"
         }
       }
     },
@@ -7447,7 +8115,24 @@
           "84": "Elite"
         }
       },
-      "forms": {}
+      "forms": {
+        "45": {
+          "986": "Neon Flare - Form 3",
+          "987": "Neon Flare - Form 2",
+          "988": "Turquoise - Form 3",
+          "989": "Turquoise - Form 2",
+          "990": "Rose Quartz - Form 3",
+          "991": "Rose Quartz - Form 2",
+          "992": "Pearl - Form 3",
+          "993": "Pearl - Form 2",
+          "994": "Emerald - Form 3",
+          "995": "Emerald - Form 2",
+          "996": "Ruby - Form 3",
+          "997": "Ruby - Form 2",
+          "998": "Form 3",
+          "999": "Form 2"
+        }
+      }
     },
     "Qiyana": {
       "skins": {
@@ -7639,7 +8324,17 @@
           "57": "Elite"
         }
       },
-      "forms": {}
+      "forms": {
+        "36": {
+          "995": "Form 2"
+        },
+        "5": {
+          "996": "Rose Quartz - Form 2",
+          "997": "Aquamarine - Form 2",
+          "998": "Ruby - Form 2",
+          "999": "Form 2"
+        }
+      }
     },
     "Rammus": {
       "skins": {
@@ -7899,7 +8594,31 @@
           "56": "Rose Quartz"
         }
       },
-      "forms": {}
+      "forms": {
+        "26": {
+          "979": "Catseye - Form 4",
+          "980": "Catseye - Form 3",
+          "981": "Catseye - Form 2",
+          "982": "Reckoning - Form 4",
+          "983": "Reckoning - Form 3",
+          "984": "Reckoning - Form 2",
+          "985": "Tanzanite - Form 4",
+          "986": "Tanzanite - Form 3",
+          "987": "Tanzanite - Form 2",
+          "988": "Emerald - Form 4",
+          "989": "Emerald - Form 3",
+          "990": "Emerald - Form 2",
+          "991": "Sapphire - Form 4",
+          "992": "Sapphire - Form 3",
+          "993": "Sapphire - Form 2",
+          "994": "Ruby - Form 4",
+          "995": "Ruby - Form 3",
+          "996": "Ruby - Form 2",
+          "997": "Form 4",
+          "998": "Form 3",
+          "999": "Form 2"
+        }
+      }
     },
     "Rengar": {
       "skins": {
@@ -8413,7 +9132,17 @@
           "80": "Fearless Fang"
         }
       },
-      "forms": {}
+      "forms": {
+        "56": {
+          "993": "Wreathguard - Form 2",
+          "994": "Tanzanite - Form 2",
+          "995": "Rainbow - Form 2",
+          "996": "Rose Quartz - Form 2",
+          "997": "Catseye - Form 2",
+          "998": "Ruby - Form 2",
+          "999": "Form 2"
+        }
+      }
     },
     "Seraphine": {
       "skins": {
@@ -8521,6 +9250,15 @@
         "1": {
           "2": "Stage 2",
           "3": "Stage 3"
+        },
+        "69": {
+          "993": "Obsidian - Form 2",
+          "994": "Tanzanite - Form 2",
+          "995": "Catseye - Form 2",
+          "996": "Pearl - Form 2",
+          "997": "Sapphire - Form 2",
+          "998": "Ruby - Form 2",
+          "999": "Form 2"
         }
       }
     },
@@ -8624,6 +9362,15 @@
         "66": {
           "998": "Stage 2",
           "999": "Stage 3"
+        },
+        "38": {
+          "991": "Night Blossom - Form 2",
+          "992": "Catseye - Form 2",
+          "993": "Rose Quartz - Form 2",
+          "994": "Emerald - Form 2",
+          "995": "Sapphire - Form 2",
+          "996": "Ruby - Form 2",
+          "997": "Form 2"
         }
       }
     },
@@ -9063,7 +9810,17 @@
           "80": "Rose Quartz"
         }
       },
-      "forms": {}
+      "forms": {
+        "43": {
+          "993": "Obsidian - Form 2",
+          "994": "Rose Quartz - Form 2",
+          "995": "Pearl - Form 2",
+          "996": "Tanzanite - Form 2",
+          "997": "Catseye - Form 2",
+          "998": "Ruby - Form 2",
+          "999": "Form 2"
+        }
+      }
     },
     "Skarner": {
       "skins": {
@@ -9223,6 +9980,17 @@
         "6": {
           "998": "Stage 2",
           "999": "Stage 3"
+        },
+        "17": {
+          "989": "Hunter - Form 2",
+          "990": "Sapphire - Form 2",
+          "991": "Turquoise - Form 2",
+          "992": "Amethyst - Form 2",
+          "993": "Emerald - Form 2",
+          "994": "Citrine - Form 2",
+          "995": "Obsidian - Form 2",
+          "996": "Ruby - Form 2",
+          "997": "Form 2"
         }
       }
     },
@@ -9965,7 +10733,19 @@
           "67": "Tanzanite"
         }
       },
-      "forms": {}
+      "forms": {
+        "17": {
+          "991": "Night Blossom - Form 2",
+          "992": "Rose Quartz - Form 2",
+          "993": "Obsidian - Form 2",
+          "994": "Pearl - Form 2",
+          "995": "Emerald - Form 2",
+          "996": "Catseye - Form 2",
+          "997": "Ruby - Form 2",
+          "998": "Sapphire - Form 2",
+          "999": "Form 2"
+        }
+      }
     },
     "Tristana": {
       "skins": {
@@ -10071,7 +10851,9 @@
       },
       "forms": {
         "79": {
-          "80": "Stage 2"
+          "80": "Stage 2",
+          "998": "Stage 3",
+          "999": "Immortalized - Form 1"
         }
       }
     },
@@ -10347,7 +11129,18 @@
           "11": "Inked"
         }
       },
-      "forms": {}
+      "forms": {
+        "3": {
+          "992": "Phoenix - Max",
+          "993": "Bear - Max",
+          "994": "Turtle - Max",
+          "995": "Tiger - Max",
+          "996": "Phoenix",
+          "997": "Bear",
+          "998": "Turtle",
+          "999": "Tiger"
+        }
+      }
     },
     "Urgot": {
       "skins": {
@@ -11529,7 +12322,18 @@
           "96": "Emerald"
         }
       },
-      "forms": {}
+      "forms": {
+        "87": {
+          "996": "Form 3",
+          "997": "Form 2"
+        },
+        "55": {
+          "998": "Form 2"
+        },
+        "54": {
+          "999": "Form 2"
+        }
+      }
     },
     "Yone": {
       "skins": {
@@ -11629,7 +12433,29 @@
           "75": "Elite"
         }
       },
-      "forms": {}
+      "forms": {
+        "55": {
+          "985": "Noonday - Form 2",
+          "986": "Obsidian - Form 2",
+          "987": "Rose Quartz - Form 2",
+          "988": "Tanzanite - Form 2",
+          "989": "Emerald - Form 2",
+          "990": "Ruby - Form 2",
+          "992": "Form 2"
+        },
+        "58": {
+          "991": "Form 2"
+        },
+        "19": {
+          "993": "Lifebringer - Form 2",
+          "994": "Obsidian - Form 2",
+          "995": "Pearl - Form 2",
+          "996": "Rose Quartz - Form 2",
+          "997": "Emerald - Form 2",
+          "998": "Ruby - Form 2",
+          "999": "Form 2"
+        }
+      }
     },
     "Yorick": {
       "skins": {
@@ -12074,7 +12900,17 @@
           "46": "Pearl"
         }
       },
-      "forms": {}
+      "forms": {
+        "40": {
+          "993": "Pearl - Form 2",
+          "994": "Obsidian - Form 2",
+          "995": "Rose Quartz - Form 2",
+          "996": "Amethyst - Form 2",
+          "997": "Turquoise - Form 2",
+          "998": "Ruby - Form 2",
+          "999": "Form 2"
+        }
+      }
     },
     "Ziggs": {
       "skins": {

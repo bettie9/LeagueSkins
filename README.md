@@ -19,7 +19,7 @@ Download individual `.fantome` packages here, or browse and install them directl
 
 | Collection | Packages | Coverage | Catalog |
 | --- | ---: | --- | --- |
-| [Champion skins](skins/) | 9,007 | Skins, chromas and forms for 173 normal LoL champions | [index.json](index.json) |
+| [Champion skins](skins/) | 9,688 | Skins, chromas and forms for 173 normal LoL champions | [index.json](index.json) |
 | [League Classic](classic/) | 1,716 | Skins, chromas and variants for 72 Classic champions | [classic/index.json](classic/index.json) |
 | [Emotes](emotes/) | 2,057 | Replacements for the default thumbs-up emote | [emotes-index.json](emotes-index.json) |
 | [Wards / Totems](wards/) | 265 | Replacements for default ward and trinket appearances | [wards-index.json](wards-index.json) |
@@ -29,6 +29,16 @@ Download individual `.fantome` packages here, or browse and install them directl
 **Choose the collection for your game mode.** Packages in `skins/` target normal LoL champions. Packages in `classic/` target the `Jade_*` champions used by League Classic; they do not turn normal LoL champions into their Classic versions.
 
 ## Latest skin update
+
+Additional forms, weapon choices and level appearances are now available,
+including matching chromas. Find them inside each skin's folder and choose
+the appearance you want.
+
+Immortalized Tristana, Ahri and Kai'Sa now have the correct **Stage 2**
+appearance and separate **Stage 3** packages. Browse
+[Tristana's forms](skins/Tristana/Risen%20Legend%20Tristana/),
+[Ahri's forms](skins/Ahri/Risen%20Legend%20Ahri/) or
+[Kai'Sa's forms](skins/Kaisa/Risen%20Legend%20Kai'Sa/).
 
 The regular skin library has been rebuilt with fixes for MVP T1 Miss Fortune,
 Super Galaxy Rumble, Sunken Shadows Lucian, Revenant Reign Viego, Heartseeker
