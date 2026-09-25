@@ -40,6 +40,8 @@ For normal champion skins, select the champion's **default skin** in League. Emo
 
 Kayle skins and chromas evolve with levels, Kayn follows his in-game transformation, and Spirit Guard Udyr retains its stance progression. Pulsefire Ezreal changes appearance when R is ranked up. Separate Stage/Form downloads keep the selected appearance. Immortalized Tristana Stage 3 also supports **Ctrl+5** mask switching.
 
+The main **DJ Sona** package includes DJ music and **Ctrl+5** form/music switching, including while moving. Enable music in League's audio settings to hear the soundtrack.
+
 ## Download a package manually
 
 1. Open the collection above and find the `.fantome` file you want.
