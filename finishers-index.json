@@ -1,0 +1,48 @@
+{
+  "patch": "16.19.1",
+  "builtFor": "16.19.821.7343",
+  "finishers": {
+    "4": {
+      "id": 4,
+      "name": "Aspects",
+      "file": "Aspects.fantome",
+      "image": "finishers/previews/aspectsfinisher.png",
+      "sha256": "456113b92d8985dfe7fd579664362ac990b845923e252fa75fc664e6d4546896"
+    },
+    "5": {
+      "id": 5,
+      "name": "Demacia",
+      "file": "Demacia.fantome",
+      "image": "finishers/previews/demaciafinisher.png",
+      "sha256": "d3328f9acd45faf9c19f52cef712718498f7b4f522b320c7ac5c1804ab65f2be"
+    },
+    "1": {
+      "id": 1,
+      "name": "Jinx",
+      "file": "Jinx.fantome",
+      "image": "finishers/previews/jinxfinisher.png",
+      "sha256": "ebc56e8b4ee334c87227054a9a84cffc62e5bc784cf9ed83cb2860d4e2e63d13"
+    },
+    "2": {
+      "id": 2,
+      "name": "Noxus",
+      "file": "Noxus.fantome",
+      "image": "finishers/previews/noxusfinisher.png",
+      "sha256": "68e2099c2791da20cbb8099b6565391fe1a6cc791a364f57e41d6758386a6128"
+    },
+    "3": {
+      "id": 3,
+      "name": "Spirit Blossom",
+      "file": "Spirit Blossom.fantome",
+      "image": "finishers/previews/spiritblossom.png",
+      "sha256": "e5e3a286f907df6912936d1e3737a8c85813f287f26d637ff2dee17f8211194f"
+    },
+    "6": {
+      "id": 6,
+      "name": "T1",
+      "file": "T1.fantome",
+      "image": "finishers/previews/t1finisher.png",
+      "sha256": "dce15adaa5ed11a1b12d3fc97f3303242254a51b7358e3343102561bd762f7c1"
+    }
+  }
+}

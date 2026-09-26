@@ -1,6 +1,6 @@
 <h1 align="center">LeagueSkins</h1>
 
-<p align="center">Skins, chromas, emotes and wards for League of Legends and League Classic.</p>
+<p align="center">Skins, chromas, emotes, wards and Nexus finishers for League of Legends and League Classic.</p>
 
 <p align="center">
   The package library behind <a href="https://github.com/bettie9/Sunshine"><strong>Sunshine</strong></a>.
@@ -22,21 +22,22 @@ Download individual `.fantome` packages here, or browse and install them directl
 | [Champion skins](skins/) | 9,688 | Skins, chromas and forms for 173 normal LoL champions | [index.json](index.json) |
 | [League Classic](classic/) | 1,716 | Skins, chromas and variants for 72 Classic champions | [classic/index.json](classic/index.json) |
 | [Emotes](emotes/) | 2,057 | Replacements for the default thumbs-up emote | [emotes-index.json](emotes-index.json) |
+| [Nexus finishers](finishers/) | 6 | Default Nexus destruction effects and sounds | [finishers-index.json](finishers-index.json) |
 | [Wards / Totems](wards/) | 265 | Replacements for default ward and trinket appearances | [wards-index.json](wards-index.json) |
 
-*Library snapshot: September 25, 2026. Normal skin catalog: 16.19.1. Classic catalog: 16.19. Counts include individual variants; older duplicate download names are excluded.*
+*Library snapshot: September 26, 2026. Normal skin catalog: 16.19.1. Classic catalog: 16.19. Counts include individual variants; older duplicate download names are excluded.*
 
 **Choose the collection for your game mode.** Packages in `skins/` target normal LoL champions. Packages in `classic/` target the `Jade_*` champions used by League Classic; they do not turn normal LoL champions into their Classic versions.
 
 ## Use with Sunshine
 
 1. Install [Sunshine](https://github.com/bettie9/Sunshine/releases/latest) and configure your League installation in **Settings → Game setup**.
-2. Open **Skin Changer**, choose **Skins**, **Classic**, **Emotes** or **Totems**, then browse and install your selection.
+2. Open **Skin Changer**, choose **Skins**, **Classic**, **Emotes**, **Totems** or **Finishers**, then browse and install your selection.
 3. Enable your packages and use **Apply & Inject** before starting the game.
 
-Sunshine **0.13.1 and later** uses this repository and **LTK Patcher** automatically. The **Classic** tab requires Sunshine **0.13.0 or later**.
+Sunshine **0.13.1 and later** uses this repository and **LTK Patcher** automatically. The **Classic** tab requires Sunshine **0.13.0 or later**. The **Finishers** tab requires Sunshine **0.14.0 or later**.
 
-For normal champion skins, select the champion's **default skin** in League. Emote packages replace the **default thumbs-up emote**; equip it in your emote wheel. Enable one replacement per champion, one emote and one ward package at a time to avoid conflicting overrides.
+For normal champion skins, select the champion's **default skin** in League. Emote packages replace the **default thumbs-up emote**; equip it in your emote wheel. Enable one replacement per champion, one emote, one ward and one finisher package at a time to avoid conflicting overrides.
 
 ## Download a package manually
 
@@ -71,9 +72,10 @@ skins/<champion>/<base skin>/<chroma or form>.fantome
 classic/<Jade champion>/<full skin id>.fantome
 emotes/<emote>.fantome
 wards/<ward>.fantome
+finishers/<finisher>.fantome
 ```
 
-The regular catalog groups skins, chromas and forms by champion. Emote and ward catalogs provide each package's filename.
+The regular catalog groups skins, chromas and forms by champion. Emote, ward and finisher catalogs provide each package's filename.
 
 The Classic catalog includes champion identities, target slots, artwork, parent-skin relationships and package SHA-256 hashes. Its package `path` values are relative to `classic/`.
 
