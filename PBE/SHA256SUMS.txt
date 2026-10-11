@@ -1,33 +1,33 @@
-8a9aee1e7daf3da09d192efe7a5f48caceb44aead25cd1b176bf2e130556a60b  Akali/True Damage Know My Name Akali.fantome
-5cf4e341b6f52a82566841f08701365f63ec72eb2610fd1eca1628070d60b544  Akali/True Damage Know My Name Akali/Catseye.fantome
-ac78245d031a9cfb03985eb8e05c503ee9c358a51e5d251830d412eb9cd082ca  Akali/True Damage Know My Name Akali/Obsidian.fantome
-871afa2f2b32fe8b31d5395e5f6a37a770783b4b6fbbed821947b07eabd8a736  Akali/True Damage Know My Name Akali/Pearl.fantome
-f83db4c422a83be4f6a828da9ca03e5bd7d7ed4e3ada11d7e29182da9136541a  Akali/True Damage Know My Name Akali/Rose Quartz.fantome
-9c7ff3497410c12836d914c653d408a76bc81e4fb6804171b970497290820981  Akali/True Damage Know My Name Akali/Ruby.fantome
-3f0f42e04e0c146a587da8fd616b8a368c2c28559671d8e63dc7b81e647a52ac  Akali/True Damage Know My Name Akali/Sapphire.fantome
-5509b69bb6f2ec4900057261b3e0306acb86f2c7c03228da887d6a9b9161765a  Ekko/Prestige True Damage Know My Name Ekko.fantome
-6f5662cc46d9b2381bd2417e75e1a750a17258a8d4e180e45e4cfa682f5f8174  Ekko/Prestige True Damage Know My Name Ekko/Vivid.fantome
-fea0a898a52fc6a7bf769f3c06cdda1cf2b4dd7c326800302488673361ae5504  Qiyana/True Damage Know My Name Qiyana.fantome
-10047c0627872dff921b5efef57dca867181baf7f069da16133ce21e34ec17d8  Qiyana/True Damage Know My Name Qiyana/Catseye.fantome
-ecc74be5c132d9ad3ed96fa2b006dd447a57f68ec056b92e87b4f1e443feac5d  Qiyana/True Damage Know My Name Qiyana/Obsidian.fantome
-7afd6555e842e6218eb1dff4e043a81d7e48babdadb9cc44bae71ebd64cfb42c  Qiyana/True Damage Know My Name Qiyana/Pearl.fantome
-af691f08f1bd3d7e038165749e1e760f1dc764affa21c27bd551e9de5bf2830a  Qiyana/True Damage Know My Name Qiyana/Rose Quartz.fantome
-5b3c4d61b9c791764ee9edede817cd45bc88505c3d036c79d2d2408f5226805e  Qiyana/True Damage Know My Name Qiyana/Ruby.fantome
-0fd84c8fc5b9bb3598c3af034bdd879f11e0bd6c51ac1eeaa17bb633a56edec6  Qiyana/True Damage Know My Name Qiyana/Sapphire.fantome
-de53035e7fc029fd6cc3a0a647bfacf3c6e3271b9454af64ef899f12bd259863  Qiyana/True Damage Know My Name Qiyana/Tanzanite.fantome
-d2ce7db6f619f2e50570d331efd33d6e1e5e3e47ce5d6ef123e6b29993c99604  Qiyana/True Damage Know My Name Qiyana/Turquoise.fantome
-fa3bfd903586dfb6fb21c2b4dad722705438c59bf9d451690ee605f50a60a59f  Senna/True Damage Know My Name Senna.fantome
-7f70f962d091037a154642733a33cf83e8005a1be0efa6f3129b1c6d82318e85  Senna/True Damage Know My Name Senna/Catseye.fantome
-ad913f6bdd9e686b41db5283ff90b526c5ecdcf9831464476551efb53b08ec8c  Senna/True Damage Know My Name Senna/Obsidian.fantome
-aa019aa13cae0fd00ad92230fa654dc9b7cdf92151c2e490e19793f8cb6b8614  Senna/True Damage Know My Name Senna/Pearl.fantome
-07c2f26f77541df43348bae63ba59d696717c8ba4044472ef037420d727c86c7  Senna/True Damage Know My Name Senna/Rose Quartz.fantome
-909ff7515ad43deea5e7675585488bd3c9b125295b24541687c17098cdccd293  Senna/True Damage Know My Name Senna/Ruby.fantome
-6b37746a62a98226e25d6098f68f75cf5ff94e665a25e3dfe6e4f036e4f02b6e  Senna/True Damage Know My Name Senna/Sapphire.fantome
-4987425acc97e9364d3ecf1faea500cf9f1ca34eb4da59536f8b836069f683b5  Senna/True Damage Know My Name Senna/Tanzanite.fantome
-dd22abf033c822f25ea2a1ec58becfa4ea6eecdb57210bc534e43f3f87b5b007  Senna/True Damage Know My Name Senna/Turquoise.fantome
-eb7af95b5b6fcf9cf0488f8fb6464c63b537ef470f99c38e3099d1c11cd21906  Yasuo/True Damage Know My Name Yasuo.fantome
-1c5565d38d1a9183686fd67ab625bb9ef7984c0c083b2bf6b5ea8fb4b6b4becc  Yasuo/True Damage Know My Name Yasuo/Momentous.fantome
-f698d7d62f9b7674d7b74bfd82b3cf000b9093e39c068d759799eb9653362dc1  Yasuo/True Damage Know My Name Yasuo/Obsidian.fantome
-afe7389505ceab8e0bd61e89be347aaab8a0eff24b05fcea8937b126e0af51f9  Yasuo/True Damage Know My Name Yasuo/Rose Quartz.fantome
-cdcc06f37b7ed7a023090c0bead3f4db7e536e04745c059ca2538435e2c54901  Yasuo/True Damage Know My Name Yasuo/Ruby.fantome
-983149f190253879498361f330b7e5661976101840a99510ea1f24b096d3d130  Yasuo/True Damage Know My Name Yasuo/Unlocked.fantome
+d88b71feccd5e4437db7a6d71dca5c320ef04aef62c32d398fe93e5d961546b9  Akali/True Damage Know My Name Akali.fantome
+b05f0df47694d2f8502db1a7444824cf4dbbf14c182c6d6630d82095ee1a4ca9  Akali/True Damage Know My Name Akali/Catseye.fantome
+0dae49219027069237212a2ca66bf6155c040d5fd97e706eb3a5907f8d229db9  Akali/True Damage Know My Name Akali/Obsidian.fantome
+8da00530486495925a0f7684be3b3416311f2473aa2da84eb0102a42215dc3a9  Akali/True Damage Know My Name Akali/Pearl.fantome
+6db26d044da7b2acced8f4992fd3bd47fb5696b121e9379815a8688fb3a8d7a0  Akali/True Damage Know My Name Akali/Rose Quartz.fantome
+172c69e6a1c904eaea32e678d7ebef5a504777f51f9789f0a5023975aa8a09ec  Akali/True Damage Know My Name Akali/Ruby.fantome
+422f6199e47a133d0bec7a8ba77cb99584ad3f656538a37cbd8ec0bace112225  Akali/True Damage Know My Name Akali/Sapphire.fantome
+a1284ac05335c15e88b254fa23fd5318e68e3624f52035c2607953402d92626e  Ekko/Prestige True Damage Know My Name Ekko.fantome
+70e6e0508da8a34c0db172696fea408d7aad9c6c8a5bb95f44b7f753b4d0c4f3  Ekko/Prestige True Damage Know My Name Ekko/Vivid.fantome
+602f9803261ed2a40f374200de27ba32a8b9885231bf636ecebfea2bfb77ec85  Qiyana/True Damage Know My Name Qiyana.fantome
+fef809ccd1bd2502f57668c399267f07562200a11adb93bdc88e9b9b9289535a  Qiyana/True Damage Know My Name Qiyana/Catseye.fantome
+142280527af7f79a45c9da5de1381da1811d4cd0151bbe27f97fc495b673fdd9  Qiyana/True Damage Know My Name Qiyana/Obsidian.fantome
+a1a0ef22650e362691c60415a09ba7eaff109b1c5229c3e9a10315526c118b30  Qiyana/True Damage Know My Name Qiyana/Pearl.fantome
+a893b72effced302dbe0f45761f1592bdd600e0921e1bd053eb670dde57364f8  Qiyana/True Damage Know My Name Qiyana/Rose Quartz.fantome
+233e77edbfe3242032437d2c27216294325f07fdaddec3cc362b8ed834588807  Qiyana/True Damage Know My Name Qiyana/Ruby.fantome
+3eb2d7987f4b236ab12240aab0ad1faee1a15d1e92437000e9b37b88270e683a  Qiyana/True Damage Know My Name Qiyana/Sapphire.fantome
+6ccd318df82c3005eca9003e7714aaa9db59056b285e76020026c669df609169  Qiyana/True Damage Know My Name Qiyana/Tanzanite.fantome
+a38894cced92bc4b9c95c31ab1a2d73470f36073adfcd5e9d6a52c37bec9f06b  Qiyana/True Damage Know My Name Qiyana/Turquoise.fantome
+144999ea285af94e4274405e4ce77a163aa1dcfb17a802197189bd8973d7e014  Senna/True Damage Know My Name Senna.fantome
+e84b19a79b91b95981f9c2bbf756aa4c4b57fba57e263687ee8705226905dcdb  Senna/True Damage Know My Name Senna/Catseye.fantome
+1baf7b9a62a5ce7c961c9d761036fa5960846a4c265adca1ca11f7692369e874  Senna/True Damage Know My Name Senna/Obsidian.fantome
+b4b2ffdd5bd38bccc2a9fe3e860be6809f0003b2ce88b200465b71e5bc7e33d2  Senna/True Damage Know My Name Senna/Pearl.fantome
+13ecce3c1e9e84aba3ee9b20963811bb4304ad48bf1db43d8df5afc03286e854  Senna/True Damage Know My Name Senna/Rose Quartz.fantome
+8c4c26b37e723cd3d7c73526ca126f496c9fb33ff7fc46a51107bd98edc6bc0b  Senna/True Damage Know My Name Senna/Ruby.fantome
+909a3a97f0e85e9126cedb76c3fa0fa716bbdefb1da19593881c71856885a42c  Senna/True Damage Know My Name Senna/Sapphire.fantome
+2d338fe781d4378053cae9d28bfc4a3b3b2351e977b0935b20dc14f4e94966e5  Senna/True Damage Know My Name Senna/Tanzanite.fantome
+0369411a2b90e50132e76ba344b8d2454d2af7cebba9cc7ab5de58bc57008b9b  Senna/True Damage Know My Name Senna/Turquoise.fantome
+84c613e1166ee4d69122cc7f2896df699922fe1003718ba07f854382157f9436  Yasuo/True Damage Know My Name Yasuo.fantome
+aa5361482216d9aa56f4d53ca705321555703903ce656442286ae2437b6c939d  Yasuo/True Damage Know My Name Yasuo/Momentous.fantome
+bfa4ab217dade3db12942a1333502451aa952597cffa1e9a0ec4d494889bb4ce  Yasuo/True Damage Know My Name Yasuo/Obsidian.fantome
+354cdfaaebbc15857ebbf833d87a546b11ce6e661114b93b1093596669c3088a  Yasuo/True Damage Know My Name Yasuo/Rose Quartz.fantome
+092c23a1b20cb21ee005dcdd59793cc011b4e586f551d91515f3c2d905d399f4  Yasuo/True Damage Know My Name Yasuo/Ruby.fantome
+0481a78e0c796a3a40daceafff43a1a4ad780bbd951cca7df0992f10655f766e  Yasuo/True Damage Know My Name Yasuo/Unlocked.fantome
