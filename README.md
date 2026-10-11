@@ -20,6 +20,7 @@ Download individual `.fantome` packages here, or browse and install them directl
 | Collection | Packages | Coverage | Catalog |
 | --- | ---: | --- | --- |
 | [Champion skins](skins/) | 9,744 | Skins, chromas and forms for 173 normal LoL champions | [index.json](index.json) |
+| [Rainbow](rainbow/) | 562 | In-game chroma switching for 151 champions | [rainbow/index.json](rainbow/index.json) |
 | [PBE skins](PBE/README.md) | 33 | New skins and chromas for live League | [PBE/index.json](PBE/index.json) |
 | [League Classic](classic/) | 1,734 | Skins, chromas and variants for 77 Classic champions | [classic/index.json](classic/index.json) |
 | [Emotes](emotes/) | 2,089 | Replacements for the default thumbs-up emote | [emotes-index.json](emotes-index.json) |

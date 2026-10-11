@@ -1,0 +1,1171 @@
+{
+  "patch": "16.20",
+  "champions": {
+    "Aatrox": {
+      "skins": {
+        "2": "Mecha Aatrox",
+        "7": "Blood Moon Aatrox",
+        "11": "Odyssey Aatrox",
+        "30": "DRX Aatrox"
+      }
+    },
+    "Ahri": {
+      "skins": {
+        "1": "Dynasty Ahri",
+        "2": "Midnight Ahri",
+        "3": "Foxfire Ahri",
+        "4": "Popstar Ahri",
+        "5": "Challenger Ahri",
+        "6": "Academy Ahri",
+        "7": "Arcade Ahri",
+        "14": "Star Guardian Ahri",
+        "15": "K/DA Ahri",
+        "17": "Elderwood Ahri",
+        "27": "Spirit Blossom Ahri",
+        "76": "Snow Moon Ahri"
+      }
+    },
+    "Akali": {
+      "skins": {
+        "7": "Headhunter Akali",
+        "68": "DRX Akali"
+      }
+    },
+    "Alistar": {
+      "skins": {
+        "10": "Moo Cow Alistar",
+        "20": "Conqueror Alistar",
+        "22": "Blackfrost Alistar",
+        "29": "Lunar Beast Alistar",
+        "40": "Elderwood Alistar"
+      }
+    },
+    "Ambessa": {
+      "skins": {
+        "1": "Chosen of the Wolf Ambessa"
+      }
+    },
+    "Amumu": {
+      "skins": {
+        "8": "Surprise Party Amumu",
+        "17": "Infernal Amumu",
+        "44": "Heartache Amumu",
+        "53": "Dumpling Darlings Amumu"
+      }
+    },
+    "Anivia": {
+      "skins": {
+        "8": "Papercraft Anivia",
+        "17": "Cosmic Flight Anivia",
+        "27": "Divine Phoenix Anivia",
+        "46": "Victorious Anivia"
+      }
+    },
+    "Annie": {
+      "skins": {
+        "13": "Lunar Beast Annie",
+        "31": "Fright Night Annie",
+        "40": "Winterblessed Annie"
+      }
+    },
+    "Aphelios": {
+      "skins": {
+        "9": "Lunar Beast Aphelios",
+        "18": "EDG Aphelios"
+      }
+    },
+    "Ashe": {
+      "skins": {
+        "8": "PROJECT: Ashe",
+        "9": "Worlds 2017 Ashe",
+        "11": "Cosmic Queen Ashe",
+        "63": "DRX Ashe",
+        "65": "Crystalis Motus Ashe",
+        "67": "Infernal Ashe"
+      }
+    },
+    "AurelionSol": {
+      "skins": {
+        "2": "Mecha Aurelion Sol",
+        "11": "Storm Dragon Aurelion Sol",
+        "31": "Porcelain Protector Aurelion Sol"
+      }
+    },
+    "Aurora": {
+      "skins": {
+        "1": "Battle Bunny Aurora",
+        "11": "Arcana Aurora"
+      }
+    },
+    "Azir": {
+      "skins": {
+        "14": "Worlds 2022 Azir"
+      }
+    },
+    "Bard": {
+      "skins": {
+        "5": "Snow Day Bard",
+        "8": "Astronaut Bard",
+        "35": "T1 Bard",
+        "37": "Spirit Blossom Bard"
+      }
+    },
+    "Blitzcrank": {
+      "skins": {
+        "11": "Battle Boss Blitzcrank",
+        "36": "Victorious Blitzcrank"
+      }
+    },
+    "Brand": {
+      "skins": {
+        "4": "Zombie Brand",
+        "7": "Arclight Brand",
+        "8": "Eternal Dragon Brand",
+        "21": "Debonair Brand",
+        "33": "Street Demons Brand",
+        "42": "Empyrean Brand"
+      }
+    },
+    "Braum": {
+      "skins": {
+        "1": "Dragonslayer Braum",
+        "24": "Sugar Rush Braum",
+        "42": "Grill Master Braum",
+        "51": "Victorious Braum"
+      }
+    },
+    "Caitlyn": {
+      "skins": {
+        "10": "Lunar Wraith Caitlyn",
+        "11": "Pulsefire Caitlyn",
+        "48": "DRX Caitlyn",
+        "50": "Arcane Commander Caitlyn",
+        "51": "Prestige Arcane Commander Caitlyn",
+        "54": "Firecracker Caitlyn"
+      }
+    },
+    "Camille": {
+      "skins": {
+        "2": "Coven Camille",
+        "10": "iG Camille",
+        "11": "Arcana Camille",
+        "21": "Strike Commander Camille",
+        "31": "Winterblessed Camille",
+        "44": "Petals of Spring Camille"
+      }
+    },
+    "Chogath": {
+      "skins": {
+        "5": "Battlecast Prime Cho'Gath",
+        "14": "Shan Hai Scrolls Cho'Gath",
+        "23": "Broken Covenant Cho'Gath"
+      }
+    },
+    "Corki": {
+      "skins": {
+        "6": "Dragonwing Corki",
+        "8": "Arcade Corki",
+        "26": "Astronaut Corki",
+        "36": "Brick Toy Corki"
+      }
+    },
+    "Darius": {
+      "skins": {
+        "4": "Dunkmaster Darius",
+        "16": "High Noon Darius",
+        "24": "Lunar Beast Darius",
+        "33": "Crime City Nightmare Darius",
+        "54": "Porcelain Darius",
+        "65": "Prestige Triumphant General Darius"
+      }
+    },
+    "Diana": {
+      "skins": {
+        "2": "Lunar Goddess Diana",
+        "12": "Dark Waters Diana",
+        "18": "Dragonslayer Diana",
+        "27": "Sentinel Diana"
+      }
+    },
+    "Draven": {
+      "skins": {
+        "3": "Primetime Draven",
+        "20": "Ruined Draven",
+        "48": "La Ilusión Draven",
+        "58": "Grand Reckoning Draven",
+        "68": "Victorious Draven"
+      }
+    },
+    "Ekko": {
+      "skins": {
+        "1": "Sandstorm Ekko",
+        "12": "Trick or Treat Ekko",
+        "28": "Pulsefire Ekko"
+      }
+    },
+    "Elise": {
+      "skins": {
+        "15": "Withered Rose Elise",
+        "24": "Coven Elise"
+      }
+    },
+    "Evelynn": {
+      "skins": {
+        "15": "K/DA ALL OUT Evelynn",
+        "32": "Spirit Blossom Evelynn",
+        "42": "Soul Fighter Evelynn"
+      }
+    },
+    "Ezreal": {
+      "skins": {
+        "7": "Debonair Ezreal",
+        "19": "SSG Ezreal",
+        "21": "Battle Academia Ezreal",
+        "43": "HEARTSTEEL Ezreal"
+      }
+    },
+    "Fiora": {
+      "skins": {
+        "3": "Headmistress Fiora",
+        "4": "PROJECT: Fiora",
+        "5": "Pool Party Fiora",
+        "31": "iG Fiora",
+        "41": "Pulsefire Fiora",
+        "50": "Lunar Beast Fiora",
+        "80": "Dragonmancer Fiora",
+        "89": "Battle Queen Fiora",
+        "98": "Victorious Fiora"
+      }
+    },
+    "Fizz": {
+      "skins": {
+        "10": "Omega Squad Fizz",
+        "16": "Little Devil Fizz"
+      }
+    },
+    "Galio": {
+      "skins": {
+        "6": "Birdio",
+        "13": "Infernal Galio",
+        "47": "T1 Galio"
+      }
+    },
+    "Gangplank": {
+      "skins": {
+        "21": "FPX Gangplank"
+      }
+    },
+    "Garen": {
+      "skins": {
+        "11": "Warring Kingdoms Garen",
+        "14": "Demacia Vice Garen"
+      }
+    },
+    "Gnar": {
+      "skins": {
+        "14": "SSG Gnar",
+        "15": "Astronaut Gnar"
+      }
+    },
+    "Gragas": {
+      "skins": {
+        "29": "High Noon Gragas"
+      }
+    },
+    "Graves": {
+      "skins": {
+        "5": "Pool Party Graves",
+        "7": "Snow Day Graves",
+        "14": "Victorious Graves",
+        "18": "Praetorian Graves",
+        "25": "Battle Professor Graves",
+        "42": "EDG Graves",
+        "45": "Porcelain Graves"
+      }
+    },
+    "Hecarim": {
+      "skins": {
+        "8": "High Noon Hecarim",
+        "14": "Cosmic Charger Hecarim",
+        "31": "Winterblessed Hecarim",
+        "41": "Nightbringer Hecarim"
+      }
+    },
+    "Heimerdinger": {
+      "skins": {
+        "33": "Arcane Professor Heimerdinger"
+      }
+    },
+    "Hwei": {
+      "skins": {
+        "1": "Winterblessed Hwei"
+      }
+    },
+    "Illaoi": {
+      "skins": {
+        "2": "Resistance Illaoi",
+        "10": "Cosmic Invoker Illaoi",
+        "18": "Snow Moon Illaoi",
+        "27": "Battle Bear Illaoi"
+      }
+    },
+    "Irelia": {
+      "skins": {
+        "4": "Frostblade Irelia",
+        "15": "iG Irelia",
+        "18": "High Noon Irelia",
+        "26": "Sentinel Irelia",
+        "45": "Porcelain Irelia"
+      }
+    },
+    "Ivern": {
+      "skins": {
+        "2": "Dunkmaster Ivern"
+      }
+    },
+    "Janna": {
+      "skins": {
+        "8": "Sacred Sword Janna",
+        "13": "Bewitching Janna",
+        "20": "Guardian of the Sands Janna",
+        "27": "Battle Queen Janna",
+        "36": "Crystal Rose Janna"
+      }
+    },
+    "JarvanIV": {
+      "skins": {
+        "5": "Warring Kingdoms Jarvan IV",
+        "7": "Dark Star Jarvan IV",
+        "8": "SSG Jarvan IV",
+        "21": "Lunar Beast Jarvan IV",
+        "30": "Worlds 2021 Jarvan IV",
+        "44": "Mythmaker Jarvan IV",
+        "54": "Prestige Visions of the Fallen Jarvan IV"
+      }
+    },
+    "Jax": {
+      "skins": {
+        "7": "Nemesis Jax",
+        "8": "SKT T1 Jax",
+        "22": "Empyrean Jax",
+        "33": "PROJECT: Jax",
+        "42": "Prestige Magma Chamber Jax"
+      }
+    },
+    "Jayce": {
+      "skins": {
+        "5": "Battle Academia Jayce",
+        "15": "Resistance Jayce",
+        "25": "Zenith Games Jayce",
+        "34": "T1 Jayce",
+        "38": "Petals of Spring Jayce"
+      }
+    },
+    "Jhin": {
+      "skins": {
+        "1": "High Noon Jhin",
+        "14": "Shan Hai Scrolls Jhin",
+        "23": "DWG Jhin",
+        "25": "Empyrean Jhin",
+        "64": "Broken Covenant Jhin"
+      }
+    },
+    "Jinx": {
+      "skins": {
+        "2": "Firecracker Jinx",
+        "3": "Zombie Slayer Jinx",
+        "4": "Star Guardian Jinx",
+        "13": "Odyssey Jinx",
+        "20": "PROJECT: Jinx",
+        "29": "Heartseeker Jinx",
+        "38": "Battle Cat Jinx",
+        "62": "T1 Jinx",
+        "65": "Ocean Song Jinx"
+      }
+    },
+    "Kaisa": {
+      "skins": {
+        "1": "Bullet Angel Kai'Sa",
+        "16": "iG Kai'Sa",
+        "26": "K/DA ALL OUT Kai'Sa"
+      }
+    },
+    "Kalista": {
+      "skins": {
+        "2": "Worlds 2015 Kalista"
+      }
+    },
+    "Karma": {
+      "skins": {
+        "7": "Conqueror Karma",
+        "19": "Dawnbringer Karma",
+        "26": "Odyssey Karma",
+        "61": "Infernal Karma"
+      }
+    },
+    "Karthus": {
+      "skins": {
+        "3": "Grim Reaper Karthus",
+        "10": "Infernal Karthus",
+        "17": "Pentakill III: Lost Chapter Karthus"
+      }
+    },
+    "Kassadin": {
+      "skins": {
+        "6": "Count Kassadin",
+        "15": "Shockblade Kassadin",
+        "24": "Dragonmancer Kassadin"
+      }
+    },
+    "Katarina": {
+      "skins": {
+        "8": "Warring Kingdoms Katarina",
+        "21": "Blood Moon Katarina",
+        "37": "High Noon Katarina",
+        "59": "Chosen of the Wolf Katarina",
+        "60": "Prestige Masque of the Black Rose Katarina"
+      }
+    },
+    "Kayn": {
+      "skins": {
+        "15": "Snow Moon Kayn"
+      }
+    },
+    "Kennen": {
+      "skins": {
+        "4": "Kennen M.D.",
+        "8": "Infernal Kennen",
+        "23": "DWG Kennen"
+      }
+    },
+    "Khazix": {
+      "skins": {
+        "1": "Mecha Kha'Zix",
+        "60": "Odyssey Kha'Zix",
+        "79": "Crystalis Indomitus Kha'Zix"
+      }
+    },
+    "Kindred": {
+      "skins": {
+        "12": "Porcelain Kindred",
+        "23": "DRX Kindred",
+        "34": "Chosen of the Wolf Kindred"
+      }
+    },
+    "KogMaw": {
+      "skins": {
+        "19": "Arcanist Kog'Maw",
+        "28": "Bee'Maw",
+        "55": "Victorious Kog'Maw",
+        "65": "Prestige Classic Baron Kog'Maw"
+      }
+    },
+    "Leblanc": {
+      "skins": {
+        "2": "Prestigious LeBlanc",
+        "5": "Elderwood LeBlanc",
+        "19": "iG LeBlanc",
+        "29": "Worlds 2020 LeBlanc",
+        "55": "Risen Legend LeBlanc",
+        "59": "Prestige Sinful Shores LeBlanc"
+      }
+    },
+    "LeeSin": {
+      "skins": {
+        "3": "Dragon Fist Lee Sin",
+        "4": "Muay Thai Lee Sin",
+        "6": "SKT T1 Lee Sin",
+        "12": "Playmaker Lee Sin",
+        "29": "FPX Lee Sin",
+        "31": "Storm Dragon Lee Sin",
+        "68": "T1 Lee Sin",
+        "72": "Inkshadow Lee Sin"
+      }
+    },
+    "Leona": {
+      "skins": {
+        "4": "Pool Party Leona",
+        "12": "Mecha Kingdoms Leona",
+        "22": "DWG Leona",
+        "50": "Crystalis Motus Leona",
+        "52": "Battle Lion Leona"
+      }
+    },
+    "Lillia": {
+      "skins": {
+        "37": "Bowling League Lillia"
+      }
+    },
+    "Lissandra": {
+      "skins": {
+        "4": "Coven Lissandra",
+        "23": "Porcelain Lissandra",
+        "43": "Flora Fatalis Lissandra"
+      }
+    },
+    "Lucian": {
+      "skins": {
+        "6": "PROJECT: Lucian",
+        "25": "Victorious Lucian",
+        "31": "Arcana Lucian",
+        "52": "Winterblessed Lucian",
+        "62": "Masked Justice Lucian"
+      }
+    },
+    "Lulu": {
+      "skins": {
+        "3": "Dragon Trainer Lulu",
+        "5": "Pool Party Lulu",
+        "14": "Cosmic Enchantress Lulu"
+      }
+    },
+    "Lux": {
+      "skins": {
+        "8": "Lunar Empress Lux",
+        "29": "Porcelain Lux",
+        "38": "Soul Fighter Lux",
+        "42": "Empyrean Lux",
+        "70": "Prestige Spirit Blossom Lux"
+      }
+    },
+    "Malphite": {
+      "skins": {
+        "16": "Odyssey Malphite",
+        "25": "FPX Malphite",
+        "27": "Old God Malphite",
+        "37": "Lunar Guardian Malphite",
+        "48": "Pool Party Malphite"
+      }
+    },
+    "Malzahar": {
+      "skins": {
+        "5": "Snow Day Malzahar",
+        "9": "Worldbreaker Malzahar",
+        "28": "Debonair Malzahar",
+        "39": "Empyrean Malzahar",
+        "49": "Fatebreaker Malzahar"
+      }
+    },
+    "Maokai": {
+      "skins": {
+        "6": "Meowkai",
+        "16": "Worldbreaker Maokai",
+        "33": "DRX Maokai"
+      }
+    },
+    "MasterYi": {
+      "skins": {
+        "11": "Eternal Sword Yi",
+        "17": "Snow Man Yi",
+        "24": "Blood Moon Master Yi",
+        "42": "Debonair Master Yi",
+        "106": "Victorious Master Yi"
+      }
+    },
+    "Mel": {
+      "skins": {
+        "1": "Arcane Councilor Mel",
+        "10": "Prestige Winterblessed Mel"
+      }
+    },
+    "MissFortune": {
+      "skins": {
+        "7": "Arcade Miss Fortune",
+        "40": "Broken Covenant Miss Fortune",
+        "50": "Porcelain Miss Fortune",
+        "60": "Battle Queen Miss Fortune"
+      }
+    },
+    "MonkeyKing": {
+      "skins": {
+        "3": "Jade Dragon Wukong",
+        "4": "Underworld Wukong",
+        "16": "Elderwood Wukong",
+        "26": "Mecha Kingdoms Wukong"
+      }
+    },
+    "Mordekaiser": {
+      "skins": {
+        "42": "Ashen Graveknight Mordekaiser",
+        "55": "Prestige Money Miser Mordekaiser"
+      }
+    },
+    "Morgana": {
+      "skins": {
+        "4": "Blackthorn Morgana",
+        "70": "Porcelain Morgana",
+        "81": "Prestige Veiled Lady Morgana"
+      }
+    },
+    "Naafiri": {
+      "skins": {
+        "1": "Soul Fighter Naafiri",
+        "20": "Glizzy Naafiri",
+        "29": "Warhound Naafiri"
+      }
+    },
+    "Nami": {
+      "skins": {
+        "1": "Koi Nami",
+        "9": "Program Nami",
+        "24": "Cosmic Destiny Nami",
+        "58": "Mythmaker Nami"
+      }
+    },
+    "Nasus": {
+      "skins": {
+        "3": "Dreadknight Nasus",
+        "11": "Lunar Guardian Nasus",
+        "16": "Battlecast Nasus",
+        "35": "Armored Titan Nasus",
+        "54": "Fatemaker Nasus"
+      }
+    },
+    "Nautilus": {
+      "skins": {
+        "3": "AstroNautilus",
+        "9": "Shan Hai Scrolls Nautilus",
+        "27": "Cosmic Paladin Nautilus",
+        "36": "Crystalis Indomitus Nautilus",
+        "39": "Petricite Nautilus"
+      }
+    },
+    "Neeko": {
+      "skins": {
+        "31": "Street Demons Neeko",
+        "40": "Cosplayer Neeko"
+      }
+    },
+    "Nidalee": {
+      "skins": {
+        "8": "Challenger Nidalee",
+        "11": "Dawnbringer Nidalee",
+        "18": "Cosmic Huntress Nidalee",
+        "27": "DWG Nidalee",
+        "29": "Ocean Song Nidalee",
+        "58": "Spirit Blossom Nidalee"
+      }
+    },
+    "Nilah": {
+      "skins": {
+        "1": "Star Guardian Nilah",
+        "11": "Coven Nilah",
+        "21": "Inkshadow Nilah"
+      }
+    },
+    "Nocturne": {
+      "skins": {
+        "7": "Old God Nocturne",
+        "17": "Broken Covenant Nocturne",
+        "26": "Empyrean Nocturne"
+      }
+    },
+    "Nunu": {
+      "skins": {
+        "44": "Fright Night Nunu & Willump"
+      }
+    },
+    "Olaf": {
+      "skins": {
+        "3": "Brolaf",
+        "16": "Dragonslayer Olaf",
+        "25": "Sentinel Olaf",
+        "35": "Pentakill III: Lost Chapter Olaf",
+        "44": "Infernal Olaf"
+      }
+    },
+    "Orianna": {
+      "skins": {
+        "7": "Dark Star Orianna",
+        "8": "Victorious Orianna",
+        "20": "Orbeeanna",
+        "29": "Star Guardian Orianna",
+        "38": "T1 Orianna",
+        "40": "Risen Legend Orianna"
+      }
+    },
+    "Ornn": {
+      "skins": {
+        "2": "Elderwood Ornn",
+        "20": "Choo-Choo Ornn"
+      }
+    },
+    "Pantheon": {
+      "skins": {
+        "36": "Ashen Conqueror Pantheon"
+      }
+    },
+    "Poppy": {
+      "skins": {
+        "5": "Battle Regalia Poppy",
+        "33": "Cafe Cuties Poppy",
+        "42": "Firecracker Poppy"
+      }
+    },
+    "Pyke": {
+      "skins": {
+        "1": "Sand Wraith Pyke",
+        "9": "Blood Moon Pyke",
+        "25": "PsyOps Pyke",
+        "34": "Sentinel Pyke",
+        "44": "Ashen Knight Pyke",
+        "53": "Soul Fighter Pyke",
+        "64": "Fright Night Pyke",
+        "75": "T1 Pyke"
+      }
+    },
+    "Quinn": {
+      "skins": {
+        "5": "Warden Quinn",
+        "14": "Star Guardian Quinn"
+      }
+    },
+    "Rakan": {
+      "skins": {
+        "3": "SSG Rakan",
+        "4": "iG Rakan",
+        "47": "Battle Academia Rakan"
+      }
+    },
+    "Rammus": {
+      "skins": {
+        "8": "Sweeper Rammus"
+      }
+    },
+    "RekSai": {
+      "skins": {
+        "2": "Pool Party Rek'Sai",
+        "9": "Blackfrost Rek'Sai",
+        "17": "Elderwood Rek'Sai"
+      }
+    },
+    "Renekton": {
+      "skins": {
+        "9": "Renektoy",
+        "18": "Blackfrost Renekton",
+        "48": "Inkshadow Renekton"
+      }
+    },
+    "Rengar": {
+      "skins": {
+        "1": "Headhunter Rengar",
+        "8": "Mecha Rengar",
+        "15": "Pretty Kitty Rengar",
+        "23": "Guardian of the Sands Rengar",
+        "30": "Sentinel Rengar"
+      }
+    },
+    "Riven": {
+      "skins": {
+        "3": "Battle Bunny Riven",
+        "5": "Dragonblade Riven",
+        "6": "Arcade Riven",
+        "7": "Reignited Worlds 2012 Riven",
+        "16": "Dawnbringer Riven",
+        "18": "Pulsefire Riven",
+        "23": "Spirit Blossom Riven",
+        "34": "Sentinel Riven"
+      }
+    },
+    "Rumble": {
+      "skins": {
+        "4": "Badlands Baron Rumble",
+        "13": "Space Groove Rumble",
+        "23": "Cafe Cuties Rumble"
+      }
+    },
+    "Ryze": {
+      "skins": {
+        "10": "SKT T1 Ryze",
+        "11": "Worlds 2019 Ryze",
+        "13": "Guardian of the Sands Ryze",
+        "29": "Blood Moon Ryze"
+      }
+    },
+    "Sejuani": {
+      "skins": {
+        "5": "Poro Rider Sejuani"
+      }
+    },
+    "Senna": {
+      "skins": {
+        "26": "Lunar Eclipse Senna"
+      }
+    },
+    "Sett": {
+      "skins": {
+        "1": "Mecha Kingdoms Sett",
+        "45": "Soul Fighter Sett",
+        "56": "HEARTSTEEL Sett",
+        "67": "Spirit Blossom Springs Sett",
+        "76": "Prestige HEARTSTEEL Live My Life Sett"
+      }
+    },
+    "Shaco": {
+      "skins": {
+        "8": "Dark Star Shaco",
+        "23": "Crime City Nightmare Shaco",
+        "33": "Winterblessed Shaco",
+        "43": "Soul Fighter Shaco",
+        "54": "Fright Night Shaco",
+        "71": "Prestige Pandemonium Shaco"
+      }
+    },
+    "Shen": {
+      "skins": {
+        "3": "Surgeon Shen",
+        "5": "Warlord Shen",
+        "15": "Pulsefire Shen",
+        "16": "Infernal Shen",
+        "22": "PsyOps Shen",
+        "40": "Shockblade Shen",
+        "49": "Ashen Guardian Shen",
+        "54": "Broken Covenant Shen"
+      }
+    },
+    "Shyvana": {
+      "skins": {
+        "5": "Worlds 2014 Shyvana",
+        "8": "Ruined Shyvana"
+      }
+    },
+    "Sion": {
+      "skins": {
+        "14": "Worldbreaker Sion",
+        "22": "Blackfrost Sion",
+        "40": "Cosmic Paladin Sion"
+      }
+    },
+    "Sivir": {
+      "skins": {
+        "6": "Snowstorm Sivir",
+        "10": "Pizza Delivery Sivir",
+        "16": "Blood Moon Sivir",
+        "25": "Odyssey Sivir",
+        "50": "Mythmaker Sivir",
+        "61": "Primal Ambush Sivir"
+      }
+    },
+    "Skarner": {
+      "skins": {
+        "5": "Cosmic Sting Skarner"
+      }
+    },
+    "Smolder": {
+      "skins": {
+        "11": "Reindeer Smolder"
+      }
+    },
+    "Sona": {
+      "skins": {
+        "4": "Guqin Sona",
+        "5": "Arcade Sona",
+        "9": "Odyssey Sona",
+        "26": "Pentakill III: Lost Chapter Sona",
+        "66": "Spirit Blossom Springs Sona",
+        "75": "Prestige Requiem Sona"
+      }
+    },
+    "Soraka": {
+      "skins": {
+        "4": "Reaper Soraka",
+        "9": "Winter Wonder Soraka",
+        "44": "Faerie Court Soraka",
+        "63": "Ocean Song Soraka"
+      }
+    },
+    "Swain": {
+      "skins": {
+        "4": "Dragon Master Swain",
+        "12": "Crystal Rose Swain",
+        "21": "Winterblessed Swain",
+        "32": "Chosen of the Wolf Swain"
+      }
+    },
+    "Sylas": {
+      "skins": {
+        "1": "Lunar Wraith Sylas",
+        "8": "Freljord Sylas",
+        "13": "PROJECT: Sylas",
+        "34": "Ashen Slayer Sylas"
+      }
+    },
+    "Syndra": {
+      "skins": {
+        "5": "SKT T1 Syndra",
+        "6": "Star Guardian Syndra",
+        "7": "Pool Party Syndra",
+        "16": "Withered Rose Syndra",
+        "25": "Bewitching Syndra",
+        "65": "Dumpling Darlings Syndra"
+      }
+    },
+    "TahmKench": {
+      "skins": {
+        "11": "Arcana Tahm Kench",
+        "20": "High Noon Tahm Kench",
+        "30": "Shan Hai Scrolls Tahm Kench",
+        "39": "Choncc Kench"
+      }
+    },
+    "Taliyah": {
+      "skins": {
+        "1": "Freljord Taliyah",
+        "2": "SSG Taliyah",
+        "3": "Pool Party Taliyah",
+        "21": "Crystalis Motus Taliyah"
+      }
+    },
+    "Talon": {
+      "skins": {
+        "3": "Dragonblade Talon",
+        "12": "Enduring Sword Talon",
+        "20": "Talon Blackwood",
+        "38": "High Noon Talon"
+      }
+    },
+    "Taric": {
+      "skins": {
+        "4": "Pool Party Taric",
+        "9": "Taric Luminshield",
+        "18": "Space Groove Taric",
+        "27": "Fatebreaker Taric"
+      }
+    },
+    "Teemo": {
+      "skins": {
+        "4": "Astronaut Teemo",
+        "5": "Cottontail Teemo",
+        "8": "Omega Squad Teemo"
+      }
+    },
+    "Thresh": {
+      "skins": {
+        "2": "Worlds 2013 Thresh",
+        "5": "Dark Star Thresh",
+        "6": "High Noon Thresh",
+        "15": "FPX Thresh",
+        "28": "Steel Dragon Thresh",
+        "49": "Winterblessed Thresh"
+      }
+    },
+    "Tristana": {
+      "skins": {
+        "6": "Rocket Girl Tristana",
+        "10": "Dragon Trainer Tristana",
+        "12": "Omega Squad Tristana",
+        "33": "Pengu Cosplay Tristana",
+        "41": "Firecracker Tristana"
+      }
+    },
+    "Trundle": {
+      "skins": {
+        "6": "Dragonslayer Trundle",
+        "12": "Fright Night Trundle"
+      }
+    },
+    "Tryndamere": {
+      "skins": {
+        "10": "Blood Moon Tryndamere",
+        "18": "Nightbringer Tryndamere",
+        "27": "Victorious Tryndamere",
+        "37": "Visions of the Fallen Tryndamere"
+      }
+    },
+    "TwistedFate": {
+      "skins": {
+        "11": "Pulsefire Twisted Fate",
+        "23": "DWG Twisted Fate",
+        "25": "Crime City Nightmare Twisted Fate",
+        "36": "Space Groove Twisted Fate"
+      }
+    },
+    "Twitch": {
+      "skins": {
+        "3": "Medieval Twitch",
+        "8": "Omega Squad Twitch",
+        "12": "Ice King Twitch",
+        "55": "Cheddar Chief Twitch"
+      }
+    },
+    "Urgot": {
+      "skins": {
+        "3": "Battlecast Urgot",
+        "9": "High Noon Urgot",
+        "32": "Urgot the Clogfather"
+      }
+    },
+    "Varus": {
+      "skins": {
+        "6": "Dark Star Varus",
+        "7": "Conqueror Varus",
+        "9": "Infernal Varus",
+        "16": "PROJECT: Varus",
+        "44": "Snow Moon Varus",
+        "53": "Empyrean Varus",
+        "60": "Spirit Blossom Varus",
+        "69": "T1 Varus"
+      }
+    },
+    "Vayne": {
+      "skins": {
+        "5": "SKT T1 Vayne",
+        "10": "Soulstealer Vayne",
+        "12": "Firecracker Vayne",
+        "15": "FPX Vayne",
+        "32": "Battle Bat Vayne",
+        "44": "Dawnbringer Vayne",
+        "64": "Risen Legend Vayne"
+      }
+    },
+    "Veigar": {
+      "skins": {
+        "8": "Final Boss Veigar",
+        "13": "Elderwood Veigar",
+        "32": "Astronaut Veigar"
+      }
+    },
+    "Velkoz": {
+      "skins": {
+        "4": "Infernal Vel'Koz",
+        "11": "Blackfrost Vel'Koz"
+      }
+    },
+    "Vi": {
+      "skins": {
+        "2": "Officer Vi",
+        "12": "Heartbreaker Vi",
+        "20": "PsyOps Vi",
+        "30": "Heartache Vi",
+        "49": "T1 Vi"
+      }
+    },
+    "Viego": {
+      "skins": {
+        "1": "Lunar Beast Viego",
+        "10": "Dissonance of Pentakill Viego",
+        "19": "EDG Viego",
+        "21": "King Viego"
+      }
+    },
+    "Viktor": {
+      "skins": {
+        "5": "PsyOps Viktor",
+        "14": "High Noon Viktor"
+      }
+    },
+    "Vladimir": {
+      "skins": {
+        "8": "Dark Waters Vladimir",
+        "14": "Nightbringer Vladimir",
+        "21": "Cosmic Devourer Vladimir",
+        "49": "PsyOps Vladimir"
+      }
+    },
+    "Warwick": {
+      "skins": {
+        "1": "Grey Warwick",
+        "35": "Old God Warwick",
+        "56": "Arcane Vander Warwick",
+        "58": "Warhound Warwick"
+      }
+    },
+    "Xayah": {
+      "skins": {
+        "3": "SSG Xayah",
+        "4": "Star Guardian Xayah"
+      }
+    },
+    "Xerath": {
+      "skins": {
+        "5": "Dark Star Xerath",
+        "12": "Arcana Xerath",
+        "30": "Crystalis Indomitus Xerath"
+      }
+    },
+    "XinZhao": {
+      "skins": {
+        "5": "Warring Kingdoms Xin Zhao",
+        "13": "Dragonslayer Xin Zhao",
+        "20": "Cosmic Defender Xin Zhao",
+        "36": "Firecracker Xin Zhao",
+        "47": "Trials of Twilight Xin Zhao"
+      }
+    },
+    "Yasuo": {
+      "skins": {
+        "1": "High Noon Yasuo",
+        "9": "Nightbringer Yasuo",
+        "17": "Battle Boss Yasuo"
+      }
+    },
+    "Yone": {
+      "skins": {
+        "74": "T1 Yone"
+      }
+    },
+    "Yorick": {
+      "skins": {
+        "40": "Dark Star Yorick",
+        "50": "High Noon Yorick"
+      }
+    },
+    "Yuumi": {
+      "skins": {
+        "70": "Firecracker Yuumi"
+      }
+    },
+    "Zaahen": {
+      "skins": {
+        "1": "Immortal Journey Zaahen"
+      }
+    },
+    "Zac": {
+      "skins": {
+        "7": "Battlecast Zac",
+        "24": "Zesty Dip Zac"
+      }
+    },
+    "Zed": {
+      "skins": {
+        "1": "Shockblade Zed",
+        "2": "SKT T1 Zed",
+        "3": "PROJECT: Zed",
+        "10": "Worlds 2016 Zed",
+        "15": "PsyOps Zed",
+        "38": "Empyrean Zed",
+        "69": "Prestige Spirit Blossom Zed"
+      }
+    },
+    "Zeri": {
+      "skins": {
+        "10": "Ocean Song Zeri"
+      }
+    },
+    "Ziggs": {
+      "skins": {
+        "24": "BZZZiggs",
+        "43": "Firecracker Ziggs"
+      }
+    },
+    "Zilean": {
+      "skins": {
+        "14": "Winterblessed Zilean"
+      }
+    },
+    "Zoe": {
+      "skins": {
+        "9": "Star Guardian Zoe",
+        "20": "EDG Zoe"
+      }
+    },
+    "Zyra": {
+      "skins": {
+        "3": "SKT T1 Zyra",
+        "5": "Coven Zyra",
+        "16": "Crime City Nightmare Zyra",
+        "64": "Spirit Blossom Zyra"
+      }
+    }
+  }
+}
