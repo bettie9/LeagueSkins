@@ -29,6 +29,8 @@ Download individual `.fantome` packages here, or browse and install them directl
 
 **Choose the collection for your game mode.** Packages in `skins/` target normal LoL champions. Packages in `classic/` target the `Jade_*` champions used by League Classic; they do not turn normal LoL champions into their Classic versions.
 
+**[PBE previews for live League](PBE/README.md):** 5 skins and 28 chromas, tested on live 16.20. Import these separate packages manually; enable one PBE package at a time.
+
 ## Use with Sunshine
 
 1. Install [Sunshine](https://github.com/bettie9/Sunshine/releases/latest) and configure your League installation in **Settings → Game setup**.
