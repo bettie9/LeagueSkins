@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11",
-  "sourcePatch": "16.21",
-  "sourceBuild": "16.21.8268295+branch.main.content.beta",
+  "updatedAt": "2026-10-21",
+  "sourcePatch": "16.22",
+  "sourceBuild": "16.22.8301522+branch.main.content.beta",
   "targetGameVersion": "16.20.824.8524",
-  "manifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
-  "skinCount": 5,
-  "chromaCount": 28,
-  "packageCount": 33,
+  "manifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest",
+  "skinCount": 10,
+  "chromaCount": 50,
+  "packageCount": 60,
   "onePbePackageAtATime": false,
   "runtimeVerification": {
     "basis": "maintainer report",
@@ -21,7 +21,43 @@
       "date": "2026-10-11",
       "all33PackagesConfirmedWorking": true,
       "perAbilityChecklistRecorded": false
-    }
+    },
+    "packageIds": [
+      84103,
+      84105,
+      84106,
+      84107,
+      84108,
+      84109,
+      84110,
+      157097,
+      157098,
+      157099,
+      157100,
+      157101,
+      157102,
+      235081,
+      235082,
+      235083,
+      235084,
+      235085,
+      235086,
+      235087,
+      235088,
+      235089,
+      245059,
+      245060,
+      246051,
+      246052,
+      246053,
+      246054,
+      246055,
+      246056,
+      246057,
+      246058,
+      246059
+    ],
+    "scope": "Prior 33 packages only; their champion resources are unchanged. The 27 new packages have not been tested in game."
   },
   "packages": [
     {
@@ -31,9 +67,9 @@
       "championId": 84,
       "chroma": false,
       "path": "Akali/True Damage Know My Name Akali.fantome",
-      "bytes": 22039675,
-      "sha256": "d88b71feccd5e4437db7a6d71dca5c320ef04aef62c32d398fe93e5d961546b9",
-      "version": "0.2.1",
+      "bytes": 28843312,
+      "sha256": "a85de7738a36556bdcfba7b0088e1d977cafbe86230f103bca92a097ffb86609",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -52,7 +88,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 84108,
@@ -61,9 +100,9 @@
       "championId": 84,
       "chroma": true,
       "path": "Akali/True Damage Know My Name Akali/Catseye.fantome",
-      "bytes": 21985227,
-      "sha256": "b05f0df47694d2f8502db1a7444824cf4dbbf14c182c6d6630d82095ee1a4ca9",
-      "version": "0.2.1",
+      "bytes": 28788864,
+      "sha256": "996547e9079059c186c8169d5d2b783fab1dcecac2dc9640034aa775c8ccad8b",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -83,7 +122,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 84110,
@@ -92,9 +134,9 @@
       "championId": 84,
       "chroma": true,
       "path": "Akali/True Damage Know My Name Akali/Obsidian.fantome",
-      "bytes": 21962658,
-      "sha256": "0dae49219027069237212a2ca66bf6155c040d5fd97e706eb3a5907f8d229db9",
-      "version": "0.2.1",
+      "bytes": 28766295,
+      "sha256": "804f125c79229b67a44905ea01117854142c1346e671b4a01583c24dac45566d",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -114,7 +156,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 84109,
@@ -123,9 +168,9 @@
       "championId": 84,
       "chroma": true,
       "path": "Akali/True Damage Know My Name Akali/Pearl.fantome",
-      "bytes": 22038067,
-      "sha256": "8da00530486495925a0f7684be3b3416311f2473aa2da84eb0102a42215dc3a9",
-      "version": "0.2.1",
+      "bytes": 28841704,
+      "sha256": "d69f12b23c02d64b53390d3cedab1e1582686af46f80874b44a8cf77f1d7d8c4",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -145,7 +190,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 84106,
@@ -154,9 +202,9 @@
       "championId": 84,
       "chroma": true,
       "path": "Akali/True Damage Know My Name Akali/Rose Quartz.fantome",
-      "bytes": 22010258,
-      "sha256": "6db26d044da7b2acced8f4992fd3bd47fb5696b121e9379815a8688fb3a8d7a0",
-      "version": "0.2.1",
+      "bytes": 28813895,
+      "sha256": "d3b74905936cc020484a8743a1b2b3a1fd85c1c975cfa4a3907cad48cb87cb81",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -176,7 +224,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 84105,
@@ -185,9 +236,9 @@
       "championId": 84,
       "chroma": true,
       "path": "Akali/True Damage Know My Name Akali/Ruby.fantome",
-      "bytes": 21987632,
-      "sha256": "172c69e6a1c904eaea32e678d7ebef5a504777f51f9789f0a5023975aa8a09ec",
-      "version": "0.2.1",
+      "bytes": 28791269,
+      "sha256": "1edae800c669377bbec91b92f62ff1f966140678b1969be06d3bfe3e9e00a6a3",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -207,7 +258,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 84107,
@@ -216,9 +270,9 @@
       "championId": 84,
       "chroma": true,
       "path": "Akali/True Damage Know My Name Akali/Sapphire.fantome",
-      "bytes": 22027348,
-      "sha256": "422f6199e47a133d0bec7a8ba77cb99584ad3f656538a37cbd8ec0bace112225",
-      "version": "0.2.1",
+      "bytes": 28830985,
+      "sha256": "dbc24619887c495d0cd683e4c6d9fadf4a867344eb4a906f2294cb84710ab6da",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -238,7 +292,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 245059,
@@ -247,9 +304,9 @@
       "championId": 245,
       "chroma": false,
       "path": "Ekko/Prestige True Damage Know My Name Ekko.fantome",
-      "bytes": 17624670,
-      "sha256": "a1284ac05335c15e88b254fa23fd5318e68e3624f52035c2607953402d92626e",
-      "version": "0.2.1",
+      "bytes": 24428307,
+      "sha256": "63230a6bcc8e9eab65a93568109610b898be0a554797c7839d66fd04039a2a99",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -268,7 +325,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 245060,
@@ -277,9 +337,9 @@
       "championId": 245,
       "chroma": true,
       "path": "Ekko/Prestige True Damage Know My Name Ekko/Vivid.fantome",
-      "bytes": 17617824,
-      "sha256": "70e6e0508da8a34c0db172696fea408d7aad9c6c8a5bb95f44b7f753b4d0c4f3",
-      "version": "0.2.1",
+      "bytes": 24421461,
+      "sha256": "fb55ff8ef53bf093011dd88b4e8b3f4702de0b066453f6241a69a2a9b952faba",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -299,7 +359,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 246051,
@@ -308,9 +371,9 @@
       "championId": 246,
       "chroma": false,
       "path": "Qiyana/True Damage Know My Name Qiyana.fantome",
-      "bytes": 19128070,
-      "sha256": "602f9803261ed2a40f374200de27ba32a8b9885231bf636ecebfea2bfb77ec85",
-      "version": "0.2.1",
+      "bytes": 25931707,
+      "sha256": "9dbbf168a0ec900125f67a24ce306a8fec5c59e49a5d4b09434731f3d82f2806",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -329,7 +392,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 246055,
@@ -338,9 +404,9 @@
       "championId": 246,
       "chroma": true,
       "path": "Qiyana/True Damage Know My Name Qiyana/Catseye.fantome",
-      "bytes": 19138867,
-      "sha256": "fef809ccd1bd2502f57668c399267f07562200a11adb93bdc88e9b9b9289535a",
-      "version": "0.2.1",
+      "bytes": 25942504,
+      "sha256": "9e3668e9bf55274259d116cc809b74feb90fdb5f1ee3b125b88e225d18309c10",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -360,7 +426,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 246057,
@@ -369,9 +438,9 @@
       "championId": 246,
       "chroma": true,
       "path": "Qiyana/True Damage Know My Name Qiyana/Obsidian.fantome",
-      "bytes": 19065388,
-      "sha256": "142280527af7f79a45c9da5de1381da1811d4cd0151bbe27f97fc495b673fdd9",
-      "version": "0.2.1",
+      "bytes": 25869025,
+      "sha256": "125f352da7d50346f121361590f4993e1f1e37d067922e0c20eff81de9395deb",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -391,7 +460,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 246054,
@@ -400,9 +472,9 @@
       "championId": 246,
       "chroma": true,
       "path": "Qiyana/True Damage Know My Name Qiyana/Pearl.fantome",
-      "bytes": 19150666,
-      "sha256": "a1a0ef22650e362691c60415a09ba7eaff109b1c5229c3e9a10315526c118b30",
-      "version": "0.2.1",
+      "bytes": 25954303,
+      "sha256": "ee92f261fc829fbd001fc0d5a15e081cb5bc5ffa0ca7b439c28ea6e324d019fe",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -422,7 +494,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 246058,
@@ -431,9 +506,9 @@
       "championId": 246,
       "chroma": true,
       "path": "Qiyana/True Damage Know My Name Qiyana/Rose Quartz.fantome",
-      "bytes": 19132961,
-      "sha256": "a893b72effced302dbe0f45761f1592bdd600e0921e1bd053eb670dde57364f8",
-      "version": "0.2.1",
+      "bytes": 25936598,
+      "sha256": "05cae4e747fe597f75b6da483647925468471016ce3d775b465a3fb96b1b1b45",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -453,7 +528,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 246052,
@@ -462,9 +540,9 @@
       "championId": 246,
       "chroma": true,
       "path": "Qiyana/True Damage Know My Name Qiyana/Ruby.fantome",
-      "bytes": 19133116,
-      "sha256": "233e77edbfe3242032437d2c27216294325f07fdaddec3cc362b8ed834588807",
-      "version": "0.2.1",
+      "bytes": 25936753,
+      "sha256": "a90276bd0ddf2010f115f7e61b23c20d9cef0d9dc14176b505026a76c8ae6bf8",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -484,7 +562,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 246059,
@@ -493,9 +574,9 @@
       "championId": 246,
       "chroma": true,
       "path": "Qiyana/True Damage Know My Name Qiyana/Sapphire.fantome",
-      "bytes": 19166277,
-      "sha256": "3eb2d7987f4b236ab12240aab0ad1faee1a15d1e92437000e9b37b88270e683a",
-      "version": "0.2.1",
+      "bytes": 25969914,
+      "sha256": "ba1b1af3d1b52e99daf51f5f99938df17cad7640de2edcd5742853fe529581d6",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -515,7 +596,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 246053,
@@ -524,9 +608,9 @@
       "championId": 246,
       "chroma": true,
       "path": "Qiyana/True Damage Know My Name Qiyana/Tanzanite.fantome",
-      "bytes": 19138779,
-      "sha256": "6ccd318df82c3005eca9003e7714aaa9db59056b285e76020026c669df609169",
-      "version": "0.2.1",
+      "bytes": 25942416,
+      "sha256": "b32569c49a3f0edb0592363ce151aaa6622ab7ae755f129d5792f6b5389f5795",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -546,7 +630,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 246056,
@@ -555,9 +642,9 @@
       "championId": 246,
       "chroma": true,
       "path": "Qiyana/True Damage Know My Name Qiyana/Turquoise.fantome",
-      "bytes": 19169632,
-      "sha256": "a38894cced92bc4b9c95c31ab1a2d73470f36073adfcd5e9d6a52c37bec9f06b",
-      "version": "0.2.1",
+      "bytes": 25973269,
+      "sha256": "dff460c0213e6b054e2290d4c9f2050de9e31254e077e51652be7c5cad4dd1a8",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -577,7 +664,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 235081,
@@ -586,9 +676,9 @@
       "championId": 235,
       "chroma": false,
       "path": "Senna/True Damage Know My Name Senna.fantome",
-      "bytes": 22542155,
-      "sha256": "144999ea285af94e4274405e4ce77a163aa1dcfb17a802197189bd8973d7e014",
-      "version": "0.2.1",
+      "bytes": 29345792,
+      "sha256": "6c3107811a75ddf37cc7a715a3e1807e6171862ae2f574b3b218bb488abf35d0",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -607,7 +697,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 235085,
@@ -616,9 +709,9 @@
       "championId": 235,
       "chroma": true,
       "path": "Senna/True Damage Know My Name Senna/Catseye.fantome",
-      "bytes": 22491971,
-      "sha256": "e84b19a79b91b95981f9c2bbf756aa4c4b57fba57e263687ee8705226905dcdb",
-      "version": "0.2.1",
+      "bytes": 29295608,
+      "sha256": "aebe50902bbf7ff352524e7b726cab2a59d76ee1275db013e479a2b9d9830373",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -638,7 +731,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 235089,
@@ -647,9 +743,9 @@
       "championId": 235,
       "chroma": true,
       "path": "Senna/True Damage Know My Name Senna/Obsidian.fantome",
-      "bytes": 22495308,
-      "sha256": "1baf7b9a62a5ce7c961c9d761036fa5960846a4c265adca1ca11f7692369e874",
-      "version": "0.2.1",
+      "bytes": 29298945,
+      "sha256": "16c177a940a29c0f883d9ac0abc604fdbb513772fc97adb61e1f92f1a213fcf4",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -669,7 +765,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 235088,
@@ -678,9 +777,9 @@
       "championId": 235,
       "chroma": true,
       "path": "Senna/True Damage Know My Name Senna/Pearl.fantome",
-      "bytes": 22578503,
-      "sha256": "b4b2ffdd5bd38bccc2a9fe3e860be6809f0003b2ce88b200465b71e5bc7e33d2",
-      "version": "0.2.1",
+      "bytes": 29382140,
+      "sha256": "e634069d5ebf8eeea61ba39897fad7c01e4689573b24b6271151fd2e211e2e32",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -700,7 +799,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 235083,
@@ -709,9 +811,9 @@
       "championId": 235,
       "chroma": true,
       "path": "Senna/True Damage Know My Name Senna/Rose Quartz.fantome",
-      "bytes": 22564019,
-      "sha256": "13ecce3c1e9e84aba3ee9b20963811bb4304ad48bf1db43d8df5afc03286e854",
-      "version": "0.2.1",
+      "bytes": 29367656,
+      "sha256": "46f548b9ee1881dec5c53fad1be3872d2de6198c664d4c544e07929038a35eec",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -731,7 +833,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 235082,
@@ -740,9 +845,9 @@
       "championId": 235,
       "chroma": true,
       "path": "Senna/True Damage Know My Name Senna/Ruby.fantome",
-      "bytes": 22498185,
-      "sha256": "8c4c26b37e723cd3d7c73526ca126f496c9fb33ff7fc46a51107bd98edc6bc0b",
-      "version": "0.2.1",
+      "bytes": 29301822,
+      "sha256": "253052d5d516ed3f9775bd3022effdd572882c0baf43b427fdfceae1eb326459",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -762,7 +867,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 235084,
@@ -771,9 +879,9 @@
       "championId": 235,
       "chroma": true,
       "path": "Senna/True Damage Know My Name Senna/Sapphire.fantome",
-      "bytes": 22528774,
-      "sha256": "909a3a97f0e85e9126cedb76c3fa0fa716bbdefb1da19593881c71856885a42c",
-      "version": "0.2.1",
+      "bytes": 29332411,
+      "sha256": "da99fc0bb0142a1586454529903354fa5a20c3691434e9eb34f5221b15b040fd",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -793,7 +901,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 235087,
@@ -802,9 +913,9 @@
       "championId": 235,
       "chroma": true,
       "path": "Senna/True Damage Know My Name Senna/Tanzanite.fantome",
-      "bytes": 22530815,
-      "sha256": "2d338fe781d4378053cae9d28bfc4a3b3b2351e977b0935b20dc14f4e94966e5",
-      "version": "0.2.1",
+      "bytes": 29334452,
+      "sha256": "8e262e04617220070e503a504adde72dabe1cb31aa2ec875d7d6564f19ef0d68",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -824,7 +935,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 235086,
@@ -833,9 +947,9 @@
       "championId": 235,
       "chroma": true,
       "path": "Senna/True Damage Know My Name Senna/Turquoise.fantome",
-      "bytes": 22583138,
-      "sha256": "0369411a2b90e50132e76ba344b8d2454d2af7cebba9cc7ab5de58bc57008b9b",
-      "version": "0.2.1",
+      "bytes": 29386775,
+      "sha256": "5e44961787f982e65a4055500266cd84e06152ece1b733fa31666585ddfb9cbb",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -855,7 +969,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 157097,
@@ -864,9 +981,9 @@
       "championId": 157,
       "chroma": false,
       "path": "Yasuo/True Damage Know My Name Yasuo.fantome",
-      "bytes": 16426874,
-      "sha256": "84c613e1166ee4d69122cc7f2896df699922fe1003718ba07f854382157f9436",
-      "version": "0.2.1",
+      "bytes": 23230511,
+      "sha256": "8defa5e9ac620a043fdf0fb515f0d4e263a28b794df5fa0af9a56c4c9578a0cc",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -885,7 +1002,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 157099,
@@ -894,9 +1014,9 @@
       "championId": 157,
       "chroma": true,
       "path": "Yasuo/True Damage Know My Name Yasuo/Momentous.fantome",
-      "bytes": 16418218,
-      "sha256": "aa5361482216d9aa56f4d53ca705321555703903ce656442286ae2437b6c939d",
-      "version": "0.2.1",
+      "bytes": 23221855,
+      "sha256": "c82bdcc11153c093fbf1a3b287b3b76a402d78be21724edbf394a8e3be008eab",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -916,7 +1036,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 157102,
@@ -925,9 +1048,9 @@
       "championId": 157,
       "chroma": true,
       "path": "Yasuo/True Damage Know My Name Yasuo/Obsidian.fantome",
-      "bytes": 16377679,
-      "sha256": "bfa4ab217dade3db12942a1333502451aa952597cffa1e9a0ec4d494889bb4ce",
-      "version": "0.2.1",
+      "bytes": 23181316,
+      "sha256": "be53e467a27e83f9a61044240d4182ea97ad3a9e85838beb89a04361cfc0ad46",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -947,7 +1070,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 157101,
@@ -956,9 +1082,9 @@
       "championId": 157,
       "chroma": true,
       "path": "Yasuo/True Damage Know My Name Yasuo/Rose Quartz.fantome",
-      "bytes": 16397106,
-      "sha256": "354cdfaaebbc15857ebbf833d87a546b11ce6e661114b93b1093596669c3088a",
-      "version": "0.2.1",
+      "bytes": 23200743,
+      "sha256": "89704d0f457a45ae0f1b5f082fd0bd798eacc65911c24dea5f2c08c0a4694dde",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -978,7 +1104,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 157100,
@@ -987,9 +1116,9 @@
       "championId": 157,
       "chroma": true,
       "path": "Yasuo/True Damage Know My Name Yasuo/Ruby.fantome",
-      "bytes": 16322965,
-      "sha256": "092c23a1b20cb21ee005dcdd59793cc011b4e586f551d91515f3c2d905d399f4",
-      "version": "0.2.1",
+      "bytes": 23126602,
+      "sha256": "76c4bdbc2d6d2c2aaebd8f2dd0f475bedc32223e41393c361e19ede6c709cff1",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -1009,7 +1138,10 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
     },
     {
       "id": 157098,
@@ -1018,9 +1150,9 @@
       "championId": 157,
       "chroma": true,
       "path": "Yasuo/True Damage Know My Name Yasuo/Unlocked.fantome",
-      "bytes": 16380212,
-      "sha256": "0481a78e0c796a3a40daceafff43a1a4ad780bbd951cca7df0992f10655f766e",
-      "version": "0.2.1",
+      "bytes": 23183849,
+      "sha256": "d52f476c61b7328a30a7f069ee0f9432c9a7edc9f98b7e32d59a6eb5150af91b",
+      "version": "0.3.0",
       "targetSkinId": 0,
       "runtimeVerified": true,
       "runtimeEvidence": "maintainer-approved-optimized-collection-2026-10-11",
@@ -1040,7 +1172,437 @@
         "resourceHashesAndCompressedPayloadsUnchanged": true,
         "voiceLanguage": "en_US",
         "packageLayoutRuntimeVerified": false
-      }
+      },
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+      "priorGameplayResourcesPreserved": true
+    },
+    {
+      "id": 28065,
+      "name": "K/DA FIRESTARTER Evelynn",
+      "champion": "Evelynn",
+      "chroma": false,
+      "bytes": 37450495,
+      "sha256": "50af9c5de698a585f972c19555d02a586e98fd4cec1d3bb7569282dc92993eeb",
+      "championId": 28,
+      "path": "Evelynn/K_DA FIRESTARTER Evelynn.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 28066,
+      "name": "K/DA Hitmaker Evelynn",
+      "champion": "Evelynn",
+      "chroma": false,
+      "bytes": 40894730,
+      "sha256": "78c6681e0d71771dcc728d6bb867c08bddd68c4a85f1f0898d0a8b90bf32ac9c",
+      "championId": 28,
+      "path": "Evelynn/K_DA Hitmaker Evelynn.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 84102,
+      "name": "K/DA FIRESTARTER Ignition Akali",
+      "champion": "Akali",
+      "chroma": false,
+      "bytes": 29598959,
+      "sha256": "2b9e91b774818a1c68e3a68ed9f8b6fcfbfa0f558e63e284257ac3247c1fece4",
+      "championId": 84,
+      "path": "Akali/K_DA FIRESTARTER Ignition Akali.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 103097,
+      "name": "K/DA FIRESTARTER Ahri",
+      "champion": "Ahri",
+      "chroma": false,
+      "bytes": 30453130,
+      "sha256": "686ddf4a7f40e77815a5c7defb1774ec343b122aa6e3b70e72fc20a4040badcd",
+      "championId": 103,
+      "path": "Ahri/K_DA FIRESTARTER Ahri.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 28067,
+      "name": "K/DA FIRESTARTER Evelynn (Obsidian)",
+      "champion": "Evelynn",
+      "chroma": true,
+      "bytes": 37671673,
+      "sha256": "16ce4b74d4ab2798e1301ad3f538eefbbc18ec2062ee4064f53fb264e076e3fa",
+      "championId": 28,
+      "path": "Evelynn/K_DA FIRESTARTER Evelynn/Obsidian.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 28065,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 28068,
+      "name": "K/DA FIRESTARTER Evelynn (Ruby)",
+      "champion": "Evelynn",
+      "chroma": true,
+      "bytes": 37671047,
+      "sha256": "c82c49c3f4fe42000cb62d48264b260ae93474d25c15b3f1fee9d9d722313e25",
+      "championId": 28,
+      "path": "Evelynn/K_DA FIRESTARTER Evelynn/Ruby.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 28065,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 28069,
+      "name": "K/DA FIRESTARTER Evelynn (Catseye)",
+      "champion": "Evelynn",
+      "chroma": true,
+      "bytes": 37736542,
+      "sha256": "db6c0f65da87802cabf4b97a84763aa3c5ba5460373e7cf2f7d2fb7bac65d113",
+      "championId": 28,
+      "path": "Evelynn/K_DA FIRESTARTER Evelynn/Catseye.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 28065,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 28070,
+      "name": "K/DA FIRESTARTER Evelynn (Sapphire)",
+      "champion": "Evelynn",
+      "chroma": true,
+      "bytes": 37759090,
+      "sha256": "acbe82c56c87866b520813f7645b1e3930a9d77cad67a1511e6fd6f47ad720ec",
+      "championId": 28,
+      "path": "Evelynn/K_DA FIRESTARTER Evelynn/Sapphire.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 28065,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 28071,
+      "name": "K/DA FIRESTARTER Evelynn (Tanzanite)",
+      "champion": "Evelynn",
+      "chroma": true,
+      "bytes": 37748194,
+      "sha256": "398f9dd4195517f4af146de63c2cf047b73eb14550b976a0c83ef7ce05a26f93",
+      "championId": 28,
+      "path": "Evelynn/K_DA FIRESTARTER Evelynn/Tanzanite.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 28065,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 28072,
+      "name": "K/DA FIRESTARTER Evelynn (Pearl)",
+      "champion": "Evelynn",
+      "chroma": true,
+      "bytes": 37755895,
+      "sha256": "95e59079d20394fc00dbf08df4982abdb75eda998f9db9710859530b34d272af",
+      "championId": 28,
+      "path": "Evelynn/K_DA FIRESTARTER Evelynn/Pearl.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 28065,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 103098,
+      "name": "K/DA FIRESTARTER Ahri (Ruby)",
+      "champion": "Ahri",
+      "chroma": true,
+      "bytes": 30598530,
+      "sha256": "121c8ad6b31c4e42ddfd013e8861f725e866c838edf976d50445b694d4bf0ea0",
+      "championId": 103,
+      "path": "Ahri/K_DA FIRESTARTER Ahri/Ruby.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 103097,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 103099,
+      "name": "K/DA FIRESTARTER Ahri (Sapphire)",
+      "champion": "Ahri",
+      "chroma": true,
+      "bytes": 30516740,
+      "sha256": "c5c5c3ccd0439531fe030e3bf711c188f10fba57fa83a3623c7590816ef593ff",
+      "championId": 103,
+      "path": "Ahri/K_DA FIRESTARTER Ahri/Sapphire.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 103097,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 103100,
+      "name": "K/DA FIRESTARTER Ahri (Emerald)",
+      "champion": "Ahri",
+      "chroma": true,
+      "bytes": 30413304,
+      "sha256": "a8dd5295e4a816067420be19463f0a2ab0ceb46371c28c2f1e680784cdd947ed",
+      "championId": 103,
+      "path": "Ahri/K_DA FIRESTARTER Ahri/Emerald.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 103097,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 103101,
+      "name": "K/DA FIRESTARTER Ahri (Turquoise)",
+      "champion": "Ahri",
+      "chroma": true,
+      "bytes": 30468295,
+      "sha256": "7f03251bcb0397ff130293f19dcc451867c5a0e45a8ac1061b0ad09abfcc6b9d",
+      "championId": 103,
+      "path": "Ahri/K_DA FIRESTARTER Ahri/Turquoise.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 103097,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 103102,
+      "name": "K/DA FIRESTARTER Ahri (Catseye)",
+      "champion": "Ahri",
+      "chroma": true,
+      "bytes": 30427603,
+      "sha256": "b942691108e232cb847977f164c30689d66128b06e68ce3eada7976d75f5f657",
+      "championId": 103,
+      "path": "Ahri/K_DA FIRESTARTER Ahri/Catseye.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 103097,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 103103,
+      "name": "K/DA FIRESTARTER Ahri (Amethyst)",
+      "champion": "Ahri",
+      "chroma": true,
+      "bytes": 30473132,
+      "sha256": "e86dd1423397948f67cba9abba10d976c26dde469368484ba835505ee7d05876",
+      "championId": 103,
+      "path": "Ahri/K_DA FIRESTARTER Ahri/Amethyst.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 103097,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 103104,
+      "name": "K/DA FIRESTARTER Ahri (Pearl)",
+      "champion": "Ahri",
+      "chroma": true,
+      "bytes": 30533854,
+      "sha256": "b42fb68124a88ea738773cb841bd5048d3a2aab2139b8ba332df8fb9ca7515a4",
+      "championId": 103,
+      "path": "Ahri/K_DA FIRESTARTER Ahri/Pearl.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 103097,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 103105,
+      "name": "K/DA FIRESTARTER Ahri (Obsidian)",
+      "champion": "Ahri",
+      "chroma": true,
+      "bytes": 30478608,
+      "sha256": "515c77b51d2e50e0f737f054c42614360972ed4f3d06044dba34d4fa44a50541",
+      "championId": 103,
+      "path": "Ahri/K_DA FIRESTARTER Ahri/Obsidian.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 103097,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 145083,
+      "name": "K/DA FIRESTARTER Kai'Sa",
+      "champion": "Kaisa",
+      "chroma": false,
+      "bytes": 35353719,
+      "sha256": "d73b0d21958dd501878d8cd3d2ce71ef6c839f78ff717232e0ef7eff7997f6b8",
+      "championId": 145,
+      "path": "Kaisa/K_DA FIRESTARTER Kai'Sa.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 145084,
+      "name": "K/DA FIRESTARTER Kai'Sa (Ruby)",
+      "champion": "Kaisa",
+      "chroma": true,
+      "bytes": 35250487,
+      "sha256": "2d595a366de493c754593bb2a1fb78fe1373ae73431320c4822a1a4445320784",
+      "championId": 145,
+      "path": "Kaisa/K_DA FIRESTARTER Kai'Sa/Ruby.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 145083,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 145085,
+      "name": "K/DA FIRESTARTER Kai'Sa (Tanzanite)",
+      "champion": "Kaisa",
+      "chroma": true,
+      "bytes": 35274492,
+      "sha256": "a35408f7ef127d61062aa3e46b4004079d759f5b714c5fed6115415d138209b2",
+      "championId": 145,
+      "path": "Kaisa/K_DA FIRESTARTER Kai'Sa/Tanzanite.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 145083,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 145086,
+      "name": "K/DA FIRESTARTER Kai'Sa (Sapphire)",
+      "champion": "Kaisa",
+      "chroma": true,
+      "bytes": 35293880,
+      "sha256": "006bc1baab46e5fd38dce823db1bcdcafae62163f1b995a1c26c67f1c531bbbb",
+      "championId": 145,
+      "path": "Kaisa/K_DA FIRESTARTER Kai'Sa/Sapphire.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 145083,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 145087,
+      "name": "K/DA FIRESTARTER Kai'Sa (Emerald)",
+      "champion": "Kaisa",
+      "chroma": true,
+      "bytes": 35270668,
+      "sha256": "8861abfa6f0153cb7c8e00b105e76ef6a78ac801c060c094ab8c4407a6db01e8",
+      "championId": 145,
+      "path": "Kaisa/K_DA FIRESTARTER Kai'Sa/Emerald.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 145083,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 145088,
+      "name": "K/DA FIRESTARTER Kai'Sa (Citrine)",
+      "champion": "Kaisa",
+      "chroma": true,
+      "bytes": 35264213,
+      "sha256": "4bf067ed5ca257683b325113a7b6d0a983167ac172d469bc16993b98e2e34821",
+      "championId": 145,
+      "path": "Kaisa/K_DA FIRESTARTER Kai'Sa/Citrine.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 145083,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 145089,
+      "name": "K/DA FIRESTARTER Kai'Sa (Turquoise)",
+      "champion": "Kaisa",
+      "chroma": true,
+      "bytes": 35259020,
+      "sha256": "c3ee5855563fef2c3697e54fba65dcd88ef4ccddfe129baf9161c7e813613dbe",
+      "championId": 145,
+      "path": "Kaisa/K_DA FIRESTARTER Kai'Sa/Turquoise.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 145083,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 145090,
+      "name": "K/DA FIRESTARTER Kai'Sa (Pearl)",
+      "champion": "Kaisa",
+      "chroma": true,
+      "bytes": 35288930,
+      "sha256": "c4a647f665639f0a26672d539d7105fb7757c97dfb4b9376f3804b9544abe751",
+      "championId": 145,
+      "path": "Kaisa/K_DA FIRESTARTER Kai'Sa/Pearl.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 145083,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
+    },
+    {
+      "id": 145091,
+      "name": "K/DA FIRESTARTER Kai'Sa (Obsidian)",
+      "champion": "Kaisa",
+      "chroma": true,
+      "bytes": 35270823,
+      "sha256": "6cc1a7d67fc58d63caf656010296928908d2fee00c3fe9e9c7468040ccdbe681",
+      "championId": 145,
+      "path": "Kaisa/K_DA FIRESTARTER Kai'Sa/Obsidian.fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "parentId": 145083,
+      "version": "0.3.0",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/7BDFF052AD772181.manifest"
     }
   ],
   "voiceMountCompatibility": {
@@ -1048,5 +1610,11 @@
     "requiresEnglishGameInstallation": false,
     "resourcePayloadsUnchanged": true,
     "packageLayoutRuntimeVerified": false
+  },
+  "previousManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/252D54B2713A1DBA.manifest",
+  "packageVerification": {
+    "date": "2026-10-21",
+    "count": 60,
+    "checks": "Archive integrity, BIN parsing, referenced assets, shader programs, native import and cross-champion conflicts"
   }
 }
