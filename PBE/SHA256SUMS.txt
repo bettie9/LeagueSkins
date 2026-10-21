@@ -1,36 +1,3 @@
-a85de7738a36556bdcfba7b0088e1d977cafbe86230f103bca92a097ffb86609  Akali/True Damage Know My Name Akali.fantome
-996547e9079059c186c8169d5d2b783fab1dcecac2dc9640034aa775c8ccad8b  Akali/True Damage Know My Name Akali/Catseye.fantome
-804f125c79229b67a44905ea01117854142c1346e671b4a01583c24dac45566d  Akali/True Damage Know My Name Akali/Obsidian.fantome
-d69f12b23c02d64b53390d3cedab1e1582686af46f80874b44a8cf77f1d7d8c4  Akali/True Damage Know My Name Akali/Pearl.fantome
-d3b74905936cc020484a8743a1b2b3a1fd85c1c975cfa4a3907cad48cb87cb81  Akali/True Damage Know My Name Akali/Rose Quartz.fantome
-1edae800c669377bbec91b92f62ff1f966140678b1969be06d3bfe3e9e00a6a3  Akali/True Damage Know My Name Akali/Ruby.fantome
-dbc24619887c495d0cd683e4c6d9fadf4a867344eb4a906f2294cb84710ab6da  Akali/True Damage Know My Name Akali/Sapphire.fantome
-63230a6bcc8e9eab65a93568109610b898be0a554797c7839d66fd04039a2a99  Ekko/Prestige True Damage Know My Name Ekko.fantome
-fb55ff8ef53bf093011dd88b4e8b3f4702de0b066453f6241a69a2a9b952faba  Ekko/Prestige True Damage Know My Name Ekko/Vivid.fantome
-9dbbf168a0ec900125f67a24ce306a8fec5c59e49a5d4b09434731f3d82f2806  Qiyana/True Damage Know My Name Qiyana.fantome
-9e3668e9bf55274259d116cc809b74feb90fdb5f1ee3b125b88e225d18309c10  Qiyana/True Damage Know My Name Qiyana/Catseye.fantome
-125f352da7d50346f121361590f4993e1f1e37d067922e0c20eff81de9395deb  Qiyana/True Damage Know My Name Qiyana/Obsidian.fantome
-ee92f261fc829fbd001fc0d5a15e081cb5bc5ffa0ca7b439c28ea6e324d019fe  Qiyana/True Damage Know My Name Qiyana/Pearl.fantome
-05cae4e747fe597f75b6da483647925468471016ce3d775b465a3fb96b1b1b45  Qiyana/True Damage Know My Name Qiyana/Rose Quartz.fantome
-a90276bd0ddf2010f115f7e61b23c20d9cef0d9dc14176b505026a76c8ae6bf8  Qiyana/True Damage Know My Name Qiyana/Ruby.fantome
-ba1b1af3d1b52e99daf51f5f99938df17cad7640de2edcd5742853fe529581d6  Qiyana/True Damage Know My Name Qiyana/Sapphire.fantome
-b32569c49a3f0edb0592363ce151aaa6622ab7ae755f129d5792f6b5389f5795  Qiyana/True Damage Know My Name Qiyana/Tanzanite.fantome
-dff460c0213e6b054e2290d4c9f2050de9e31254e077e51652be7c5cad4dd1a8  Qiyana/True Damage Know My Name Qiyana/Turquoise.fantome
-6c3107811a75ddf37cc7a715a3e1807e6171862ae2f574b3b218bb488abf35d0  Senna/True Damage Know My Name Senna.fantome
-aebe50902bbf7ff352524e7b726cab2a59d76ee1275db013e479a2b9d9830373  Senna/True Damage Know My Name Senna/Catseye.fantome
-16c177a940a29c0f883d9ac0abc604fdbb513772fc97adb61e1f92f1a213fcf4  Senna/True Damage Know My Name Senna/Obsidian.fantome
-e634069d5ebf8eeea61ba39897fad7c01e4689573b24b6271151fd2e211e2e32  Senna/True Damage Know My Name Senna/Pearl.fantome
-46f548b9ee1881dec5c53fad1be3872d2de6198c664d4c544e07929038a35eec  Senna/True Damage Know My Name Senna/Rose Quartz.fantome
-253052d5d516ed3f9775bd3022effdd572882c0baf43b427fdfceae1eb326459  Senna/True Damage Know My Name Senna/Ruby.fantome
-da99fc0bb0142a1586454529903354fa5a20c3691434e9eb34f5221b15b040fd  Senna/True Damage Know My Name Senna/Sapphire.fantome
-8e262e04617220070e503a504adde72dabe1cb31aa2ec875d7d6564f19ef0d68  Senna/True Damage Know My Name Senna/Tanzanite.fantome
-5e44961787f982e65a4055500266cd84e06152ece1b733fa31666585ddfb9cbb  Senna/True Damage Know My Name Senna/Turquoise.fantome
-8defa5e9ac620a043fdf0fb515f0d4e263a28b794df5fa0af9a56c4c9578a0cc  Yasuo/True Damage Know My Name Yasuo.fantome
-c82bdcc11153c093fbf1a3b287b3b76a402d78be21724edbf394a8e3be008eab  Yasuo/True Damage Know My Name Yasuo/Momentous.fantome
-be53e467a27e83f9a61044240d4182ea97ad3a9e85838beb89a04361cfc0ad46  Yasuo/True Damage Know My Name Yasuo/Obsidian.fantome
-89704d0f457a45ae0f1b5f082fd0bd798eacc65911c24dea5f2c08c0a4694dde  Yasuo/True Damage Know My Name Yasuo/Rose Quartz.fantome
-76c4bdbc2d6d2c2aaebd8f2dd0f475bedc32223e41393c361e19ede6c709cff1  Yasuo/True Damage Know My Name Yasuo/Ruby.fantome
-d52f476c61b7328a30a7f069ee0f9432c9a7edc9f98b7e32d59a6eb5150af91b  Yasuo/True Damage Know My Name Yasuo/Unlocked.fantome
 50af9c5de698a585f972c19555d02a586e98fd4cec1d3bb7569282dc92993eeb  Evelynn/K_DA FIRESTARTER Evelynn.fantome
 78c6681e0d71771dcc728d6bb867c08bddd68c4a85f1f0898d0a8b90bf32ac9c  Evelynn/K_DA Hitmaker Evelynn.fantome
 2b9e91b774818a1c68e3a68ed9f8b6fcfbfa0f558e63e284257ac3247c1fece4  Akali/K_DA FIRESTARTER Ignition Akali.fantome

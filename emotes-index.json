@@ -1,5 +1,5 @@
 {
-  "patch": "16.20",
+  "patch": "16.21",
   "target": "thumb_happy_up",
   "emotes": {
     "10001": {
@@ -10445,6 +10445,91 @@
     "ziggs_happy_cheers": {
       "name": "Gonna Be A Blast",
       "file": "Gonna Be A Blast.fantome",
+      "missing": []
+    },
+    "10141": {
+      "name": "Victory Pose",
+      "file": "Victory Pose.fantome",
+      "missing": []
+    },
+    "10148": {
+      "name": "Living Doll Choncc",
+      "file": "Living Doll Choncc.fantome",
+      "missing": []
+    },
+    "10149": {
+      "name": "Stir the Pot!",
+      "file": "Stir the Pot!.fantome",
+      "missing": []
+    },
+    "10159": {
+      "name": "Splatula",
+      "file": "Splatula.fantome",
+      "missing": []
+    },
+    "5196": {
+      "name": "Pins And Needles",
+      "file": "Pins And Needles.fantome",
+      "missing": []
+    },
+    "5197": {
+      "name": "???",
+      "file": "Emote 5197.fantome",
+      "missing": []
+    },
+    "5198": {
+      "name": "Snack Time",
+      "file": "Snack Time.fantome",
+      "missing": []
+    },
+    "5199": {
+      "name": "Gotta Chomp",
+      "file": "Gotta Chomp.fantome",
+      "missing": []
+    },
+    "5200": {
+      "name": "Bubblegum Pop",
+      "file": "Bubblegum Pop.fantome",
+      "missing": []
+    },
+    "5201": {
+      "name": "Face The Music",
+      "file": "Face The Music.fantome",
+      "missing": []
+    },
+    "5202": {
+      "name": "Royal Eye-Roll",
+      "file": "Royal Eye-Roll.fantome",
+      "missing": []
+    },
+    "5203": {
+      "name": "Feel The Groove",
+      "file": "Feel The Groove.fantome",
+      "missing": []
+    },
+    "5204": {
+      "name": "Time For Triumph",
+      "file": "Time For Triumph.fantome",
+      "missing": []
+    },
+    "5205": {
+      "name": "Pentakill Poro",
+      "file": "Pentakill Poro.fantome",
+      "missing": []
+    },
+    "5206": {
+      "name": "Heartsteel Poro",
+      "file": "Heartsteel Poro.fantome",
+      "missing": []
+    },
+    "5207": {
+      "name": "True Damage Poro",
+      "file": "True Damage Poro.fantome",
+      "missing": []
+    },
+    "5209": {
+      "name": "Bouncer Poro",
+      "file": "Bouncer Poro.fantome",
       "missing": []
     }
   }

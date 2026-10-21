@@ -1,5 +1,5 @@
 {
-  "patch": "16.20",
+  "patch": "16.21",
   "champions": {
     "Aatrox": {
       "skins": {
@@ -233,7 +233,8 @@
         "70": "Coven Akali",
         "71": "Prestige Coven Akali",
         "82": "Empyrean Akali",
-        "92": "Spirit Blossom Akali"
+        "92": "Spirit Blossom Akali",
+        "103": "True Damage Know My Name Akali"
       },
       "chromas": {
         "7": {
@@ -337,6 +338,14 @@
           "99": "Tanzanite",
           "100": "Obsidian",
           "101": "Paragon"
+        },
+        "103": {
+          "105": "Ruby",
+          "106": "Rose Quartz",
+          "107": "Sapphire",
+          "108": "Catseye",
+          "109": "Pearl",
+          "110": "Obsidian"
         }
       },
       "forms": {
@@ -2205,7 +2214,8 @@
         "45": "Star Guardian Ekko",
         "46": "Prestige Star Guardian Ekko",
         "56": "Breakout True Damage Ekko",
-        "57": "Arcane Last Stand Ekko"
+        "57": "Arcane Last Stand Ekko",
+        "59": "Prestige True Damage Know My Name Ekko"
       },
       "chromas": {
         "1": {
@@ -2267,6 +2277,9 @@
         },
         "57": {
           "58": "Paragon"
+        },
+        "59": {
+          "60": "Vivid"
         }
       },
       "forms": {}
@@ -8202,7 +8215,8 @@
         "21": "Prestige True Damage Qiyana (2022)",
         "30": "Lunar Empress Qiyana",
         "40": "La Ilusión Qiyana",
-        "50": "Prestige Battle Academia Qiyana"
+        "50": "Prestige Battle Academia Qiyana",
+        "51": "True Damage Know My Name Qiyana"
       },
       "chromas": {
         "1": {
@@ -8255,6 +8269,16 @@
           "47": "Turquoise",
           "48": "Pearl",
           "49": "Vivida"
+        },
+        "51": {
+          "52": "Ruby",
+          "53": "Tanzanite",
+          "54": "Pearl",
+          "55": "Catseye",
+          "56": "Turquoise",
+          "57": "Obsidian",
+          "58": "Rose Quartz",
+          "59": "Sapphire"
         }
       },
       "forms": {}
@@ -9100,7 +9124,8 @@
         "46": "Star Guardian Senna",
         "56": "Winterblessed Senna",
         "63": "Masked Justice Senna",
-        "72": "Warhound Senna"
+        "72": "Warhound Senna",
+        "81": "True Damage Know My Name Senna"
       },
       "chromas": {
         "1": {
@@ -9188,6 +9213,16 @@
           "78": "Tanzanite",
           "79": "Rose Quartz",
           "80": "Fearless Fang"
+        },
+        "81": {
+          "82": "Ruby",
+          "83": "Rose Quartz",
+          "84": "Sapphire",
+          "85": "Catseye",
+          "86": "Turquoise",
+          "87": "Tanzanite",
+          "88": "Pearl",
+          "89": "Obsidian"
         }
       },
       "forms": {
@@ -12283,7 +12318,8 @@
         "68": "Foreseen Yasuo",
         "77": "Battle Wolf Yasuo",
         "87": "Genesis Nightbringer Yasuo",
-        "88": "Petals of Spring Yasuo"
+        "88": "Petals of Spring Yasuo",
+        "97": "True Damage Know My Name Yasuo"
       },
       "chromas": {
         "1": {
@@ -12385,6 +12421,13 @@
           "94": "Pearl",
           "95": "Peridot",
           "96": "Emerald"
+        },
+        "97": {
+          "98": "Unlocked",
+          "99": "Momentous",
+          "100": "Ruby",
+          "101": "Rose Quartz",
+          "102": "Obsidian"
         }
       },
       "forms": {
