@@ -27,7 +27,7 @@ Download individual `.fantome` packages here, or browse and install them directl
 | [Nexus finishers](finishers/) | 6 | Default Nexus destruction effects and sounds | [finishers-index.json](finishers-index.json) |
 | [Wards / Totems](wards/) | 265 | Replacements for default ward and trinket appearances | [wards-index.json](wards-index.json) |
 
-*Main library snapshot: October 21, 2026. Five True Damage skins, 28 chromas and 17 emotes added from live patch 16.21. Existing packages retain their original build provenance. PBE collection updated October 21, 2026. Counts include individual variants; older duplicate download names are excluded.*
+*Main library snapshot: October 21, 2026. Five True Damage skins, 28 chromas and 17 emotes added from live patch 16.21. Existing packages retain their original build provenance. PBE collection rebuilt for live 16.21 on October 21, 2026 (package version 0.4.0). Counts include individual variants; older duplicate download names are excluded.*
 
 **Choose the collection for your game mode.** Packages in `skins/` target normal LoL champions. Packages in `classic/` target the `Jade_*` champions used by League Classic; they do not turn normal LoL champions into their Classic versions.
 
