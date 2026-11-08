@@ -1,5 +1,5 @@
 {
-  "patch": "16.21",
+  "patch": "16.22",
   "target": "thumb_happy_up",
   "emotes": {
     "10001": {
@@ -10530,6 +10530,101 @@
     "5209": {
       "name": "Bouncer Poro",
       "file": "Bouncer Poro.fantome",
+      "missing": []
+    },
+    "5208": {
+      "name": "K/DA Poro",
+      "file": "K_DA Poro.fantome",
+      "missing": []
+    },
+    "5210": {
+      "name": "GG EZ",
+      "file": "GG EZ.fantome",
+      "missing": []
+    },
+    "5211": {
+      "name": "Periodt",
+      "file": "Periodt.fantome",
+      "missing": []
+    },
+    "5213": {
+      "name": "Eyes on Me",
+      "file": "Eyes on Me.fantome",
+      "missing": []
+    },
+    "5212": {
+      "name": "Heart Hands",
+      "file": "Heart Hands.fantome",
+      "missing": []
+    },
+    "5216": {
+      "name": "Ooh, Scandal!",
+      "file": "Ooh, Scandal!.fantome",
+      "missing": []
+    },
+    "5215": {
+      "name": "Point 'Em Out",
+      "file": "Point 'Em Out.fantome",
+      "missing": []
+    },
+    "5214": {
+      "name": "K/DA QT",
+      "file": "K_DA QT.fantome",
+      "missing": []
+    },
+    "5217": {
+      "name": "Sharp And Shady",
+      "file": "Sharp And Shady.fantome",
+      "missing": []
+    },
+    "5218": {
+      "name": "Let Him Cook...",
+      "file": "Let Him Cook.fantome",
+      "missing": []
+    },
+    "em_10141_chibi_yunara_t1_iconicpose": {
+      "name": "Victory Pose",
+      "file": "Victory Pose em_10141_chibi_yunara_t1_iconicpose.fantome",
+      "missing": []
+    },
+    "em_10146_chibi_tahmkench_likeakingpin": {
+      "name": "Chibi_TahmKench_LikeAKingpin",
+      "file": "Chibi_TahmKench_LikeAKingpin.fantome",
+      "missing": []
+    },
+    "em_10148_ll_choncc_gwencosplay_scissorsgesture": {
+      "name": "Living Doll Choncc",
+      "file": "Living Doll Choncc em_10148_ll_choncc_gwencosplay_scissorsgesture.fantome",
+      "missing": []
+    },
+    "em_10147_chibi_tahmkench_chef_gotyou": {
+      "name": "Chibi_TahmKench_Chef_GotYou",
+      "file": "Chibi_TahmKench_Chef_GotYou.fantome",
+      "missing": []
+    },
+    "em_10149_ll_choncc_halloweencosplay_witchybrew": {
+      "name": "Stir the Pot!",
+      "file": "Stir the Pot! em_10149_ll_choncc_halloweencosplay_witchybrew.fantome",
+      "missing": []
+    },
+    "em_10150_ll_crab_comeatmebro": {
+      "name": "Crab_ComeAtMeBro",
+      "file": "Crab_ComeAtMeBro.fantome",
+      "missing": []
+    },
+    "em_10151_gromp_akanabe": {
+      "name": "Gromp_Akanabe",
+      "file": "Gromp_Akanabe.fantome",
+      "missing": []
+    },
+    "em_10159_ll_pengu_devart": {
+      "name": "Splatula",
+      "file": "Splatula em_10159_ll_pengu_devart.fantome",
+      "missing": []
+    },
+    "em_10152_murkwolf_happysad": {
+      "name": "MurkWolf_HappySad",
+      "file": "MurkWolf_HappySad.fantome",
       "missing": []
     }
   }

@@ -1,6 +1,6 @@
 {
-  "patch": "16.20",
-  "builtFor": "16.20.824.8524",
+  "patch": "16.22",
+  "builtFor": "16.22.834.8910",
   "finishers": {
     "4": {
       "id": 4,
@@ -43,6 +43,13 @@
       "file": "T1.fantome",
       "image": "finishers/previews/t1finisher.png",
       "sha256": "2727c2161bb2d01d40712af61f888484c0ea4b2c67bcb591de8d60ddef6b2652"
+    },
+    "7": {
+      "id": 7,
+      "name": "Light the Match",
+      "file": "Light the Match.fantome",
+      "image": "finishers/previews/musicbeatfinisher.png",
+      "sha256": "3fa2c1484dd5e9e1ad7c069b1cfd1773137afbf21430a99af3487be57e69d91f"
     }
   }
 }
