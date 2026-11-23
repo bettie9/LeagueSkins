@@ -1,5 +1,5 @@
 {
-  "patch": "16.21",
+  "patch": "16.23",
   "champions": {
     "Aatrox": {
       "skins": {
@@ -93,7 +93,8 @@
         "76": "Snow Moon Ahri",
         "85": "Risen Legend Ahri",
         "88": "Spirit Blossom Springs Ahri",
-        "89": "After Hours Spirit Blossom Springs Ahri"
+        "89": "After Hours Spirit Blossom Springs Ahri",
+        "97": "K/DA FIRESTARTER Ahri"
       },
       "chromas": {
         "4": {
@@ -201,6 +202,16 @@
           "93": "Tanzanite",
           "94": "Sapphire",
           "95": "Pearl"
+        },
+        "97": {
+          "98": "Ruby",
+          "99": "Sapphire",
+          "100": "Emerald",
+          "101": "Turquoise",
+          "102": "Catseye",
+          "103": "Amethyst",
+          "104": "Pearl",
+          "105": "Obsidian"
         }
       },
       "forms": {
@@ -234,6 +245,7 @@
         "71": "Prestige Coven Akali",
         "82": "Empyrean Akali",
         "92": "Spirit Blossom Akali",
+        "102": "K/DA FIRESTARTER Ignition Akali",
         "103": "True Damage Know My Name Akali"
       },
       "chromas": {
@@ -2349,7 +2361,9 @@
         "42": "Soul Fighter Evelynn",
         "52": "High Noon Evelynn",
         "53": "Prestige High Noon Evelynn",
-        "64": "Nightbringer Evelynn"
+        "64": "Nightbringer Evelynn",
+        "65": "K/DA FIRESTARTER Evelynn",
+        "66": "K/DA Hitmaker Evelynn"
       },
       "chromas": {
         "8": {
@@ -2411,6 +2425,14 @@
           "61": "Obsidian",
           "62": "Noonday",
           "63": "Vendetta"
+        },
+        "65": {
+          "67": "Obsidian",
+          "68": "Ruby",
+          "69": "Catseye",
+          "70": "Sapphire",
+          "71": "Tanzanite",
+          "72": "Pearl"
         }
       },
       "forms": {
@@ -3145,7 +3167,8 @@
           "44": "Turquoise",
           "45": "Rose Quartz",
           "46": "Obsidian",
-          "47": "Pearl"
+          "47": "Pearl",
+          "49": "FIRESTARTER"
         }
       },
       "forms": {}
@@ -4211,7 +4234,8 @@
         "48": "Inkshadow Kai'Sa",
         "59": "Heavenscale Kai'Sa",
         "69": "Dark Star Kai'Sa",
-        "70": "Risen Legend Kai'Sa"
+        "70": "Risen Legend Kai'Sa",
+        "83": "K/DA FIRESTARTER Kai'Sa"
       },
       "chromas": {
         "1": {
@@ -4294,13 +4318,23 @@
           "78": "Amethyst",
           "79": "Pearl",
           "80": "Quasar"
+        },
+        "83": {
+          "84": "Ruby",
+          "85": "Tanzanite",
+          "86": "Sapphire",
+          "87": "Emerald",
+          "88": "Citrine",
+          "89": "Turquoise",
+          "90": "Pearl",
+          "91": "Obsidian"
         }
       },
       "forms": {
         "70": {
           "71": "Stage 2",
-          "999": "Stage 3",
-          "998": "Immortalized - Form 1"
+          "998": "Immortalized - Form 1",
+          "999": "Stage 3"
         }
       }
     },
@@ -5167,6 +5201,18 @@
         }
       },
       "forms": {
+        "32": {
+          "930": "Tanzanite - Rhaast",
+          "931": "Tanzanite - Shadow Assassin",
+          "932": "Catseye - Rhaast",
+          "933": "Catseye - Shadow Assassin",
+          "934": "Rose Quartz - Rhaast",
+          "935": "Rose Quartz - Shadow Assassin",
+          "936": "Ruby - Rhaast",
+          "937": "Ruby - Shadow Assassin",
+          "938": "Rhaast",
+          "939": "Shadow Assassin"
+        },
         "26": {
           "940": "Emerald - Rhaast",
           "941": "Emerald - Shadow Assassin",
@@ -5240,18 +5286,6 @@
         "1": {
           "998": "Rhaast",
           "999": "Shadow Assassin"
-        },
-        "32": {
-          "939": "Shadow Assassin",
-          "938": "Rhaast",
-          "937": "Ruby - Shadow Assassin",
-          "936": "Ruby - Rhaast",
-          "935": "Rose Quartz - Shadow Assassin",
-          "934": "Rose Quartz - Rhaast",
-          "933": "Catseye - Shadow Assassin",
-          "932": "Catseye - Rhaast",
-          "931": "Tanzanite - Shadow Assassin",
-          "930": "Tanzanite - Rhaast"
         }
       }
     },
@@ -5260,7 +5294,7 @@
         "1": "Deadly Kennen",
         "2": "Swamp Master Kennen",
         "3": "Karate Kennen",
-        "4": "Kennen M.D.",
+        "4": "Kennen M.D",
         "5": "Arctic Ops Kennen",
         "6": "Blood Moon Kennen",
         "7": "Super Kennen",
@@ -6865,11 +6899,6 @@
         }
       },
       "forms": {
-        "16": {
-          "997": "Zero Hour",
-          "998": "Royal Arms",
-          "999": "Starswarm"
-        },
         "69": {
           "983": "Sapphire - 2024 Weapons",
           "984": "Sapphire - 2023 Weapons",
@@ -6885,6 +6914,11 @@
           "994": "Elite - 2023 Weapons",
           "995": "2024 Weapons",
           "996": "2023 Weapons"
+        },
+        "16": {
+          "997": "Zero Hour",
+          "998": "Royal Arms",
+          "999": "Starswarm"
         }
       }
     },
@@ -6896,21 +6930,11 @@
         "4": "Underworld Wukong",
         "5": "Radiant Wukong",
         "6": "Lancer Stratus Wukong",
-        "7": "Battle Academia Wukong",
         "16": "Elderwood Wukong",
-        "26": "Mecha Kingdoms Wukong"
+        "26": "Mecha Kingdoms Wukong",
+        "7": "Battle Academia Wukong"
       },
       "chromas": {
-        "7": {
-          "8": "Ruby",
-          "9": "Rose Quartz",
-          "10": "Catseye",
-          "11": "Sapphire",
-          "12": "Emerald",
-          "13": "Pearl",
-          "14": "Meteorite",
-          "15": "Obsidian"
-        },
         "16": {
           "17": "Ruby",
           "18": "Citrine",
@@ -6936,6 +6960,16 @@
           "34": "Pearl",
           "35": "Obsidian",
           "36": "Catseye"
+        },
+        "7": {
+          "8": "Ruby",
+          "9": "Rose Quartz",
+          "10": "Catseye",
+          "11": "Sapphire",
+          "12": "Emerald",
+          "13": "Pearl",
+          "14": "Meteorite",
+          "15": "Obsidian"
         }
       },
       "forms": {}
@@ -7017,9 +7051,9 @@
       },
       "forms": {
         "54": {
+          "987": "Stage 3 - Empowered",
           "998": "Stage 2",
-          "999": "Stage 3",
-          "987": "Stage 3 - Empowered"
+          "999": "Stage 3"
         },
         "13": {
           "988": "Reckoning - Form 2",
@@ -7143,9 +7177,6 @@
         }
       },
       "forms": {
-        "80": {
-          "999": "Stage 2"
-        },
         "26": {
           "988": "Pristine - Form 2",
           "993": "Dark Ritual - Form 2",
@@ -7154,6 +7185,13 @@
           "996": "Pearl - Form 2",
           "997": "Ruby - Form 2",
           "998": "Form 2"
+        },
+        "80": {
+          "989": "Stage 2 - Mask 3",
+          "990": "Stage 2 - Mask 2",
+          "991": "Stage 1 - Mask 3",
+          "992": "Stage 1 - Mask 2",
+          "999": "Stage 2"
         }
       }
     },
@@ -7456,7 +7494,8 @@
         "22": "Bewitching Neeko",
         "31": "Street Demons Neeko",
         "40": "Cosplayer Neeko",
-        "49": "Beeko"
+        "49": "Beeko",
+        "50": "Cafe Cuties Neeko"
       },
       "chromas": {
         "1": {
@@ -7508,6 +7547,16 @@
           "46": "Amethyst",
           "47": "Obsidian",
           "48": "Pearl"
+        },
+        "50": {
+          "51": "Ruby",
+          "52": "Aquamarine",
+          "53": "Obsidian",
+          "54": "Pearl",
+          "55": "Rose Quartz",
+          "56": "Catseye",
+          "57": "Jasper",
+          "58": "Peridot"
         }
       },
       "forms": {}
@@ -9456,10 +9505,6 @@
         }
       },
       "forms": {
-        "66": {
-          "998": "Stage 2",
-          "999": "Stage 3"
-        },
         "38": {
           "991": "Night Blossom - Form 2",
           "992": "Catseye - Form 2",
@@ -9468,6 +9513,10 @@
           "995": "Sapphire - Form 2",
           "996": "Ruby - Form 2",
           "997": "Form 2"
+        },
+        "66": {
+          "998": "Stage 2",
+          "999": "Stage 3"
         }
       }
     },
@@ -9979,7 +10028,6 @@
         "3": "Silent Night Sona",
         "4": "Guqin Sona",
         "5": "Arcade Sona",
-        "6": "DJ Sona",
         "7": "Sweetheart Sona",
         "9": "Odyssey Sona",
         "17": "PsyOps Sona",
@@ -9989,7 +10037,9 @@
         "46": "Prestige Immortal Journey Sona",
         "56": "Victorious Sona",
         "66": "Spirit Blossom Springs Sona",
-        "75": "Prestige Requiem Sona"
+        "75": "Prestige Requiem Sona",
+        "6": "DJ Sona",
+        "77": "DJ Sona Ultimate Remix"
       },
       "chromas": {
         "4": {
@@ -10074,10 +10124,6 @@
         }
       },
       "forms": {
-        "6": {
-          "998": "Stage 2",
-          "999": "Stage 3"
-        },
         "17": {
           "989": "Hunter - Form 2",
           "990": "Sapphire - Form 2",
@@ -10088,6 +10134,15 @@
           "995": "Obsidian - Form 2",
           "996": "Ruby - Form 2",
           "997": "Form 2"
+        },
+        "77": {
+          "986": "Yellow",
+          "987": "Pink",
+          "988": "Blue"
+        },
+        "6": {
+          "998": "Stage 2",
+          "999": "Stage 3"
         }
       }
     },
@@ -11244,11 +11299,11 @@
         "1": "Giant Enemy Crabgot",
         "2": "Butcher Urgot",
         "3": "Battlecast Urgot",
-        "9": "High Noon Urgot",
-        "15": "Pajama Guardian Cosplay Urgot",
         "23": "Fright Night Urgot",
         "32": "Urgot the Clogfather",
-        "41": "Old God Urgot"
+        "41": "Old God Urgot",
+        "9": "High Noon Urgot",
+        "15": "Pajama Guardian Cosplay Urgot"
       },
       "chromas": {
         "3": {
@@ -11257,22 +11312,6 @@
           "6": "Pearl",
           "7": "Tanzanite",
           "8": "Obsidian"
-        },
-        "9": {
-          "10": "Tanzanite",
-          "11": "Turquoise",
-          "12": "Ruby",
-          "13": "Pearl",
-          "14": "Sapphire"
-        },
-        "15": {
-          "16": "Ruby",
-          "17": "Rose Quartz",
-          "18": "Emerald",
-          "19": "Catseye",
-          "20": "Pearl",
-          "21": "Amethyst",
-          "22": "Obsidian"
         },
         "23": {
           "24": "Ruby",
@@ -11303,6 +11342,22 @@
           "47": "Rose Quartz",
           "48": "Pearl",
           "49": "Obsidian"
+        },
+        "9": {
+          "10": "Tanzanite",
+          "11": "Turquoise",
+          "12": "Ruby",
+          "13": "Pearl",
+          "14": "Sapphire"
+        },
+        "15": {
+          "16": "Ruby",
+          "17": "Rose Quartz",
+          "18": "Emerald",
+          "19": "Catseye",
+          "20": "Pearl",
+          "21": "Amethyst",
+          "22": "Obsidian"
         }
       },
       "forms": {}
@@ -13155,7 +13210,8 @@
         "20": "EDG Zoe",
         "22": "Winterblessed Zoe",
         "33": "Dark Star Zoe",
-        "43": "Prestige Eternal Aspect Zoe"
+        "43": "Prestige Eternal Aspect Zoe",
+        "45": "Cafe Cuties Zoe"
       },
       "chromas": {
         "2": {
@@ -13204,6 +13260,16 @@
         },
         "43": {
           "44": "Vivid"
+        },
+        "45": {
+          "46": "Ruby",
+          "47": "Catseye",
+          "48": "Emerald",
+          "49": "Amethyst",
+          "50": "Sapphire",
+          "51": "Rose Quartz",
+          "52": "Pearl",
+          "53": "Obsidian"
         }
       },
       "forms": {}

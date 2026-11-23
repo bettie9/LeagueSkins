@@ -19,15 +19,15 @@ Download individual `.fantome` packages here, or browse and install them directl
 
 | Collection | Packages | Coverage | Catalog |
 | --- | ---: | --- | --- |
-| [Champion skins](skins/) | 9,777 | Skins, chromas and forms for 173 normal LoL champions | [index.json](index.json) |
-| [Rainbow](rainbow/) | 562 | In-game chroma switching for 151 champions | [rainbow/index.json](rainbow/index.json) |
-| [PBE skins](PBE/README.md) | 27 | New skins and chromas for live League | [PBE/index.json](PBE/index.json) |
-| [League Classic](classic/) | 1,734 | Skins, chromas and variants for 77 Classic champions | [classic/index.json](classic/index.json) |
-| [Emotes](emotes/) | 2,106 | Replacements for the default thumbs-up emote | [emotes-index.json](emotes-index.json) |
-| [Nexus finishers](finishers/) | 6 | Default Nexus destruction effects and sounds | [finishers-index.json](finishers-index.json) |
+| [Champion skins](skins/) | 9,831 | Skins, chromas and forms for 173 normal LoL champions | [index.json](index.json) |
+| [Rainbow](rainbow/) | 566 | In-game chroma switching for 151 champions | [rainbow/index.json](rainbow/index.json) |
+| [PBE skins](PBE/README.md) | 41 | New skins and chromas for live League | [PBE/index.json](PBE/index.json) |
+| [League Classic](classic/) | 1,807 | Skins, chromas and variants for 86 Classic champions | [classic/index.json](classic/index.json) |
+| [Emotes](emotes/) | 2,130 | Replacements for the default thumbs-up emote | [emotes-index.json](emotes-index.json) |
+| [Nexus finishers](finishers/) | 7 | Default Nexus destruction effects and sounds | [finishers-index.json](finishers-index.json) |
 | [Wards / Totems](wards/) | 265 | Replacements for default ward and trinket appearances | [wards-index.json](wards-index.json) |
 
-*Main library snapshot: October 21, 2026. Five True Damage skins, 28 chromas and 17 emotes added from live patch 16.21. Existing packages retain their original build provenance. PBE collection rebuilt for live 16.21 on October 21, 2026 (package version 0.4.0). Counts include individual variants; older duplicate download names are excluded.*
+*Updated for live patch 16.23, with PBE 16.24 packages prepared for live. DJ Sona Ultimate Remix includes separate Blue, Pink and Yellow forms. In-game testing continues; some skin sound issues remain under investigation.*
 
 **Choose the collection for your game mode.** Packages in `skins/` target normal LoL champions. Packages in `classic/` target the `Jade_*` champions used by League Classic; they do not turn normal LoL champions into their Classic versions.
 

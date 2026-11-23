@@ -1,5 +1,5 @@
 {
-  "patch": "16.20",
+  "patch": "16.23",
   "champions": {
     "Aatrox": {
       "skins": {
@@ -269,7 +269,8 @@
     },
     "Gragas": {
       "skins": {
-        "29": "High Noon Gragas"
+        "29": "High Noon Gragas",
+        "39": "Music Fan Gragas"
       }
     },
     "Graves": {
@@ -387,7 +388,8 @@
       "skins": {
         "1": "Bullet Angel Kai'Sa",
         "16": "iG Kai'Sa",
-        "26": "K/DA ALL OUT Kai'Sa"
+        "26": "K/DA ALL OUT Kai'Sa",
+        "83": "K/DA FIRESTARTER Kai'Sa"
       }
     },
     "Kalista": {
@@ -433,7 +435,7 @@
     },
     "Kennen": {
       "skins": {
-        "4": "Kennen M.D.",
+        "4": "Kennen M.D",
         "8": "Infernal Kennen",
         "23": "DWG Kennen"
       }
@@ -633,7 +635,8 @@
     "Neeko": {
       "skins": {
         "31": "Street Demons Neeko",
-        "40": "Cosplayer Neeko"
+        "40": "Cosplayer Neeko",
+        "50": "Cafe Cuties Neeko"
       }
     },
     "Nidalee": {
@@ -991,8 +994,8 @@
     "Urgot": {
       "skins": {
         "3": "Battlecast Urgot",
-        "9": "High Noon Urgot",
-        "32": "Urgot the Clogfather"
+        "32": "Urgot the Clogfather",
+        "9": "High Noon Urgot"
       }
     },
     "Varus": {
@@ -1156,7 +1159,8 @@
     "Zoe": {
       "skins": {
         "9": "Star Guardian Zoe",
-        "20": "EDG Zoe"
+        "20": "EDG Zoe",
+        "45": "Cafe Cuties Zoe"
       }
     },
     "Zyra": {
