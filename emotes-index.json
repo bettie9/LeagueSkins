@@ -1,5 +1,5 @@
 {
-  "patch": "16.22",
+  "patch": "16.23",
   "target": "thumb_happy_up",
   "emotes": {
     "10001": {
@@ -10625,6 +10625,31 @@
     "em_10152_murkwolf_happysad": {
       "name": "MurkWolf_HappySad",
       "file": "MurkWolf_HappySad.fantome",
+      "missing": []
+    },
+    "5220": {
+      "name": "Sona Spins It",
+      "file": "Sona Spins It.fantome",
+      "missing": []
+    },
+    "5219": {
+      "name": "Jam With Me",
+      "file": "Jam With Me.fantome",
+      "missing": []
+    },
+    "5222": {
+      "name": "Fearful Frosting",
+      "file": "Fearful Frosting.fantome",
+      "missing": []
+    },
+    "5221": {
+      "name": "That's My Song!",
+      "file": "That's My Song!.fantome",
+      "missing": []
+    },
+    "5223": {
+      "name": "No Sweat",
+      "file": "No Sweat.fantome",
       "missing": []
     }
   }
